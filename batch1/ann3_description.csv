@@ -1,0 +1,982 @@
+,coder,descr_id,code
+0,Zheng Z,2149zhengzhang,A1a
+1,Zheng Z,2149zhengzhang,I2
+2,Zheng Z,2149tianyi,A1a
+3,Zheng Z,2149tianyi,H2
+4,Zheng Z,2149zhengning,A1a
+5,Zheng Z,2149toby,A1a
+6,Zheng Z,532zhengzhang,BL2
+7,Zheng Z,532zhengzhang,CL1
+8,Zheng Z,532tianyi,I2
+9,Zheng Z,532tianyi,CL1
+10,Zheng Z,532tianyi,BL1
+11,Zheng Z,532zhengning,CL1
+12,Zheng Z,532zhengning,I2
+13,Zheng Z,532toby,CL1
+14,Zheng Z,532toby,I2
+15,Zheng Z,532toby,BL1
+16,Zheng Z,2094zhengzhang,KA1b
+17,Zheng Z,2094tianyi,KA1b
+18,Zheng Z,2094zhengning,KA1b
+19,Zheng Z,2094toby,KA1b
+20,Zheng Z,1125zhengzhang,BL1
+21,Zheng Z,1125tianyi,BL1
+22,Zheng Z,1125zhengning,BL1
+23,Zheng Z,1125toby,BL2
+24,Zheng Z,1125toby,BL3
+25,Zheng Z,2294zhengzhang,CM4
+26,Zheng Z,2294tianyi,D1a
+27,Zheng Z,2294tianyi,CL1
+28,Zheng Z,2294zhengning,CL1
+29,Zheng Z,2294toby,CE2
+30,Zheng Z,1274zhengzhang,D1b
+31,Zheng Z,1274tianyi,D1b
+32,Zheng Z,1274zhengning,D1b
+33,Zheng Z,1274toby,D1b
+34,Zheng Z,251zhengzhang,BL1
+35,Zheng Z,251zhengzhang,BE5
+36,Zheng Z,251tianyi,BL1
+37,Zheng Z,251zhengning,I1
+38,Zheng Z,1978zhengzhang,D1a
+39,Zheng Z,1978tianyi,D1a
+40,Zheng Z,1978toby,D1a
+41,Zheng Z,2018zhengzhang,D1a
+42,Zheng Z,2018tianyi,D1a
+43,Zheng Z,2018toby,D1a
+44,Zheng Z,1331zhengzhang,D1b
+45,Zheng Z,1331tianyi,D1b
+46,Zheng Z,1331zhengning,D1b
+47,Zheng Z,1331toby,D1b
+48,Zheng Z,1139zhengzhang,BF4
+49,Zheng Z,1139tianyi,BF4
+50,Zheng Z,1139zhengning,BF4
+51,Zheng Z,1139toby,BF4
+52,Zheng Z,2179zhengzhang,I2
+53,Zheng Z,2179tianyi,H2
+54,Zheng Z,2179tianyi,I2
+55,Zheng Z,2179zhengning,I1
+56,Zheng Z,2179zhengning,A1d
+57,Zheng Z,2179toby,I1
+58,Zheng Z,2153zhengzhang,A1a
+59,Zheng Z,2153zhengzhang,I2
+60,Zheng Z,2153tianyi,I2
+61,Zheng Z,2153tianyi,H2
+62,Zheng Z,2153zhengning,A1a
+63,Zheng Z,2153toby,I2
+64,Zheng Z,2168zhengzhang,I2
+65,Zheng Z,2168zhengzhang,BL2
+66,Zheng Z,2168tianyi,I2
+67,Zheng Z,2168zhengning,I2
+68,Zheng Z,2168zhengning,I1
+69,Zheng Z,2168toby,BL2
+70,Zheng Z,2168toby,BL1
+71,Zheng Z,2000zhengzhang,BL3
+72,Zheng Z,2000zhengzhang,I2
+73,Zheng Z,2000tianyi,BL3
+74,Zheng Z,2000tianyi,H2
+75,Zheng Z,2000zhengning,BL3
+76,Zheng Z,2000zhengning,I1
+77,Zheng Z,2000toby,BL3
+78,Zheng Z,2000toby,I1
+79,Zheng Z,1961zhengzhang,CF5
+80,Zheng Z,1961tianyi,CF5
+81,Zheng Z,1961tianyi,I2
+82,Zheng Z,1961zhengning,I1
+83,Zheng Z,1961zhengning,CF5
+84,Zheng Z,1961toby,I2
+85,Zheng Z,1961toby,E1
+86,Zheng Z,1578zhengzhang,CE3
+87,Zheng Z,1578zhengzhang,BE5
+88,Zheng Z,1578tianyi,CE3
+89,Zheng Z,1578tianyi,CE5
+90,Zheng Z,1578zhengning,CE3
+91,Zheng Z,1578toby,CE3
+92,Zheng Z,1578toby,CE5
+93,Zheng Z,1585zhengzhang,BL3
+94,Zheng Z,1585tianyi,BL3
+95,Zheng Z,1585zhengning,BL3
+96,Zheng Z,1585toby,BL3
+97,Zheng Z,1671zhengzhang,KA1b
+98,Zheng Z,1671tianyi,KA1b
+99,Zheng Z,1671zhengning,KA1b
+100,Zheng Z,1671toby,KA1b
+101,Zheng Z,1704zhengzhang,F1
+102,Zheng Z,1704tianyi,F1
+103,Zheng Z,1704zhengning,I1
+104,Zheng Z,1704zhengning,F1
+105,Zheng Z,1704toby,F1
+106,Zheng Z,2373zhengzhang,CL1
+107,Zheng Z,2373zhengzhang,CE3
+108,Zheng Z,2373tianyi,CL1
+109,Zheng Z,2373tianyi,CE3
+110,Zheng Z,2373zhengning,CE3
+111,Zheng Z,2373toby,CL1
+112,Zheng Z,798zhengzhang,BL1
+113,Zheng Z,798zhengning,G
+114,Zheng Z,798toby,G
+115,Zheng Z,798toby,BL1
+116,Zheng Z,1131zhengzhang,BF4
+117,Zheng Z,1131zhengzhang,D1
+118,Zheng Z,1131tianyi,BL1
+119,Zheng Z,1131tianyi,H1
+120,Zheng Z,1131zhengning,BL3
+121,Zheng Z,1131zhengning,I1
+122,Zheng Z,1131toby,BL1
+123,Zheng Z,1131toby,I1
+124,Zheng Z,2374zhengzhang,CE2
+125,Zheng Z,2374zhengzhang,CL1
+126,Zheng Z,2374tianyi,CE2
+127,Zheng Z,2374tianyi,CL1
+128,Zheng Z,2374zhengning,CL1
+129,Zheng Z,2374zhengning,H1
+130,Zheng Z,2374toby,CL1
+131,Zheng Z,1151zhengzhang,BF4
+132,Zheng Z,1151tianyi,BF4
+133,Zheng Z,1151zhengning,I1
+134,Zheng Z,1151toby,G
+135,Zheng Z,1151toby,I1
+136,Zheng Z,1151toby,BF4
+137,Zheng Z,2051zhengzhang,CE2
+138,Zheng Z,2051zhengzhang,BL1
+139,Zheng Z,2051tianyi,BL1
+140,Zheng Z,2051tianyi,CE2
+141,Zheng Z,2051tianyi,CL1
+142,Zheng Z,2051zhengning,BE5
+143,Zheng Z,2051toby,BL1
+144,Zheng Z,1880zhengzhang,BL1
+145,Zheng Z,1880tianyi,BL1
+146,Zheng Z,1880tianyi,BN1
+147,Zheng Z,1880zhengning,BL3
+148,Zheng Z,1880zhengning,I1
+149,Zheng Z,1880toby,I1
+150,Zheng Z,1880toby,F1
+151,Zheng Z,2069zhengzhang,CE3
+152,Zheng Z,2069tianyi,CE3
+153,Zheng Z,2069tianyi,BE5
+154,Zheng Z,2069zhengning,CM6
+155,Zheng Z,2069toby,CE3
+156,Zheng Z,2367zhengzhang,BL1
+157,Zheng Z,2367tianyi,I2
+158,Zheng Z,2367zhengning,A1d
+159,Zheng Z,2367toby,F3
+160,Zheng Z,2367toby,BL1
+161,Zheng Z,2312zhengzhang,BL1
+162,Zheng Z,2312tianyi,H2
+163,Zheng Z,2312zhengning,A1e
+164,Zheng Z,361zhengzhang,D1b
+165,Zheng Z,361tianyi,D1b
+166,Zheng Z,361zhengning,D1b
+167,Zheng Z,361toby,D1b
+168,Zheng Z,2037zhengzhang,L4
+169,Zheng Z,2037tianyi,H2
+170,Zheng Z,2037zhengning,I1
+171,Zheng Z,2037toby,I1
+172,Zheng Z,2037toby,F2
+173,Zheng Z,1841zhengzhang,A1b
+174,Zheng Z,1841tianyi,A1b
+175,Zheng Z,1841zhengning,A1b
+176,Zheng Z,1841toby,A1b
+177,Zheng Z,2078zhengzhang,CE2
+178,Zheng Z,2078tianyi,F4
+179,Zheng Z,2078tianyi,CM6
+180,Zheng Z,2078zhengning,BF4
+181,Zheng Z,2078toby,CM4
+182,Zheng Z,2151zhengzhang,KA1b
+183,Zheng Z,2151tianyi,KA1b
+184,Zheng Z,2151zhengning,KA1b
+185,Zheng Z,2151toby,KA1b
+186,Zheng Z,2025zhengzhang,D1a
+187,Zheng Z,2025tianyi,A1b
+188,Zheng Z,2025tianyi,D1a
+189,Zheng Z,2025tianyi,BF4
+190,Zheng Z,2025zhengning,A1b
+191,Zheng Z,2025zhengning,D1a
+192,Zheng Z,2025toby,H2
+193,Zheng Z,2025toby,D1a
+194,Zheng Z,2070zhengzhang,CE3
+195,Zheng Z,2070tianyi,E1
+196,Zheng Z,2070tianyi,F4
+197,Zheng Z,2070zhengning,CE3
+198,Zheng Z,2070toby,CE3
+199,Zheng Z,2070toby,BE5
+200,Zheng Z,1804zhengzhang,D1c
+201,Zheng Z,1804tianyi,D1c
+202,Zheng Z,1804zhengning,D1c
+203,Zheng Z,1804toby,D1c
+204,Zheng Z,1747zhengzhang,BL1
+205,Zheng Z,1747tianyi,BL1
+206,Zheng Z,1747zhengning,BE5
+207,Zheng Z,1747toby,BL1
+208,Zheng Z,1673zhengzhang,BL2
+209,Zheng Z,1673tianyi,BL2
+210,Zheng Z,1673tianyi,CM6
+211,Zheng Z,1673zhengning,CM6
+212,Zheng Z,1673zhengning,BL1
+213,Zheng Z,1673toby,BL2
+214,Zheng Z,2310zhengzhang,CM6
+215,Zheng Z,2310tianyi,CM6
+216,Zheng Z,2310zhengning,CM6
+217,Zheng Z,2310toby,CM6
+218,Zheng Z,2061zhengzhang,CE2
+219,Zheng Z,2061tianyi,A1b
+220,Zheng Z,2061tianyi,CE2
+221,Zheng Z,2061zhengning,CE2
+222,Zheng Z,2061zhengning,A1b
+223,Zheng Z,2061toby,CE2
+224,Zheng Z,478zhengzhang,D1a
+225,Zheng Z,478tianyi,D1a
+226,Zheng Z,478zhengning,D1a
+227,Zheng Z,478toby,D1a
+228,Zheng Z,1189zhengzhang,E1
+229,Zheng Z,1189tianyi,H2
+230,Zheng Z,1189zhengning,BE5
+231,Zheng Z,1189toby,E1
+232,Zheng Z,1563zhengzhang,BF4
+233,Zheng Z,1563tianyi,BF4
+234,Zheng Z,1563tianyi,CF5
+235,Zheng Z,1563toby,BF4
+236,Zheng Z,1563toby,CF5
+237,Zheng Z,531zhengzhang,D1a
+238,Zheng Z,531tianyi,D1a
+239,Zheng Z,531toby,D1a
+240,Zheng N,2149zhengzhang,A1a
+241,Zheng N,2149zhengzhang,A1
+242,Zheng N,2149zhengzhang,I1
+243,Zheng N,2149tianyi,A1a
+244,Zheng N,2149tianyi,H1
+245,Zheng N,2149zhengning,A1a
+246,Zheng N,2149toby,A1a
+247,Zheng N,2149toby,I1
+248,Zheng N,532zhengzhang,BL2
+249,Zheng N,532zhengzhang,CL1
+250,Zheng N,532tianyi,CL1
+251,Zheng N,532tianyi,I2
+252,Zheng N,532zhengning,I2
+253,Zheng N,532zhengning,CL1
+254,Zheng N,532toby,CL1
+255,Zheng N,532toby,BL1
+256,Zheng N,2094zhengzhang,KA1b
+257,Zheng N,2094tianyi,KA1b
+258,Zheng N,2094zhengning,KA1b
+259,Zheng N,2094toby,KA1b
+260,Zheng N,1125zhengzhang,BL1
+261,Zheng N,1125tianyi,BL1
+262,Zheng N,1125zhengning,A1
+263,Zheng N,1125toby,BL1
+264,Zheng N,1125toby,BL2
+265,Zheng N,2294zhengzhang,CL1
+266,Zheng N,2294tianyi,D1
+267,Zheng N,2294tianyi,CL1
+268,Zheng N,2294zhengning,CL1
+269,Zheng N,2294toby,CL1
+270,Zheng N,1274zhengzhang,D1b
+271,Zheng N,1274tianyi,D1b
+272,Zheng N,1274zhengning,D1b
+273,Zheng N,1274toby,D1b
+274,Zheng N,251zhengzhang,BL1
+275,Zheng N,251tianyi,BL1
+276,Zheng N,251zhengning,I2
+277,Zheng N,1978zhengzhang,D1a
+278,Zheng N,1978tianyi,D1a
+279,Zheng N,1978toby,D1a
+280,Zheng N,2018zhengzhang,D1a
+281,Zheng N,2018tianyi,D1a
+282,Zheng N,2018toby,D1a
+283,Zheng N,1331zhengzhang,D1a
+284,Zheng N,1331tianyi,D1a
+285,Zheng N,1331zhengning,D1a
+286,Zheng N,1331toby,D1a
+287,Zheng N,1139zhengzhang,BF4
+288,Zheng N,1139tianyi,BF4
+289,Zheng N,1139zhengning,BF4
+290,Zheng N,1139toby,BF4
+291,Zheng N,2179zhengzhang,I2
+292,Zheng N,2179tianyi,I2
+293,Zheng N,2179tianyi,H1
+294,Zheng N,2179zhengning,I2
+295,Zheng N,2179zhengning,A1
+296,Zheng N,2179toby,I2
+297,Zheng N,2153zhengzhang,I2
+298,Zheng N,2153tianyi,I2
+299,Zheng N,2153zhengning,I1
+300,Zheng N,2153toby,I2
+301,Zheng N,2168zhengzhang,I2
+302,Zheng N,2168zhengzhang,BL2
+303,Zheng N,2168tianyi,I2
+304,Zheng N,2168zhengning,I2
+305,Zheng N,2168toby,BL2
+306,Zheng N,2168toby,BL1
+307,Zheng N,2000zhengzhang,I2
+308,Zheng N,2000zhengzhang,BL3
+309,Zheng N,2000tianyi,BL3
+310,Zheng N,2000tianyi,H2
+311,Zheng N,2000zhengning,BL3
+312,Zheng N,2000zhengning,I2
+313,Zheng N,2000toby,BL3
+314,Zheng N,2000toby,I2
+315,Zheng N,1961zhengzhang,CL1
+316,Zheng N,1961tianyi,CL1
+317,Zheng N,1961tianyi,I2
+318,Zheng N,1961zhengning,CL1
+319,Zheng N,1961zhengning,I2
+320,Zheng N,1961toby,I2
+321,Zheng N,1961toby,F3
+322,Zheng N,1578zhengzhang,F3
+323,Zheng N,1578zhengzhang,CL2
+324,Zheng N,1578zhengzhang,BL1
+325,Zheng N,1578tianyi,CL1
+326,Zheng N,1578tianyi,BL1
+327,Zheng N,1578zhengning,CL1
+328,Zheng N,1578toby,CL1
+329,Zheng N,1578toby,BL3
+330,Zheng N,1585zhengzhang,BL3
+331,Zheng N,1585tianyi,BL3
+332,Zheng N,1585zhengning,BL3
+333,Zheng N,1585toby,BL3
+334,Zheng N,1671zhengzhang,KA1b
+335,Zheng N,1671tianyi,KA1b
+336,Zheng N,1671zhengning,KA1b
+337,Zheng N,1671toby,KA1b
+338,Zheng N,1704zhengzhang,F1
+339,Zheng N,1704zhengzhang,D1
+340,Zheng N,1704tianyi,D1
+341,Zheng N,1704zhengning,I2
+342,Zheng N,1704toby,I2
+343,Zheng N,1704toby,F1
+344,Zheng N,2373zhengzhang,CM6
+345,Zheng N,2373tianyi,CM6
+346,Zheng N,2373zhengning,CM6
+347,Zheng N,2373toby,BL1
+348,Zheng N,798zhengzhang,BL1
+349,Zheng N,798zhengning,BL1
+350,Zheng N,798toby,G
+351,Zheng N,1131zhengzhang,D1
+352,Zheng N,1131zhengzhang,BL1
+353,Zheng N,1131tianyi,BL1
+354,Zheng N,1131tianyi,H1
+355,Zheng N,1131zhengning,I2
+356,Zheng N,1131zhengning,BL3
+357,Zheng N,1131toby,I2
+358,Zheng N,1131toby,BL3
+359,Zheng N,2374zhengzhang,CE2
+360,Zheng N,2374zhengzhang,CL1
+361,Zheng N,2374tianyi,CE2
+362,Zheng N,2374tianyi,CL1
+363,Zheng N,2374zhengning,CE2
+364,Zheng N,2374zhengning,CL1
+365,Zheng N,2374toby,CL2
+366,Zheng N,1151zhengzhang,BF4
+367,Zheng N,1151tianyi,BF4
+368,Zheng N,1151zhengning,I2
+369,Zheng N,1151toby,I2
+370,Zheng N,1151toby,G
+371,Zheng N,2051zhengzhang,BL1
+372,Zheng N,2051zhengzhang,BE5
+373,Zheng N,2051tianyi,BL1
+374,Zheng N,2051tianyi,BE5
+375,Zheng N,2051zhengning,BE5
+376,Zheng N,2051toby,BE5
+377,Zheng N,1880zhengzhang,BL3
+378,Zheng N,1880tianyi,BL3
+379,Zheng N,1880zhengning,BL3
+380,Zheng N,1880zhengning,I2
+381,Zheng N,1880toby,BL3
+382,Zheng N,1880toby,I2
+383,Zheng N,2069zhengzhang,CL1
+384,Zheng N,2069zhengzhang,CE3
+385,Zheng N,2069tianyi,CL1
+386,Zheng N,2069tianyi,CE3
+387,Zheng N,2069zhengning,CL1
+388,Zheng N,2069toby,CL1
+389,Zheng N,2069toby,BE5
+390,Zheng N,2367zhengzhang,CL1
+391,Zheng N,2367zhengzhang,BE5
+392,Zheng N,2367tianyi,I2
+393,Zheng N,2367zhengning,I2
+394,Zheng N,2367toby,F3
+395,Zheng N,2312zhengzhang,BL1
+396,Zheng N,2312tianyi,H1
+397,Zheng N,2312zhengning,BL1
+398,Zheng N,361zhengzhang,D1b
+399,Zheng N,361tianyi,D1b
+400,Zheng N,361zhengning,D1b
+401,Zheng N,361toby,D1b
+402,Zheng N,2037zhengzhang,BL1
+403,Zheng N,2037tianyi,BL1
+404,Zheng N,2037zhengning,I2
+405,Zheng N,2037toby,BL1
+406,Zheng N,2037toby,I2
+407,Zheng N,1841zhengzhang,A1
+408,Zheng N,1841tianyi,H1
+409,Zheng N,1841zhengning,A1
+410,Zheng N,1841toby,A1
+411,Zheng N,2078zhengzhang,BL3
+412,Zheng N,2078tianyi,BL3
+413,Zheng N,2078tianyi,F4
+414,Zheng N,2078zhengning,BL3
+415,Zheng N,2078toby,BL3
+416,Zheng N,2151zhengzhang,KA1b
+417,Zheng N,2151tianyi,KA1b
+418,Zheng N,2151zhengning,KA1b
+419,Zheng N,2151toby,KA1b
+420,Zheng N,2025zhengzhang,D1a
+421,Zheng N,2025tianyi,D1a
+422,Zheng N,2025zhengning,D1a
+423,Zheng N,2025toby,D1a
+424,Zheng N,2070zhengzhang,CE3
+425,Zheng N,2070tianyi,CE3
+426,Zheng N,2070zhengning,CE3
+427,Zheng N,2070toby,CE3
+428,Zheng N,1804zhengzhang,D1c
+429,Zheng N,1804tianyi,D1c
+430,Zheng N,1804zhengning,D1c
+431,Zheng N,1804toby,D1c
+432,Zheng N,1747zhengzhang,BL1
+433,Zheng N,1747tianyi,BL1
+434,Zheng N,1747tianyi,BE5
+435,Zheng N,1747zhengning,BL1
+436,Zheng N,1747zhengning,BE5
+437,Zheng N,1747toby,BL1
+438,Zheng N,1673zhengzhang,BL2
+439,Zheng N,1673tianyi,BL2
+440,Zheng N,1673tianyi,CL1
+441,Zheng N,1673zhengning,CL1
+442,Zheng N,1673toby,BL2
+443,Zheng N,2310zhengzhang,CL1
+444,Zheng N,2310tianyi,CL1
+445,Zheng N,2310tianyi,BL2
+446,Zheng N,2310zhengning,CL1
+447,Zheng N,2310toby,CL1
+448,Zheng N,2061zhengzhang,CE2
+449,Zheng N,2061tianyi,CE2
+450,Zheng N,2061zhengning,CE2
+451,Zheng N,2061zhengning,A1
+452,Zheng N,2061toby,CE2
+453,Zheng N,478zhengzhang,D1a
+454,Zheng N,478tianyi,D1a
+455,Zheng N,478zhengning,D1a
+456,Zheng N,478toby,D1a
+457,Zheng N,1189zhengzhang,E1
+458,Zheng N,1189tianyi,E1
+459,Zheng N,1189zhengning,E1
+460,Zheng N,1189toby,E1
+461,Zheng N,1563zhengzhang,BF4
+462,Zheng N,1563tianyi,BF4
+463,Zheng N,1563tianyi,CF5
+464,Zheng N,1563toby,BF4
+465,Zheng N,1563toby,CF5
+466,Zheng N,531zhengzhang,D1a
+467,Zheng N,531tianyi,D1a
+468,Zheng N,531toby,D1a
+469,Toby,2149zhengzhang,A1a
+470,Toby,2149tianyi,A1a
+471,Toby,2149tianyi,I2
+472,Toby,2149zhengning,A1a
+473,Toby,2149toby,A1a
+474,Toby,2149toby,I1
+475,Toby,532zhengzhang,BL1
+476,Toby,532zhengzhang,BL2
+477,Toby,532tianyi,BL1
+478,Toby,532tianyi,CL1
+479,Toby,532tianyi,I2
+480,Toby,532zhengning,CL1
+481,Toby,532zhengning,CM6
+482,Toby,532toby,CL1
+483,Toby,532toby,CM6
+484,Toby,532toby,BL1
+485,Toby,2094zhengzhang,I1
+486,Toby,2094zhengzhang,KA1b
+487,Toby,2094tianyi,I1
+488,Toby,2094tianyi,KA1b
+489,Toby,2094zhengning,I1
+490,Toby,2094zhengning,KA1b
+491,Toby,2094toby,I1
+492,Toby,2094toby,KA1b
+493,Toby,1125zhengzhang,BL1
+494,Toby,1125tianyi,BL1
+495,Toby,1125zhengning,D1
+496,Toby,1125toby,I1
+497,Toby,2294zhengzhang,CL1
+498,Toby,2294zhengzhang,CM4
+499,Toby,2294tianyi,CL1
+500,Toby,2294tianyi,CM4
+501,Toby,2294tianyi,D1a
+502,Toby,2294zhengning,CM4
+503,Toby,2294toby,CM4
+504,Toby,2294toby,BL1
+505,Toby,1274zhengzhang,D1b
+506,Toby,1274tianyi,D1b
+507,Toby,1274zhengning,D1b
+508,Toby,1274toby,D1b
+509,Toby,251zhengzhang,BL1
+510,Toby,251tianyi,BL1
+511,Toby,251zhengning,I1
+512,Toby,1978zhengzhang,D1a
+513,Toby,1978tianyi,D1a
+514,Toby,1978toby,D1a
+515,Toby,2018zhengzhang,D1a
+516,Toby,2018tianyi,D1a
+517,Toby,2018toby,D1a
+518,Toby,1331zhengzhang,D1b
+519,Toby,1331tianyi,D1b
+520,Toby,1331zhengning,D1b
+521,Toby,1331toby,D1b
+522,Toby,1139zhengzhang,BF4
+523,Toby,1139tianyi,BF4
+524,Toby,1139zhengning,BF4
+525,Toby,1139toby,BF4
+526,Toby,2179zhengzhang,I1
+527,Toby,2179tianyi,I1
+528,Toby,2179zhengning,I1
+529,Toby,2179toby,I1
+530,Toby,2153zhengzhang,I1
+531,Toby,2153tianyi,I1
+532,Toby,2153tianyi,A1a
+533,Toby,2153zhengning,A1a
+534,Toby,2153toby,I1
+535,Toby,2168zhengzhang,I1
+536,Toby,2168tianyi,I1
+537,Toby,2168tianyi,BL1
+538,Toby,2168zhengning,I1
+539,Toby,2168zhengning,BL1
+540,Toby,2168toby,I1
+541,Toby,2168toby,BL1
+542,Toby,2000zhengzhang,I1
+543,Toby,2000tianyi,I1
+544,Toby,2000tianyi,BL1
+545,Toby,2000zhengning,I1
+546,Toby,2000toby,I1
+547,Toby,2000toby,BL1
+548,Toby,1961zhengzhang,CM4
+549,Toby,1961tianyi,CM4
+550,Toby,1961tianyi,I1
+551,Toby,1961zhengning,CM4
+552,Toby,1961zhengning,I1
+553,Toby,1961toby,BL1
+554,Toby,1961toby,I1
+555,Toby,1578zhengzhang,CE3
+556,Toby,1578tianyi,CE3
+557,Toby,1578tianyi,BL1
+558,Toby,1578zhengning,CE3
+559,Toby,1578toby,CE3
+560,Toby,1578toby,BL1
+561,Toby,1585zhengzhang,BL3
+562,Toby,1585tianyi,BL3
+563,Toby,1585zhengning,BL3
+564,Toby,1585zhengning,I1
+565,Toby,1585toby,BL3
+566,Toby,1671zhengzhang,I1
+567,Toby,1671zhengzhang,KA1b
+568,Toby,1671tianyi,I1
+569,Toby,1671tianyi,KA1b
+570,Toby,1671zhengning,I1
+571,Toby,1671zhengning,KA1b
+572,Toby,1671toby,I1
+573,Toby,1671toby,KA1b
+574,Toby,1704zhengzhang,F1
+575,Toby,1704tianyi,F1
+576,Toby,1704zhengning,I1
+577,Toby,1704toby,I1
+578,Toby,2373zhengzhang,CM4
+579,Toby,2373tianyi,CM4
+580,Toby,2373zhengning,CM4
+581,Toby,2373toby,CM4
+582,Toby,798zhengzhang,BL1
+583,Toby,798zhengning,G
+584,Toby,1131zhengzhang,BL1
+585,Toby,1131zhengzhang,D1
+586,Toby,1131tianyi,I1
+587,Toby,1131tianyi,D1
+588,Toby,1131zhengning,I1
+589,Toby,1131toby,BL1
+590,Toby,1131toby,I1
+591,Toby,2374zhengzhang,BE5
+592,Toby,2374tianyi,BE5
+593,Toby,2374zhengning,BL1
+594,Toby,2374toby,BL1
+595,Toby,2374toby,CL1
+596,Toby,1151zhengzhang,BL1
+597,Toby,1151zhengzhang,F1
+598,Toby,1151tianyi,BL1
+599,Toby,1151zhengning,I1
+600,Toby,2051zhengzhang,CE3
+601,Toby,2051tianyi,CE3
+602,Toby,2051tianyi,BL1
+603,Toby,2051zhengning,BE5
+604,Toby,2051toby,BL1
+605,Toby,1880zhengzhang,BL1
+606,Toby,1880tianyi,BL3
+607,Toby,1880zhengning,I1
+608,Toby,1880toby,I1
+609,Toby,2069zhengzhang,CE3
+610,Toby,2069tianyi,CE3
+611,Toby,2069tianyi,BE5
+612,Toby,2069zhengning,CE3
+613,Toby,2069toby,BE5
+614,Toby,2367zhengzhang,BE5
+615,Toby,2367tianyi,I1
+616,Toby,2367tianyi,DF2
+617,Toby,2367zhengning,I1
+618,Toby,2367zhengning,A1
+619,Toby,2367zhengning,A1a
+620,Toby,2367toby,F3
+621,Toby,2312zhengzhang,BL1
+622,Toby,2312zhengzhang,I1
+623,Toby,2312tianyi,H2
+624,Toby,2312zhengning,A1
+625,Toby,361zhengzhang,D1b
+626,Toby,361tianyi,D1b
+627,Toby,361zhengning,D1b
+628,Toby,361toby,D1b
+629,Toby,2037zhengzhang,BL1
+630,Toby,2037tianyi,H2
+631,Toby,2037zhengning,I1
+632,Toby,2037zhengning,A1c
+633,Toby,2037toby,I1
+634,Toby,2037toby,A1c
+635,Toby,1841zhengzhang,I1
+636,Toby,1841zhengzhang,A1b
+637,Toby,1841tianyi,H2
+638,Toby,1841tianyi,A1b
+639,Toby,1841zhengning,A1b
+640,Toby,2078zhengzhang,CE3
+641,Toby,2078tianyi,CE3
+642,Toby,2078tianyi,F3
+643,Toby,2078tianyi,F4
+644,Toby,2078zhengning,BE5
+645,Toby,2078zhengning,D1a
+646,Toby,2078toby,CE2
+647,Toby,2151zhengzhang,KA1b
+648,Toby,2151tianyi,KA1b
+649,Toby,2151zhengning,KA1b
+650,Toby,2151toby,KA1b
+651,Toby,2025zhengzhang,D1a
+652,Toby,2025tianyi,A1b
+653,Toby,2025tianyi,H2
+654,Toby,2025tianyi,CM4
+655,Toby,2025tianyi,CL1
+656,Toby,2025tianyi,D1a
+657,Toby,2025zhengning,A1b
+658,Toby,2025zhengning,D1a
+659,Toby,2025toby,F3
+660,Toby,2070zhengzhang,BE5
+661,Toby,2070tianyi,BE5
+662,Toby,2070zhengning,CE3
+663,Toby,2070toby,BE5
+664,Toby,2070toby,CE3
+665,Toby,1804zhengzhang,D1c
+666,Toby,1804tianyi,D1c
+667,Toby,1804zhengning,D1c
+668,Toby,1804toby,D1c
+669,Toby,1747zhengzhang,BL1
+670,Toby,1747tianyi,BL1
+671,Toby,1747tianyi,CL1
+672,Toby,1747zhengning,BL2
+673,Toby,1747zhengning,F3
+674,Toby,1747toby,BL1
+675,Toby,1673zhengzhang,BL1
+676,Toby,1673zhengzhang,BL2
+677,Toby,1673tianyi,BL2
+678,Toby,1673tianyi,BE5
+679,Toby,1673zhengning,BL1
+680,Toby,1673zhengning,CE3
+681,Toby,2310zhengzhang,CL1
+682,Toby,2310tianyi,CL1
+683,Toby,2310tianyi,I1
+684,Toby,2310zhengning,CL1
+685,Toby,2310toby,CL1
+686,Toby,2061zhengzhang,CE2
+687,Toby,2061tianyi,A1b
+688,Toby,2061zhengning,CE2
+689,Toby,2061toby,CE2
+690,Toby,478zhengzhang,D1a
+691,Toby,478tianyi,D1a
+692,Toby,478zhengning,D1a
+693,Toby,478toby,D1a
+694,Toby,1189zhengzhang,E1
+695,Toby,1189tianyi,E1
+696,Toby,1189zhengning,CL1
+697,Toby,1189zhengning,D1a
+698,Toby,1189toby,E1
+699,Toby,1189toby,H2
+700,Toby,1563zhengzhang,BF4
+701,Toby,1563tianyi,BF4
+702,Toby,1563tianyi,CF5
+703,Toby,1563toby,BF4
+704,Toby,1563toby,CF5
+705,Toby,531zhengzhang,D1a
+706,Toby,531tianyi,D1a
+707,Toby,531toby,D1a
+708,Tianyi,2149zhengzhang,A1a
+709,Tianyi,2149tianyi,A1a
+710,Tianyi,2149tianyi,H2
+711,Tianyi,2149tianyi,I1
+712,Tianyi,2149zhengning,A1a
+713,Tianyi,2149toby,A1a
+714,Tianyi,532zhengzhang,BL2
+715,Tianyi,532tianyi,CL1
+716,Tianyi,532tianyi,BL1
+717,Tianyi,532tianyi,I1
+718,Tianyi,532zhengning,CL1
+719,Tianyi,532zhengning,I1
+720,Tianyi,532toby,BL1
+721,Tianyi,532toby,CL1
+722,Tianyi,532toby,I1
+723,Tianyi,2094zhengzhang,KA1b
+724,Tianyi,2094tianyi,KA1b
+725,Tianyi,2094zhengning,KA1b
+726,Tianyi,2094toby,KA1b
+727,Tianyi,1125zhengzhang,BL1
+728,Tianyi,1125tianyi,BL2
+729,Tianyi,1125tianyi,BL3
+730,Tianyi,1125zhengning,BL1
+731,Tianyi,1125toby,BL2
+732,Tianyi,1125toby,BL3
+733,Tianyi,2294zhengzhang,CL1
+734,Tianyi,2294zhengzhang,CM6
+735,Tianyi,2294tianyi,CL1
+736,Tianyi,2294tianyi,D1
+737,Tianyi,2294tianyi,I1
+738,Tianyi,2294tianyi,CM6
+739,Tianyi,2294zhengning,CL1
+740,Tianyi,2294zhengning,CM6
+741,Tianyi,2294toby,CL1
+742,Tianyi,2294toby,CM6
+743,Tianyi,2294toby,CE2
+744,Tianyi,1274zhengzhang,D1b
+745,Tianyi,1274tianyi,D1b
+746,Tianyi,1274zhengning,D1b
+747,Tianyi,1274toby,D1b
+748,Tianyi,251zhengzhang,BL1
+749,Tianyi,251tianyi,I1
+750,Tianyi,251tianyi,BL1
+751,Tianyi,251zhengning,I1
+752,Tianyi,1978zhengzhang,D1a
+753,Tianyi,1978tianyi,D1a
+754,Tianyi,1978toby,D1a
+755,Tianyi,2018zhengzhang,D1a
+756,Tianyi,2018tianyi,D1a
+757,Tianyi,2018toby,D1a
+758,Tianyi,1331zhengzhang,D1a
+759,Tianyi,1331zhengzhang,D1b
+760,Tianyi,1331tianyi,D1a
+761,Tianyi,1331tianyi,D1b
+762,Tianyi,1331zhengning,D1a
+763,Tianyi,1331zhengning,D1b
+764,Tianyi,1331toby,D1a
+765,Tianyi,1331toby,D1b
+766,Tianyi,1139zhengzhang,BF4
+767,Tianyi,1139tianyi,BF4
+768,Tianyi,1139tianyi,I1
+769,Tianyi,1139zhengning,BF4
+770,Tianyi,1139toby,BF4
+771,Tianyi,2179zhengzhang,I1
+772,Tianyi,2179tianyi,I1
+773,Tianyi,2179tianyi,H1
+774,Tianyi,2179zhengning,I1
+775,Tianyi,2179zhengning,A1d
+776,Tianyi,2179zhengning,DF2
+777,Tianyi,2179toby,I1
+778,Tianyi,2179toby,D1
+779,Tianyi,2179toby,DF2
+780,Tianyi,2153zhengzhang,I1
+781,Tianyi,2153zhengzhang,A1a
+782,Tianyi,2153tianyi,I1
+783,Tianyi,2153tianyi,H1
+784,Tianyi,2153tianyi,A1a
+785,Tianyi,2153zhengning,A1a
+786,Tianyi,2153toby,I1
+787,Tianyi,2168zhengzhang,I1
+788,Tianyi,2168zhengzhang,BL2
+789,Tianyi,2168tianyi,I1
+790,Tianyi,2168tianyi,BL3
+791,Tianyi,2168zhengning,I1
+792,Tianyi,2168zhengning,I2
+793,Tianyi,2168toby,BL2
+794,Tianyi,2168toby,I1
+795,Tianyi,2000zhengzhang,BL3
+796,Tianyi,2000zhengzhang,I2
+797,Tianyi,2000tianyi,BL3
+798,Tianyi,2000tianyi,H1
+799,Tianyi,2000tianyi,I2
+800,Tianyi,2000zhengning,BL3
+801,Tianyi,2000zhengning,I1
+802,Tianyi,2000toby,BL3
+803,Tianyi,2000toby,I1
+804,Tianyi,1961zhengzhang,CE3
+805,Tianyi,1961tianyi,CL1
+806,Tianyi,1961tianyi,BE5
+807,Tianyi,1961zhengning,I1
+808,Tianyi,1961toby,F4
+809,Tianyi,1578zhengzhang,CE3
+810,Tianyi,1578zhengzhang,BE5
+811,Tianyi,1578tianyi,CE3
+812,Tianyi,1578tianyi,BE5
+813,Tianyi,1578tianyi,I1
+814,Tianyi,1578zhengning,CE3
+815,Tianyi,1578toby,CE3
+816,Tianyi,1585zhengzhang,BL3
+817,Tianyi,1585tianyi,BL3
+818,Tianyi,1585zhengning,BL3
+819,Tianyi,1585toby,BL3
+820,Tianyi,1671zhengzhang,KA1b
+821,Tianyi,1671tianyi,KA1b
+822,Tianyi,1671zhengning,I1
+823,Tianyi,1671zhengning,KA1b
+824,Tianyi,1671toby,KA1b
+825,Tianyi,1704zhengzhang,F1
+826,Tianyi,1704tianyi,F1
+827,Tianyi,1704zhengning,I1
+828,Tianyi,1704zhengning,F1
+829,Tianyi,1704toby,F1
+830,Tianyi,2373zhengzhang,CL1
+831,Tianyi,2373tianyi,CL1
+832,Tianyi,2373zhengning,CL1
+833,Tianyi,2373toby,CL1
+834,Tianyi,798zhengzhang,BL1
+835,Tianyi,798tianyi,BL1
+836,Tianyi,798tianyi,I1
+837,Tianyi,798tianyi,G
+838,Tianyi,798zhengning,G
+839,Tianyi,798toby,G
+840,Tianyi,798toby,BL1
+841,Tianyi,1131zhengzhang,BL2
+842,Tianyi,1131zhengzhang,H2
+843,Tianyi,1131tianyi,BL2
+844,Tianyi,1131tianyi,BL3
+845,Tianyi,1131tianyi,H1
+846,Tianyi,1131tianyi,H2
+847,Tianyi,1131zhengning,I1
+848,Tianyi,1131zhengning,BL3
+849,Tianyi,1131toby,I1
+850,Tianyi,1131toby,BL3
+851,Tianyi,2374zhengzhang,H2
+852,Tianyi,2374zhengzhang,CL1
+853,Tianyi,2374tianyi,CE2
+854,Tianyi,2374tianyi,CL1
+855,Tianyi,2374zhengning,CL1
+856,Tianyi,2374zhengning,H1
+857,Tianyi,2374toby,BL1
+858,Tianyi,1151zhengzhang,BF4
+859,Tianyi,1151tianyi,G
+860,Tianyi,1151tianyi,BF4
+861,Tianyi,1151zhengning,I1
+862,Tianyi,1151toby,G
+863,Tianyi,1151toby,BF4
+864,Tianyi,1151toby,I1
+865,Tianyi,2051zhengzhang,CE2
+866,Tianyi,2051zhengzhang,BL1
+867,Tianyi,2051tianyi,CE2
+868,Tianyi,2051tianyi,BL1
+869,Tianyi,2051tianyi,CL2
+870,Tianyi,2051zhengning,BF4
+871,Tianyi,2051toby,BL1
+872,Tianyi,1880zhengzhang,BL3
+873,Tianyi,1880tianyi,BL3
+874,Tianyi,1880tianyi,E1
+875,Tianyi,1880tianyi,BN1
+876,Tianyi,1880zhengning,BL3
+877,Tianyi,1880zhengning,I1
+878,Tianyi,1880toby,I1
+879,Tianyi,1880toby,F1
+880,Tianyi,2069zhengzhang,CE3
+881,Tianyi,2069tianyi,CE3
+882,Tianyi,2069tianyi,BE5
+883,Tianyi,2069zhengning,CL1
+884,Tianyi,2069zhengning,CM6
+885,Tianyi,2069toby,CE3
+886,Tianyi,2367zhengzhang,CL1
+887,Tianyi,2367zhengzhang,BL1
+888,Tianyi,2367tianyi,BL1
+889,Tianyi,2367tianyi,I1
+890,Tianyi,2367tianyi,H2
+891,Tianyi,2367zhengning,A1d
+892,Tianyi,2367toby,F3
+893,Tianyi,2312zhengzhang,A1e
+894,Tianyi,2312tianyi,A1e
+895,Tianyi,2312zhengning,A1e
+896,Tianyi,361zhengzhang,D1b
+897,Tianyi,361tianyi,D1b
+898,Tianyi,361zhengning,D1b
+899,Tianyi,361toby,D1b
+900,Tianyi,2037zhengzhang,L4
+901,Tianyi,2037tianyi,H2
+902,Tianyi,2037zhengning,I1
+903,Tianyi,2037toby,I1
+904,Tianyi,2037toby,F2
+905,Tianyi,1841zhengzhang,A1b
+906,Tianyi,1841tianyi,A1b
+907,Tianyi,1841zhengning,A1b
+908,Tianyi,1841toby,A1b
+909,Tianyi,2078zhengzhang,CE2
+910,Tianyi,2078tianyi,CM6
+911,Tianyi,2078tianyi,CE2
+912,Tianyi,2078tianyi,F3
+913,Tianyi,2078zhengning,BL1
+914,Tianyi,2078toby,CM4
+915,Tianyi,2151zhengzhang,KA1b
+916,Tianyi,2151tianyi,KA1b
+917,Tianyi,2151tianyi,CE2
+918,Tianyi,2151zhengning,KA1b
+919,Tianyi,2151toby,KA1b
+920,Tianyi,2025zhengzhang,D1a
+921,Tianyi,2025tianyi,A1b
+922,Tianyi,2025tianyi,D1a
+923,Tianyi,2025tianyi,E1
+924,Tianyi,2025zhengning,D1a
+925,Tianyi,2025zhengning,A1b
+926,Tianyi,2025toby,DF2
+927,Tianyi,2025toby,D1a
+928,Tianyi,2070zhengzhang,CE3
+929,Tianyi,2070tianyi,G
+930,Tianyi,2070tianyi,CE2
+931,Tianyi,2070tianyi,CE3
+932,Tianyi,2070tianyi,E1
+933,Tianyi,2070zhengning,CE3
+934,Tianyi,2070toby,BE5
+935,Tianyi,2070toby,CE3
+936,Tianyi,1804zhengzhang,D1
+937,Tianyi,1804tianyi,D1
+938,Tianyi,1804zhengning,D1
+939,Tianyi,1804toby,D1
+940,Tianyi,1747zhengzhang,BL1
+941,Tianyi,1747zhengzhang,CL1
+942,Tianyi,1747tianyi,BL1
+943,Tianyi,1747tianyi,CL1
+944,Tianyi,1747zhengning,BE5
+945,Tianyi,1747toby,CL1
+946,Tianyi,1673zhengzhang,BL1
+947,Tianyi,1673tianyi,BL1
+948,Tianyi,1673zhengning,BL1
+949,Tianyi,1673zhengning,CL1
+950,Tianyi,1673toby,BL1
+951,Tianyi,2310zhengzhang,CL1
+952,Tianyi,2310zhengzhang,CM6
+953,Tianyi,2310tianyi,CL1
+954,Tianyi,2310tianyi,CM6
+955,Tianyi,2310zhengning,CL1
+956,Tianyi,2310zhengning,CM6
+957,Tianyi,2310toby,CL1
+958,Tianyi,2310toby,CM6
+959,Tianyi,2061zhengzhang,CE2
+960,Tianyi,2061tianyi,CE2
+961,Tianyi,2061tianyi,A1b
+962,Tianyi,2061zhengning,CE2
+963,Tianyi,2061zhengning,A1b
+964,Tianyi,2061toby,CE2
+965,Tianyi,478zhengzhang,D1a
+966,Tianyi,478tianyi,D1a
+967,Tianyi,478zhengning,D1a
+968,Tianyi,478toby,D1a
+969,Tianyi,1189zhengzhang,E1
+970,Tianyi,1189tianyi,H2
+971,Tianyi,1189zhengning,BE5
+972,Tianyi,1189toby,E1
+973,Tianyi,1563zhengzhang,BF4
+974,Tianyi,1563tianyi,BF4
+975,Tianyi,1563tianyi,CF4
+976,Tianyi,1563toby,BF4
+977,Tianyi,1563toby,CF4
+978,Tianyi,531zhengzhang,D1a
+979,Tianyi,531tianyi,D1a
+980,Tianyi,531toby,D1a

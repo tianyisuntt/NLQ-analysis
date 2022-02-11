@@ -1,0 +1,314 @@
+,unique_nlq
+0,Which customers made orders between 2009-01-01 and 2010-01-01? Find their names.
+1,What is the founded year of the non public school that was founded most recently?
+2,What are the ids of all students who played video games and sports?
+3,"What are the names , themes , and number of singers for every concert ?"
+4,Show the album names and ids for albums that contain tracks with unit price bigger than 1.
+5,What model has the most different versions?
+6,What is the maximum and minimum grade point of students who live in NYC?
+7,What are the advisors
+8,Count the number of video games with Massively multiplayer online game type .
+9,How many songs have 4 minute duration?
+10,Which district has both stores with less than 3000 products and stores with more than 10000 products?
+11,What is the total number of all football games played by scholarship students?
+12,Find the city and name of bank branches that provide business loans.
+13,What are the names and cities of bank branches that offer loans for business?
+14,How many car models are produced by each maker ? Only list the count and the maker full name .
+15,How many times in total did the team Boston Red Stockings participate in postseason games?
+16,"What is the name, city, country, and elevation for every airport in the city of New York?"
+17,Which distinct car models are the produced after 1980?
+18,List the names and locations of all stations ordered by their yearly entry exit and interchange amounts.
+19,Give me a list of distinct product ids from orders placed between 1975-01-01 and 1976-01-01?
+20,How many patients' prescriptions are made by physician John Dorian?
+21,Return the number of routes with destination airport in Italy operated by the airline with name 'American Airlines'.
+22,Find the total checking and saving balance of all accounts sorted by the total balance in ascending order.
+23,How many games were played in city Atlanta in 2000?
+24,find the pixel aspect ratio and nation of the tv channels that do not use English.
+25,What are the maximum scores the team Boston Red Stockings got when the team won in postseason?
+26,"Show the average, minimum, and maximum age for different majors."
+27,How many companies are headquartered in the US?
+28,What are the names of customers who have both savings and checking accounts?
+29,"Count the number of games taken place in park ""Columbia Park"" in 1907."
+30,What are the names of the artists that are from the UK and sang songs in English?
+31,How many schools have some students playing in goalie and mid positions.
+32,What are the number of concerts that occurred in the stadium with the largest capacity ?
+33,List the name of physicians who never took any appointment.
+34,"For each stadium, how many concerts play there?"
+35,Find the number of rooms for different block code?
+36,Find the names of all English songs.
+37,How many sports do we have?
+38,"Which model saves the most gasoline? That is to say, have the maximum miles per gallon."
+39,"What are the ids, names and FDA approval status of medicines in descending order of the number of enzymes that it can interact with."
+40,How many diffrent dorm amenities are there?
+41,List roles that have more than one employee. List the role description and number of employees.
+42,Which shops run with no employees? Find the shop names
+43,Give the ids for documents that have the budget description 'Government'.
+44,What is the total amount of grant money for research?
+45,"For each project id, how many staff does it have? List them in increasing order."
+46,What are all locations of train stations?
+47,What is the content of the series Sky Radio?
+48,Show the names of journalists and the names of the events they reported in ascending order
+49,What is the average rating of songs produced by female artists?
+50,"For each shop, return the number of employees working there and the name of the shop."
+51,How many lessons were in cancelled state?
+52,What are the names of photos taken with the lens brand 'Sigma' or 'Olympus'?
+53,Find the number of schools that have more than one donator whose donation amount is less than 8.5.
+54,What are the details of the project with no outcomes?
+55,What are the distinct ids of products ordered between 1975-01-01 and 1976-01-01??
+56,How many train stations are there?
+57,How many cities are there that have more than 3 airports?
+58,"For each  airport name, how many routes start at that airport, ordered from most to least?"
+59,"Please list the years of film market estimations when the market is in country ""Japan"" in descending order."
+60,What are the student ids for those on scholarship in major number 600?
+61,What are the name and primarily affiliated department name of each physician?
+62,How many airports' names have the word Interanation in them?
+63,How much salary did the top 3 well-paid players get in 2001?
+64,What are the different product sizes?
+65,"Find the first name and last name for the ""CTO"" of the club ""Hopkins Student Enterprises""?"
+66,How many countries has more than 2 car makers ?
+67,What are the total number of students who are living in a male dorm?
+68,Find the number of employees hired in each shop; show the shop name as well.
+69,What are the names of artists who have not released any albums?
+70,What are the names and trade names of the medcines that are FDA approved?
+71,List all the salary values players received in 2010 and 2001.
+72,Who are the top 3 players in terms of overall rating?
+73,Find the average millisecond length of Latin and Pop tracks.
+74,What are the countries that have never participated in any friendly-type competitions?
+75,How many employees live in Georgia?
+76,What is the maximum total amount paid by a customer? List the customer id and amount.
+77,What is the name of each camera lens and the number of photos taken by it? Order the result by the count of photos.
+78,Find all procedures which cost more than 1000 or which physician John Wen was trained in.
+79,What are the names of the songs that are modern or sung in English?
+80,What are the names of the customers who have made two or less orders?
+81,"How many cities are there in state ""Colorado""?"
+82,Show the names of all the donors except those whose donation amount less than 9.
+83,Count the number of tracks that are part of the rock genre.
+84,"For each dorm, how many amenities does it have?"
+85,Show the names of customers who have at least 2 mailshots with outcome code 'Order'.
+86,Show the headquarters that have both companies in banking industry and companies in oil and gas industry.
+87,"Find the names of all the products whose stock number starts with ""2""."
+88,How many car models are produced in the usa?
+89,"What is the sum of checking and savings balances for all customers, ordered by the total balance?"
+90,Find the number of games taken place in city Atlanta in 2000.
+91,Find the names of the artists who are from UK and have produced English songs.
+92,Find the first names and last names of male (sex is M) faculties who live in building NEB.
+93,How many students play sports?
+94,"What are the ids, names, and FDA approval status for medicines ordered by descending number of possible enzyme interactions?"
+95,What is the average height of the players from the college named 'Yale University'?
+96,Show ids for all documents in type CV without expense budgets.
+97,Which states have more than 2 parks?
+98,What are the last names for all scholarship students?
+99,Find the first name and last name of the instructor of course that has course name
+100,What is the name of each continent and how many car makers are there in each one?
+101,"Return the account details with the greatest value, as well as those that include the character 5."
+102,Which programs are never broadcasted in the morning? Give me the names of the programs.
+103,What is the country of origin of the artist who is female and produced a song in Bangla?
+104,What are the names of the ships  that are from either the US or the UK?
+105,How many female students live in Smith Hall?
+106,What are the account details with the largest value or with value having char '5' in it?
+107,What are the names of all stadiums that did not have a concert in 2014?
+108,What is the smallest weight of the car produced with 8 cylinders on 1974 ?
+109,What are the names of the people who have no friends who are students?
+110,What is the name of the patient who made the most recent appointment?
+111,Find the schools that were either founded after 1850 or public.
+112,What are the ids of all female students who play football?
+113,What is the number of routes whose destinations are Italian airports?
+114,What are the maximum and minimum resolution of songs whose duration is 3 minutes?
+115,"How many team franchises are active, with active value 'Y'?"
+116,"What are the number of international and domestic passengers of the airport named London ""Heathrow""?"
+117,What are the names of the all-female dorms?
+118,"For each year, return the year and the number of times the team Boston Red Stockings won in the postseasons."
+119,"List all cartoon directed by ""Ben Jones""."
+120,What is the total grant amount of the organisations described as research?
+121,Find the names of artists that do not have any albums.
+122,Find the name and age of the person who is a friend of Dan or Alice.
+123,What are the cities that have more than 2 airports sorted by number of airports?
+124,When was the order placed whose shipment tracking number is 3452? Give me the date.
+125,How many car makers are there in each continents? List the continent name and the count.
+126,What are the different models for the cards produced after 1980?
+127,What is the count of cities with more than 3 airports?
+128,Which model has the most version(make) of cars?
+129,What are the procedures that cost more than 1000 or are specialized in by physician John Wen?
+130,Find the number of dorms that have some amenity.
+131,What are the invoice numbers created before 1989-09-03 or after 2007-12-25?
+132,Find the names of the channels that are broadcast in the morning.
+133,What is the total home game attendance of team Boston Red Stockings from 2000 to 2010?
+134,Find the names of patients who are not using the medication of Procrastin-X.
+135,What is the number of cars with a greater accelerate than the one with the most horsepower?
+136,Find the last name of the individuals that have been contact individuals of an organization.
+137,What are the ids of all male students who do not play football?
+138,What is the first name of all employees who do not give any lessons?
+139,"Find the id of the order whose shipment tracking number is ""3452""."
+140,Find the name of customers who do not have a loan with a type of Mortgages.
+141,What are the names of banks that have loaned money to customers with credit scores below 100?
+142,Find the names of customers who either have an deputy policy or uniformed policy.
+143,Find the name and age of all males in order of their age.
+144,Tell me the distinct block codes where some rooms are available.
+145,How many girl students who are younger than 25?
+146,What is the nickname of the employee named Janessa Sawayn?
+147,List all of the player ids with a height of at least 180cm and an overall rating higher than 85.
+148,List the employees who have not showed up in any circulation history of documents. List the employee's name.
+149,Find the name of airports whose altitude is between -50 and 50.
+150,Find the name and country of origin for all artists who have release at least one song of resolution above 900.
+151,What are the names of all schools that have students trying out for the position of goal and 'mid'-field.
+152,How many players were in the team Boston Red Stockings in 2000?
+153,Which document has the most draft copies? List its document id and number of draft copies.
+154,When did researchers start and stop working?
+155,What are the maximum duration and resolution of songs grouped and ordered by languages?
+156,What are the public schools and what are their locations?
+157,Find the number of patients' prescriptions physician John Dorian made.
+158,"Find the number of routes and airport name for each source airport, order the results by decreasing number of routes."
+159,Show student ids who are on scholarship and have major 600.
+160,What is the number of car models created by the car maker American Motor Company?
+161,What are the schools that were either founded before 1850 or are public?
+162,Show all product names and the number of customers having an order on each product.
+163,"What are the last names of female students, ordered by age descending?"
+164,What are the names of all singers that are from the UK and released a song in English?
+165,Return the names of singers who are from UK and released an English song.
+166,find id of the tv channels that from the countries where have more than two tv channels.
+167,What are the rooms for members of the faculty who are professors and who live in building NEB?
+168,What is the average credit score for customers who have taken a loan?
+169,Which colleges does each player with a name that starts with the letter D  who tried out go to?
+170,What are the names of the schools with some players in the mid position but no goalies?
+171,How many medicines have the FDA approval status 'No' ?
+172,List the states which have between 2 to 4 staffs living there.
+173,What is the zip code of the hosue of the employee named Janessa Sawayn?
+174,List the 3 highest salaries of the players in 2001?
+175,"List lesson id of all lessons taught by staff with first name as Janessa, last name as Sawayn and nickname containing letter 's'."
+176,What are the names of all male British artists?
+177,What are the unique block codes that have available rooms?
+178,Show the name and number of employees for the departments managed by heads whose temporary acting value is 'Yes'?
+179,What are the names of the songs whose rating is below the rating of all songs in English?
+180,What are all the details of the organisations described as 'Sponsor'? Sort the result in an ascending order.
+181,Find the founded year of the newest non public school.
+182,What are the details of all organizations that are described as Sponsors and sort the results in ascending order?
+183,In what city does Janessa Sawayn live?
+184,List the maximum scores of the team Boston Red Stockings when the team won in postseason?
+185,Show the statement detail and the corresponding document name for the statement with detail 'Private Project'.
+186,"What is the full name of each car maker, along with its id and how many models it produces?"
+187,What is the count of the car models produced in the United States?
+188,What is the average gradepoint for students with the last name Smith?
+189,Show the document name and the document date for all documents on project with details 'Graph Database project'.
+190,"What is the id, genre, and name of the artist for every English song ordered by ascending rating?"
+191,Show the names of buildings except for those having an institution founded in 2003.
+192,What are the makers and models?
+193,How much does the car accelerate that makes amc hornet sportabout (sw)?
+194,"What are the average, minimum, and max ages for each of the different majors?"
+195,How many cars have a larger accelerate than the car with the largest horsepower?
+196,How many project members were leaders or started working before '1989-04-24 23:51:54'?
+197,Give me the names of customers who have placed orders between 2009-01-01 and 2010-01-01.
+198,What is the count of the songs that last approximately 4 minutes?
+199,List all public schools and their locations.
+200,How many routes end in a Canadian airport?
+201,In which year did the least people enter hall of fame?
+202,How many games are played for all football games by students on scholarship?
+203,Find the names of the customers who have an deputy policy.
+204,How many home games did the team Boston Red Stockings play from 1990 to 2000 in total?
+205,Find the total number of students living in the male dorm (with gender M).
+206,Find the year in which the least people enter hall of fame.
+207,How many schools have students playing in goalie and mid-field positions?
+208,How many female students (sex is F) whose age is below 25?
+209,How many dorms have amenities?
+210,"Show name, country, age for all singers ordered by age from the oldest to the youngest."
+211,Who are the lieutenant governor and comptroller from the democratic party?
+212,What are the ids of songs that are available in either mp4 format or have resolution above 720?
+213,How many different series and contents are listed in the TV Channel table?
+214,What are the last names that are used by customers and staff?
+215,What are the names of the services that have never been used?
+216,Find the number of concerts happened in the stadium with the highest capacity .
+217,How many documents can one grant have at most? List the grant id and number.
+218,How many players enter hall of fame each year?
+219,"Find all the female members of club ""Bootup Baltimore"". Show the first name and last name."
+220,"What are the names of customers who have a savings balance lower than their checking balance, and what is the total of their checking and savings balances?"
+221,Find the names of courses that have either 3 credits or 1 credit but 4 hours.
+222,List the document ids for any documents with the status code done and the type code paper.
+223,What are the distinct ages of the heads who are acting?
+224,Give the maximum and minimum gradepoints for students living in NYC?
+225,"What is the series name of the TV Channel that shows the cartoon ""The Rise of the Blue Beetle""?"
+226,What is the first name of the staff who did not give any lesson?
+227,What are the positions of both players that have more than 20 20 points and less than 10 points?
+228,"Show the studios that have not produced films with director ""Walter Hill""."
+229,What are the names of the countries with no car makers?
+230,"Find the number of team franchises that are active (have 'Y' as ""active"" information)."
+231,In which years cars were produced weighing no less than 3000 and no more than 4000 ?
+232,List the name and gender for all artists who released songs in March.
+233,What are the shortest duration and lowest rating of songs grouped by genre and ordered by genre?
+234,Find the number of rooms located on each block floor.
+235,What is the minimum weight of the car with 8 cylinders produced in 1974 ?
+236,What are the names of the different artists that have produced a song in English but have never receieved a rating higher than 8?
+237,What is the country that has the most perpetrators?
+238,"What are the names of the different customers who have taken out a loan, ordered by the total amount that they have taken?"
+239,What are the names and dates for documents corresponding to project that has the details 'Graph Database project'?
+240,What are the names and enrollment numbers for colleges that have more than 10000 enrolled and are located in Louisiana?
+241,What are the distinct first names for students with a grade point of 3.8 or above in at least one course?
+242,Find the last names of faculties who are members of computer science department.
+243,"What are the names and ids of artists with 3 or more albums, listed in alphabetical order?"
+244,Find the number of people whose age is greater than all engineers.
+245,List the names of all the physicians who prescribe Thesisin as medication.
+246,What is the average unit price of rock tracks?
+247,Find the names of programs that are never broadcasted in the morning.
+248,What countries are the female artists who sung in the language Bangla from?
+249,What is the number of different different airports that are destinations for American Airlines?
+250,On which day was the order placed whose shipment tracking number is 3452?
+251,Find all the players' first name and last name who have empty death record.
+252,How many females are in the network?
+253,Find the ids of all the order items whose product id is 11.
+254,"What is the TV Channel that shows the cartoon ""The Rise of the Blue Beetle!""? List the TV Channel's series name."
+255,How many players did Boston Red Stockings have in 2000?
+256,What are the checking and savings balances in accounts belonging to Brown?
+257,Which state has the most customers?
+258,What are the three countries that the least players are from?
+259,Show me the number of parks the state of NY has.
+260,What is minimum and maximum share of TV series?
+261,"Give me the times and numbers of all trains that go to Chennai, ordered by time."
+262,What are the names of all songs in English?
+263,Find the average height of the players who belong to the college called 'Yale University'.
+264,How many project staff worked as leaders or started working before '1989-04-24 23:51:54'?
+265,Which channels are broadcast in the morning? Give me the channel names.
+266,How many Bangladeshi artists are listed?
+267,What are first and last names of players participating in all star game in 1998?
+268,Show the names of companies in the banking or retailing industry?
+269,Find the name of the person who has no student friends.
+270,What are the names of all friends who are from New York?
+271,How many parks are there in the state of NY?
+272,What are the ids of all tv channels that have more than 2 TV channels?
+273,What is the number of makers of care in France?
+274,What are the average height and weight across males (sex is M)?
+275,"Which catalog contents have a product stock number that starts from ""2""? Show the catalog entry names."
+276,Show all locations that have train stations with at least 15 platforms and train stations with more than 25 total passengers.
+277,How many patents outcomes were listed for all the projects?
+278,How many parks are there in Atlanta city?
+279,How many parks does Atlanta city have?
+280,When did the staff member named Janessa Sawayn join the company?
+281,Show names of companies and that of employees in descending order of number of years working for that employee.
+282,What are the ids of documents with the type code CV that do not have expenses.
+283,Give the state that has the most customers.
+284,Show ids of students who play video game and play sports.
+285,"What are the last names of faculty in building Barton, sorted by last name?"
+286,Which colleges do the tryout players whose name starts with letter D go to?
+287,Find the distinct student first names of all students that have grade point at least 3.8 in one course.
+288,What are the full names of faculties with sex M and who live in building NEB?
+289,What are the details for all projects that did not hire any staff in a research role?
+290,"What are the names, checking balances, and savings balances of customers, ordered by the total of checking and savings balances descending?"
+291,What are the name of the countries where there is not a single car maker?
+292,Which department has the largest number of employees?
+293,What are the different membership levels?
+294,find the number of different programs that are broadcast during night time.
+295,Show the lieutenant governor and comptroller from the democratic party.
+296,Find the invoice numbers which are created before 1989-09-03 or after 2007-12-25.
+297,Find the distinct details of invoices which are created before 1989-09-03 or after 2007-12-25.
+298,What are the names of the singers who sang the top 3 most highly rated songs and what countries do they hail from?
+299,How many budget types do we have?
+300,What are the names of customers who do not have any policies?
+301,List three countries which are the origins of the least players.
+302,What are the ids of all students who are not video game players?
+303,"How many games in 1885 postseason resulted in ties (that is, the value of ""ties"" is '1')?"
+304,List the name and count of each product in all orders.
+305,Find the distinct names of all songs that have a higher resolution than some songs in English.
+306,Give the ids of documents that have expenses and contain the letter s in their names.
+307,What are the last names of faculty who are part of the computer science department?
+308,What are the names of all airports whose elevation is between -50 and 50?
+309,Show the budget type code and description and the corresponding document id.
+310,find the package option of the tv channel that do not have any cartoon directed by Ben Jones.
+311,List the names of people that have not been on the affirmative side of debates.
+312,"What are the names of courses that give either 3 credits, or 1 credit and 4 hours?"

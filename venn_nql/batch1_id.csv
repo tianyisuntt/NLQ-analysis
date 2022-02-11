@@ -1,0 +1,47 @@
+,unique_nlq
+0,List the project details of the projects which did not hire any staff for a researcher role.
+1,How many games are played for all students?
+2,"What are the years of film market estimation for the market of Japan, ordered by year descending?"
+3,List the first and last name for players who participated in all star game in 1998.
+4,Show student ids who are female and play football.
+5,HOw many engineers are older than 30?
+6,List the names of states that have more than 2 parks.
+7,What are the countries that participated in both friendly and tournament type competitions?
+8,What are the song names for every song whose rating is less than the minimum rating for English songs?
+9,"What are the first names for all faculty professors, ordered by first name?"
+10,"Count the number of times the team ""Boston Red Stockings"" lost in 2009 postseason."
+11,What is the name of the department htat has no students minoring in it?
+12,Which projects have no outcome? List the project details.
+13,How many people are older than every engineer?
+14,What are the names and genders of all artists who released songs in the month of March?
+15,Find the names of bank branches that have provided a loan to any customer whose credit score is below 100.
+16,Show ids for all documents with budget types described as 'Government'.
+17,Show all locations and the total number of platforms and passengers for all train stations in each location.
+18,List the cities which have more than 2 airports sorted by the number of airports.
+19,What are the distinct details of invoices created before 1989-09-03 or after 2007-12-25?
+20,Which model of the car has the minimum horsepower?
+21,What is the maximum and minimum height of all players?
+22,What are the first name and last name of the players whose death record is empty?
+23,What is the model of the car with the smallest amount of horsepower?
+24,How many games in total did team Boston Red Stockings attend from 2000 to 2010?
+25,Find the names of all physicians and their primary affiliated departments' names.
+26,Find the name and total checking and savings balance of the accounts whose savings balance is lower than corresponding checking balance.
+27,What is the average cost of procedures that physician John Wen was trained in?
+28,Show names for all stadiums except for stadiums having a concert in year 2014.
+29,Find the name of all the cities and states.
+30,How many females does this network has?
+31,What were all the salary values of players in 2010 and 2001?
+32,List the names and birthdays of the top five players in terms of potential.
+33,What procedures cost less than 5000 and have John Wen as a trained physician?
+34,How many staff does each project has? List the project id and the number in an ascending order.
+35,Find the names of the artists who have produced English songs but have never received rating higher than 8.
+36,Compute the mean price of procedures physician John Wen was trained in.
+37,What are the package options and the name of the series for the TV Channel that supports high definition TV?
+38,What are the countries having at least one car maker? List name and id.
+39,Find the number of routes for each source airport and the airport name.
+40,Find name of the services that has never been used.
+41,Find the name and position of physicians who prescribe some medication whose brand is X?
+42,Find the name of dorms only for female (F gender).
+43,How many rooms are located for each block code?
+44,"What are the details for statements with the details 'Private Project', and what are the names of the corresponding documents?"
+45,What are the ids for all sporty students who are on scholarship?

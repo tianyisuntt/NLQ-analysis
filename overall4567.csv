@@ -1,0 +1,1332 @@
+,sql_id,username_x,record_id_x,error_classification_x,username_y,record_id_y,error_classification_y
+0,1024,tianyi,record_id_x,"F1, F2",zhengn,record_id_y,F2
+1,1025,tianyi,record_id_x,"D1a, A1a, KA1b",zhengn,record_id_y,"A1a, KA1b"
+2,1026,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+3,689,tianyi,record_id_x,BN1,zhengn,record_id_y,"CL1, BN1"
+4,1027,tianyi,record_id_x,AN2,zhengn,record_id_y,"CL1, AN2"
+5,1028,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+6,1029,tianyi,record_id_x,CE2,zhengn,record_id_y,CE2
+7,1030,tianyi,record_id_x,"A1f, AN2",zhengn,record_id_y,"AN2, F4"
+8,1031,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+9,1032,tianyi,record_id_x,D1,zhengn,record_id_y,D1c
+10,1033,tianyi,record_id_x,F1,zhengn,record_id_y,D1c
+11,595,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+12,385,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+13,386,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+14,696,tianyi,record_id_x,BE5,zhengn,record_id_y,"CL1, BN1"
+15,1034,tianyi,record_id_x,BL3,zhengn,record_id_y,"L5, CE2"
+16,654,tianyi,record_id_x,BL2,zhengn,record_id_y,"BL2, BL3"
+17,1035,tianyi,record_id_x,CE3,zhengn,record_id_y,CE2
+18,674,tianyi,record_id_x,"F1, F2",zhengn,record_id_y,"F1, D1"
+19,1036,tianyi,record_id_x,"BL1, CL1, CE2",zhengn,record_id_y,"BL1, CE2"
+20,1037,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+21,309,tianyi,record_id_x,"BL3, L4",zhengn,record_id_y,BL1
+22,1038,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+23,1039,tianyi,record_id_x,A2a,zhengn,record_id_y,A2a
+24,1040,tianyi,record_id_x,BL1,zhengn,record_id_y,BE5
+25,521,tianyi,record_id_x,D1,zhengn,record_id_y,D1c
+26,804,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+27,1041,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+28,819,tianyi,record_id_x,D1a,zhengn,record_id_y,"A1g, D1a"
+29,1042,tianyi,record_id_x,BL3,zhengn,record_id_y,L5
+30,1043,tianyi,record_id_x,CL1,zhengn,record_id_y,"BL3, E1"
+31,1044,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+32,542,tianyi,record_id_x,A1,zhengn,record_id_y,E1
+33,518,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+34,1045,tianyi,record_id_x,BL3,zhengn,record_id_y,"BL1, A1b"
+35,1046,tianyi,record_id_x,"CL1, CE3",zhengn,record_id_y,CL1
+36,1047,tianyi,record_id_x,"BL3, F3",zhengn,record_id_y,F3
+37,150,tianyi,record_id_x,"F3, A1b",zhengn,record_id_y,"E1, A1b"
+38,327,tianyi,record_id_x,"CE3, F3, A1f",zhengn,record_id_y,"F4, F3, BE5"
+39,1048,tianyi,record_id_x,D1,zhengn,record_id_y,F4
+40,1049,tianyi,record_id_x,"CL1, CE2",zhengn,record_id_y,"CL1, CE3"
+41,897,tianyi,record_id_x,"D1a, BF4, CF5, CE2",zhengn,record_id_y,"CE2, BF4"
+42,900,tianyi,record_id_x,"CE2, KA1b",zhengn,record_id_y,"KA1b, CE2"
+43,178,tianyi,record_id_x,E1,zhengn,record_id_y,"E1, A1b"
+44,211,tianyi,record_id_x,E1,zhengn,record_id_y,E1
+45,1017,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+46,715,tianyi,record_id_x,BN1,zhengn,record_id_y,"BL3, BN1"
+47,1050,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+48,846,tianyi,record_id_x,CL1,zhengn,record_id_y,BL3
+49,35,tianyi,record_id_x,BL3,zhengn,record_id_y,"L5, CL1"
+50,1051,tianyi,record_id_x,"L5, A1e, BL3",zhengn,record_id_y,L5
+51,1052,tianyi,record_id_x,"D1a, A1d",zhengn,record_id_y,"A1d, D1a"
+52,1053,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+53,544,tianyi,record_id_x,"F4, F3",zhengn,record_id_y,"F4, F3"
+54,1054,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+55,1055,tianyi,record_id_x,"A1e, L5",zhengn,record_id_y,"A1e, L4"
+56,1056,tianyi,record_id_x,A1d,zhengn,record_id_y,A1d
+57,906,tianyi,record_id_x,CE2,zhengn,record_id_y,CE2
+58,1057,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+59,1058,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+60,1059,tianyi,record_id_x,"D1a, A1g",zhengn,record_id_y,"D1a, A1g"
+61,666,tianyi,record_id_x,D1c,zhengn,record_id_y,D1c
+62,1060,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+63,1061,tianyi,record_id_x,D1,zhengn,record_id_y,D1c
+64,1062,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+65,840,tianyi,record_id_x,"BE5, AN2",zhengn,record_id_y,"CL1, BE5, AN2"
+66,1063,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+67,896,tianyi,record_id_x,"D1a, CE3, BE5",zhengn,record_id_y,"CE2, D1a"
+68,1064,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+69,1065,tianyi,record_id_x,KA1b,zhengn,record_id_y,KA1b
+70,1066,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+71,1067,tianyi,record_id_x,CE2,zhengn,record_id_y,CE2
+72,1068,tianyi,record_id_x,"CE2, BE5",zhengn,record_id_y,CE2
+73,1069,tianyi,record_id_x,BL2,zhengn,record_id_y,BL2
+74,1070,tianyi,record_id_x,"E1, CL1",zhengn,record_id_y,CL1
+75,1071,tianyi,record_id_x,"F1, A1e, E1, BE5",zhengn,record_id_y,A1e
+76,1072,tianyi,record_id_x,"E1, F3, BL2, CL1",zhengn,record_id_y,"BL2, CL1, E1"
+77,1073,tianyi,record_id_x,F1,zhengn,record_id_y,F1
+78,986,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+79,418,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+80,867,tianyi,record_id_x,"A1d, F4",zhengn,record_id_y,A1d
+81,1074,tianyi,record_id_x,F4,zhengn,record_id_y,F4
+82,1075,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+83,1076,tianyi,record_id_x,"CL1, F4, A1d",zhengn,record_id_y,"F4, A1d, CL1"
+84,1077,tianyi,record_id_x,BL3,zhengn,record_id_y,A1d
+85,514,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+86,1078,tianyi,record_id_x,A1a,zhengn,record_id_y,A1a
+87,1079,tianyi,record_id_x,CE2,zhengn,record_id_y,CE2
+88,743,tianyi,record_id_x,"D1a, D1c",zhengn,record_id_y,D1a
+89,1080,tianyi,record_id_x,D1b,zhengn,record_id_y,D1b
+90,1081,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+91,1082,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+92,1083,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+93,1084,tianyi,record_id_x,E1,zhengn,record_id_y,"A1g, E1"
+94,1085,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+95,830,tianyi,record_id_x,"A2a, AN2, A1f",zhengn,record_id_y,"AN2, A1f, A1b"
+96,927,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+97,1086,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+98,547,tianyi,record_id_x,D1b,zhengn,record_id_y,D1c
+99,828,tianyi,record_id_x,AN2,zhengn,record_id_y,"BL3, L4, AN2"
+100,265,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+101,1087,tianyi,record_id_x,"D1, CE2, BL1",zhengn,record_id_y,"BL1, D1, CE2"
+102,1088,tianyi,record_id_x,"BL2, BN1",zhengn,record_id_y,"BL2, BN1"
+103,1089,tianyi,record_id_x,"D1a, BL1, CL1",zhengn,record_id_y,"D1a, CL1, E1"
+104,706,tianyi,record_id_x,BF4,zhengn,record_id_y,CL1
+105,269,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+106,748,tianyi,record_id_x,"BL1, BN1",zhengn,record_id_y,BL1
+107,556,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+108,1090,tianyi,record_id_x,D1a,zhengn,record_id_y,A1g
+109,826,tianyi,record_id_x,D1a,zhengn,record_id_y,"D1a, A1g"
+110,220,tianyi,record_id_x,BN1,zhengn,record_id_y,BN1
+111,982,tianyi,record_id_x,"D1a, D1b",zhengn,record_id_y,"D1b, D1a"
+112,1091,tianyi,record_id_x,D1,zhengn,record_id_y,D1c
+113,929,tianyi,record_id_x,D1b,zhengn,record_id_y,D1b
+114,1006,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+115,633,tianyi,record_id_x,F1,zhengn,record_id_y,F1
+116,632,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+117,1092,tianyi,record_id_x,"BL1, KA1b",zhengn,record_id_y,"KA1b, CL1"
+118,1093,tianyi,record_id_x,"D1, D1",zhengn,record_id_y,"D1, BF4"
+119,1094,tianyi,record_id_x,F4,zhengn,record_id_y,"F4, F3, D1a"
+120,486,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+121,1095,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+122,1096,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+123,1097,tianyi,record_id_x,"CE2, BF4, CF5",zhengn,record_id_y,"CE2, BF4"
+124,1098,tianyi,record_id_x,"D1a, K2",zhengn,record_id_y,"K2, D1a"
+125,1099,tianyi,record_id_x,"CE2, D1b",zhengn,record_id_y,"D1c, CE2"
+126,1100,tianyi,record_id_x,"BL1, BE5",zhengn,record_id_y,"BL1, BE5"
+127,1101,tianyi,record_id_x,"BF4, CF5",zhengn,record_id_y,CF5
+128,1102,tianyi,record_id_x,,zhengn,record_id_y,
+0,255,tianyi,record_id_x,"BL1, F3, F4, AN2, CE2",zhengn,record_id_y,"BL1, F3, BL3, AN2, CE2"
+1,965,tianyi,record_id_x,"BL1, F3, BE5, AN2, CE2",zhengn,record_id_y,"CE2, F3, BL3, AN2"
+2,966,tianyi,record_id_x,"BL1, E1, BE5, BF4",zhengn,record_id_y,"BL1, E1, CE2"
+3,164,tianyi,record_id_x,"BL1, E1, BF4, D1a",zhengn,record_id_y,"BL1, E1, D1a"
+4,52,tianyi,record_id_x,"K2, D1a",zhengn,record_id_y,"K2, D1a"
+5,967,tianyi,record_id_x,"L5, F4, CL1, K2",zhengn,record_id_y,"CL1, K2, F4"
+6,968,tianyi,record_id_x,"L5, F4, D1a, CL1",zhengn,record_id_y,"F4, D1a, CE2, CL1"
+7,969,tianyi,record_id_x,"F4, D1a",zhengn,record_id_y,"CE2, BL1, F4, D1a"
+8,329,tianyi,record_id_x,"F4, D1a",zhengn,record_id_y,"F4, D1a"
+9,970,tianyi,record_id_x,"A1b, P3, D1a",zhengn,record_id_y,"A1b, D1a, P3"
+10,254,tianyi,record_id_x,"F3, BL3, AN2, A1b",zhengn,record_id_y,"A1b, F3, BL3, AN2"
+11,182,tianyi,record_id_x,"A1b, F3, BL3, AN2",zhengn,record_id_y,"BL1, F3, BL3, AN2"
+12,237,tianyi,record_id_x,A1b,zhengn,record_id_y,"BL1, D1"
+13,284,tianyi,record_id_x,"F3, A1f, AN2",zhengn,record_id_y,"D1, AN2"
+14,971,tianyi,record_id_x,"L5, F3, A1f, AN2",zhengn,record_id_y,"L5, AN2"
+15,972,tianyi,record_id_x,"L5, BL1, D1",zhengn,record_id_y,"L5, BL1, D1"
+16,232,tianyi,record_id_x,"BL1, BN1, BL3",zhengn,record_id_y,"BL1, BL3"
+17,170,tianyi,record_id_x,"BL1, BN1, D1, BL3",zhengn,record_id_y,"BL1, D1, BL3"
+18,349,tianyi,record_id_x,"BL1, BN1",zhengn,record_id_y,"BL1, BN1"
+19,973,tianyi,record_id_x,"D1, BN1",zhengn,record_id_y,"D1, BN1"
+20,288,tianyi,record_id_x,"BL1, D1",zhengn,record_id_y,"BL1, D1"
+21,229,tianyi,record_id_x,"BN1, CL1",zhengn,record_id_y,CL1
+22,974,tianyi,record_id_x,"D1c, BN1, CL1",zhengn,record_id_y,"CL1, D1"
+23,208,tianyi,record_id_x,,zhengn,record_id_y,
+24,268,tianyi,record_id_x,"D1c, N3",zhengn,record_id_y,"D1, AN2"
+25,160,tianyi,record_id_x,"A1b, CE2, N3",zhengn,record_id_y,"A1b, CE2, E1"
+26,975,tianyi,record_id_x,"A1b, CE2, AN2",zhengn,record_id_y,"A1b, CE2, AN2"
+27,976,tianyi,record_id_x,"BL3, AN2, E1",zhengn,record_id_y,"E1, BL3, AN2"
+28,977,tianyi,record_id_x,"D1c, BL3",zhengn,record_id_y,"D1, BL3"
+29,978,tianyi,record_id_x,"D1c, D1a",zhengn,record_id_y,"D1, D1a"
+30,133,tianyi,record_id_x,"F4, D1a",zhengn,record_id_y,"F4, D1a"
+31,198,tianyi,record_id_x,"BL1, F4, K2",zhengn,record_id_y,"BL1, K2, F4"
+32,979,tianyi,record_id_x,"BL1, KA1b",zhengn,record_id_y,"BL1, K2, KA1b"
+33,980,tianyi,record_id_x,"KA1b, BF4",zhengn,record_id_y,"KA1b, BF4"
+34,67,tianyi,record_id_x,"L4, BF4",zhengn,record_id_y,"L4, BF4"
+35,226,tianyi,record_id_x,"BN1, L4",zhengn,record_id_y,"L4, CL1"
+36,981,tianyi,record_id_x,"BN1, D1a",zhengn,record_id_y,"CL1, D1a"
+37,279,tianyi,record_id_x,"BN1, D1a",zhengn,record_id_y,"BN1, D1a"
+38,144,tianyi,record_id_x,"BN1, F4",zhengn,record_id_y,"BN1, F4"
+39,383,tianyi,record_id_x,"BL1, L4, D1, F4",zhengn,record_id_y,"D1, L4, F4"
+40,303,tianyi,record_id_x,"BL1, L4, D1, D1a",zhengn,record_id_y,"D1, L4, D1a"
+42,983,tianyi,record_id_x,"CE2, E1, BE5",zhengn,record_id_y,"CE2, E1, F4"
+43,984,tianyi,record_id_x,"CE2, D1",zhengn,record_id_y,"D1, F4, CE2"
+44,985,tianyi,record_id_x,"D1, D1a",zhengn,record_id_y,"D1, D1a"
+47,346,tianyi,record_id_x,"BL1, BE5, BF4",zhengn,record_id_y,"BL1, BE5, BF4"
+48,987,tianyi,record_id_x,"KA1b, F1, BF4",zhengn,record_id_y,"KA1b, F1, BF4"
+49,140,tianyi,record_id_x,"CL1, KA1b, F1",zhengn,record_id_y,"CL1, F1, KA1b"
+50,99,tianyi,record_id_x,"CL1, D1c",zhengn,record_id_y,"CL1, D1c"
+51,988,tianyi,record_id_x,"D1c, BN1",zhengn,record_id_y,"D1c, BN1"
+52,310,tianyi,record_id_x,F1,zhengn,record_id_y,F1
+53,989,tianyi,record_id_x,"A1a, BE5",zhengn,record_id_y,"BE5, A1a"
+54,368,tianyi,record_id_x,"F4, AN2",zhengn,record_id_y,N3
+55,990,tianyi,record_id_x,"BE5, F4, CF5",zhengn,record_id_y,"BL1, CF5"
+56,991,tianyi,record_id_x,"D1c, BE5",zhengn,record_id_y,"BL1, D1, CF5"
+57,46,tianyi,record_id_x,"L5, D1c",zhengn,record_id_y,"L5, D1, A2a"
+58,89,tianyi,record_id_x,"L5, BL1",zhengn,record_id_y,"L5, L4, A2a"
+59,381,tianyi,record_id_x,"CL1, D1",zhengn,record_id_y,"CL1, L4, CF5"
+60,992,tianyi,record_id_x,"CL1, D1, F4",zhengn,record_id_y,"CL1, D1, CF5, F4"
+61,203,tianyi,record_id_x,"CL1, F4",zhengn,record_id_y,"D1, CL1, F4, BF4"
+62,292,tianyi,record_id_x,"CL1, BF4",zhengn,record_id_y,"F4, BL2, CL1, BF4, CE2"
+63,993,tianyi,record_id_x,"BL1, BF4, CF5",zhengn,record_id_y,"CF5, F4, BL2"
+64,994,tianyi,record_id_x,"CL1, BE5, BF4",zhengn,record_id_y,"CL1, CE2, CF5, BE5"
+65,358,tianyi,record_id_x,"BE5, BL3",zhengn,record_id_y,"BE5, BL3"
+66,234,tianyi,record_id_x,"BN1, BL3",zhengn,record_id_y,"BL1, BN1, BL3"
+67,225,tianyi,record_id_x,"D1c, BN1",zhengn,record_id_y,"CL1, D1c, BN1"
+68,995,tianyi,record_id_x,"D1c, CE2, BL1",zhengn,record_id_y,"BE5, CL1, CE2, D1c"
+69,996,tianyi,record_id_x,"CE2, CF5, BF4, CL1",zhengn,record_id_y,"CE2, CF5, CL1, BE5"
+70,324,tianyi,record_id_x,CF5,zhengn,record_id_y,"F3, CF5"
+71,997,tianyi,record_id_x,"D1, E1, A2a, BF4",zhengn,record_id_y,"F3, D1, E1, A2a"
+72,998,tianyi,record_id_x,"E1, A2a, BL1",zhengn,record_id_y,"BL1, E1, D1, A2a"
+73,108,tianyi,record_id_x,"CE2, D1, BL1",zhengn,record_id_y,"BL1, A1d"
+74,999,tianyi,record_id_x,"CE2, E1, D1a, CL1",zhengn,record_id_y,"D1, E1, CL1, A1d"
+75,163,tianyi,record_id_x,"E1, CL1",zhengn,record_id_y,"D1, E1, CL1, D1a"
+76,264,tianyi,record_id_x,"BL3, D1a",zhengn,record_id_y,"BL3, D1a"
+77,1000,tianyi,record_id_x,"BN1, BL3",zhengn,record_id_y,"CF5, BL3"
+78,180,tianyi,record_id_x,"A1b, BN1",zhengn,record_id_y,"A1b, D1, CF5"
+79,65,tianyi,record_id_x,"A1b, BL1",zhengn,record_id_y,"A1b, BL1, D1"
+80,1001,tianyi,record_id_x,E1,zhengn,record_id_y,E1
+81,307,tianyi,record_id_x,E1,zhengn,record_id_y,E1
+82,186,tianyi,record_id_x,"CL1, L4, D1a",zhengn,record_id_y,"CL1, D1a"
+83,1002,tianyi,record_id_x,"D1c, CL1, D1a",zhengn,record_id_y,"CL1, D1, D1a"
+84,1003,tianyi,record_id_x,"D1c, BL1, E1",zhengn,record_id_y,"BL1, CE2, D1"
+85,1004,tianyi,record_id_x,"BL1, E1, D1a",zhengn,record_id_y,"BL1, CE2, D1a"
+86,25,tianyi,record_id_x,"BL1, D1a",zhengn,record_id_y,"BL1, D1a"
+87,313,tianyi,record_id_x,"BL1, K2",zhengn,record_id_y,"K2, D1a"
+88,1005,tianyi,record_id_x,"K2, F1",zhengn,record_id_y,"K2, F1"
+90,1007,tianyi,record_id_x,"BN1, BE5, D1a",zhengn,record_id_y,"CE3, BN1, D1a"
+91,207,tianyi,record_id_x,"D1c, BN1, BE5",zhengn,record_id_y,"CE3, D1, BN1"
+92,202,tianyi,record_id_x,"D1c, CL1",zhengn,record_id_y,"D1, CL1, CE3"
+93,17,tianyi,record_id_x,"F1, D1a, CL1",zhengn,record_id_y,"CL1, D1a, F1"
+94,171,tianyi,record_id_x,"BL1, A1a, D1a",zhengn,record_id_y,"BL1, A1a, D1a"
+95,206,tianyi,record_id_x,"BL1, D1c",zhengn,record_id_y,"BL1, D1"
+96,1008,tianyi,record_id_x,"D1c, D1",zhengn,record_id_y,
+97,212,tianyi,record_id_x,"D1, BL2",zhengn,record_id_y,"BL1, BN1, D1"
+98,24,tianyi,record_id_x,BN1,zhengn,record_id_y,BN1
+99,96,tianyi,record_id_x,"L5, A2a, BL2",zhengn,record_id_y,"L5, BL1"
+100,290,tianyi,record_id_x,"L5, A2a, BL2",zhengn,record_id_y,"L5, BL1"
+101,141,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+102,103,tianyi,record_id_x,"A1b, CL1",zhengn,record_id_y,"A1b, CL1"
+103,247,tianyi,record_id_x,"A1b, D1c",zhengn,record_id_y,"A1b, D1"
+104,61,tianyi,record_id_x,,zhengn,record_id_y,"D1c, L4, D1"
+105,32,tianyi,record_id_x,"A1b, D1c",zhengn,record_id_y,"A1b, D1c, L4"
+106,34,tianyi,record_id_x,"A1b, BF4",zhengn,record_id_y,"A1b, F3, BF4"
+107,252,tianyi,record_id_x,"A1b, BF4, F4",zhengn,record_id_y,"A1b, F3, F4"
+108,1009,tianyi,record_id_x,"BL1, A1b, BE5, F4, CL1",zhengn,record_id_y,"CL1, CE2, A1b, F4"
+109,1010,tianyi,record_id_x,"BE5, L4, BF4, CL1, A1b",zhengn,record_id_y,"BL3, D1, L4, CL1, CE2, A1b"
+110,1011,tianyi,record_id_x,"BL1, BL3, L4, BF4, A1b",zhengn,record_id_y,"L5, AN2, D1, L4, A1b"
+111,1012,tianyi,record_id_x,"E1, F4, BL3",zhengn,record_id_y,"L5, BL3, F4, AN2, CE2, CL1"
+112,218,tianyi,record_id_x,"D1c, E1, F4",zhengn,record_id_y,"CL1, D1, F4, CE2"
+113,1013,tianyi,record_id_x,"CL1, BL1, F3, D1c",zhengn,record_id_y,"D1, CL1, N3"
+114,1014,tianyi,record_id_x,"CL1, E1",zhengn,record_id_y,CE3
+115,214,tianyi,record_id_x,"CL1, E1, A2a, D1a",zhengn,record_id_y,"CE3, CL1, D1a"
+116,1015,tianyi,record_id_x,"CL1, BE5, BF4, D1a",zhengn,record_id_y,"BE5, D1a, CL1, BF4"
+117,344,tianyi,record_id_x,"CL1, BE5, BF4",zhengn,record_id_y,"CL1, BE5, BF4"
+118,1016,tianyi,record_id_x,"BL1, D1c",zhengn,record_id_y,"BL1, D1"
+120,71,tianyi,record_id_x,"CL1, E1, Q1",zhengn,record_id_y,"CL1, K2, E1, Q1"
+121,50,tianyi,record_id_x,L4,zhengn,record_id_y,"K2, L4"
+122,143,tianyi,record_id_x,"CL1, L4, F4",zhengn,record_id_y,"CL1, L4, F4"
+123,273,tianyi,record_id_x,"CL1, F4",zhengn,record_id_y,"CL1, F4"
+124,276,tianyi,record_id_x,"BL1, BL3, AN2",zhengn,record_id_y,"BL1, BL3, AN2"
+125,374,tianyi,record_id_x,AN2,zhengn,record_id_y,AN2
+126,1018,tianyi,record_id_x,"F4, BL3",zhengn,record_id_y,"F4, BL3"
+127,334,tianyi,record_id_x,"BN1, E1, F4",zhengn,record_id_y,"CE2, BN1, F4"
+128,1019,tianyi,record_id_x,"BN1, E1, D1a",zhengn,record_id_y,"CE2, BN1, D1a"
+129,1020,tianyi,record_id_x,"CF5, CL1, D1a",zhengn,record_id_y,"CF5, CL1, D1a"
+130,184,tianyi,record_id_x,"CL1, BF4, D1a",zhengn,record_id_y,"CL1, BF4, D1a"
+131,1021,tianyi,record_id_x,"P2, D1a",zhengn,record_id_y,"D1, D1a, P1"
+132,377,tianyi,record_id_x,"P2, K3",zhengn,record_id_y,"CL1, D1, K3"
+133,1022,tianyi,record_id_x,BL3,zhengn,record_id_y,"CL1, BL3"
+134,1023,tianyi,record_id_x,"K3, F4, D1c",zhengn,record_id_y,D1
+135,83,tianyi,record_id_x,"F4, BL3, BF4, D1c",zhengn,record_id_y,"D1, BF4, BL3"
+136,240,tianyi,record_id_x,"BF4, F4, BL3",zhengn,record_id_y,"BF4, F4, BL3"
+137,398,tianyi,record_id_x,"BL3, CE2",zhengn,record_id_y,"BL3, CE2"
+1,399,tianyi,record_id_x,"F4, BF4, CE2",zhengn,record_id_y,"CE2, BE5, F4"
+2,400,tianyi,record_id_x,"BF4, D1a",zhengn,record_id_y,"BE5, D1a"
+3,401,tianyi,record_id_x,"D1, BF4, D1a",zhengn,record_id_y,"D1, F1, D1a"
+4,402,tianyi,record_id_x,"BL1, D1, BF4",zhengn,record_id_y,"BL1, D1, F1"
+5,403,tianyi,record_id_x,"CE3, BL1, E1, BF4",zhengn,record_id_y,"BL1, E1"
+6,210,tianyi,record_id_x,"CE3, D1c, E1, BF4",zhengn,record_id_y,"D1, E1"
+8,372,tianyi,record_id_x,"BL1, BL2",zhengn,record_id_y,"BL1, BL2"
+9,404,tianyi,record_id_x,"E1, D1a",zhengn,record_id_y,"CL1, D1a"
+10,219,tianyi,record_id_x,"D1c, E1, D1a",zhengn,record_id_y,"D1, D1a"
+11,405,tianyi,record_id_x,"D1c, D1a",zhengn,record_id_y,"D1, D1a"
+12,406,tianyi,record_id_x,"D1c, D1a",zhengn,record_id_y,"D1, D1a"
+13,407,tianyi,record_id_x,"D1c, K3",zhengn,record_id_y,D1
+14,408,tianyi,record_id_x,"D1, K3",zhengn,record_id_y,D1
+15,382,tianyi,record_id_x,,zhengn,record_id_y,
+16,409,tianyi,record_id_x,"D1, BN1",zhengn,record_id_y,"D1, BN1"
+17,410,tianyi,record_id_x,"BL1, K3, BN1, K2",zhengn,record_id_y,"BL1, BN1"
+18,411,tianyi,record_id_x,"BL1, D1c, K2, K3",zhengn,record_id_y,"BL1, D1c, K2, K3"
+19,412,tianyi,record_id_x,"D1c, BL2",zhengn,record_id_y,"BL1, BL3"
+20,413,tianyi,record_id_x,"L5, CE2, F4, BL3",zhengn,record_id_y,"L5, CE2, F4, BL3"
+21,414,tianyi,record_id_x,"L5, CE2",zhengn,record_id_y,"L5, CE2"
+22,129,tianyi,record_id_x,"BL1, E1, A2a, BF4",zhengn,record_id_y,"E1, A2a, F4"
+23,181,tianyi,record_id_x,"BL1, E1",zhengn,record_id_y,"E1, BL2"
+24,415,tianyi,record_id_x,"E1, A2a",zhengn,record_id_y,"E1, A2a, CF5"
+25,193,tianyi,record_id_x,E1,zhengn,record_id_y,E1
+26,416,tianyi,record_id_x,D1c,zhengn,record_id_y,"D1c, E1, CF5"
+27,417,tianyi,record_id_x,"D1c, K2",zhengn,record_id_y,D1c
+29,419,tianyi,record_id_x,"F3, A1f, BL3, AN2",zhengn,record_id_y,"A1f, BL3, AN2"
+30,420,tianyi,record_id_x,"F4, BL3",zhengn,record_id_y,"F4, BL3"
+31,62,tianyi,record_id_x,"D1c, F4",zhengn,record_id_y,"D1c, F4"
+32,421,tianyi,record_id_x,"D1c, BL1, CE2",zhengn,record_id_y,"D1c, BL1, CE2"
+33,331,tianyi,record_id_x,"CE2, BF4",zhengn,record_id_y,"CE2, BF4"
+34,422,tianyi,record_id_x,"BL1, F3, F1, D1, BF4",zhengn,record_id_y,"BL1, F3, BF4, F4"
+35,423,tianyi,record_id_x,"F3, F1, D1, BF4, D1c",zhengn,record_id_y,"D1c, F3, F4, BF4"
+36,424,tianyi,record_id_x,"CL1, D1c",zhengn,record_id_y,"CL1, D1c"
+37,425,tianyi,record_id_x,"CL1, F4",zhengn,record_id_y,"CL1, F4"
+38,317,tianyi,record_id_x,"L5, F4, BL3",zhengn,record_id_y,"L5, F4, BL3"
+39,295,tianyi,record_id_x,"L5, BF4, BL3",zhengn,record_id_y,"L5, BF4"
+40,426,tianyi,record_id_x,"BN1, BF4, BL3",zhengn,record_id_y,"CL1, BF4"
+41,427,tianyi,record_id_x,"BL3, BN1, CL1, CE2",zhengn,record_id_y,"BL1, CE2"
+42,428,tianyi,record_id_x,"AN2, CL1, A1f",zhengn,record_id_y,"CL1, A1f, AN2"
+43,429,tianyi,record_id_x,"F1, AN2, BN1, CE2, A1f",zhengn,record_id_y,"CE2, BN1, A1f, AN2"
+44,204,tianyi,record_id_x,"BN1, F1, BL3",zhengn,record_id_y,"BN1, BL3"
+45,430,tianyi,record_id_x,"D1c, BL3",zhengn,record_id_y,"D1, BL3"
+46,431,tianyi,record_id_x,"D1c, D1a",zhengn,record_id_y,"D1, D1a"
+47,432,tianyi,record_id_x,"CE3, BL1, D1a",zhengn,record_id_y,"CL1, D1a"
+48,179,tianyi,record_id_x,"CE3, BF4",zhengn,record_id_y,CF5
+49,215,tianyi,record_id_x,"BF4, D1a",zhengn,record_id_y,"CF5, CL1, D1a"
+50,433,tianyi,record_id_x,"D1c, D1a",zhengn,record_id_y,"D1, D1a"
+51,115,tianyi,record_id_x,"O2, D1c, N3, CL1",zhengn,record_id_y,"BL3, D1, O2"
+52,209,tianyi,record_id_x,"N3, CL1",zhengn,record_id_y,BL3
+53,200,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+54,434,tianyi,record_id_x,"D1c, BF4, BL3",zhengn,record_id_y,"BF4, BL3"
+55,230,tianyi,record_id_x,"BL3, D1a",zhengn,record_id_y,"BL3, D1a"
+56,78,tianyi,record_id_x,"BL1, D1a",zhengn,record_id_y,"BL1, D1a"
+57,256,tianyi,record_id_x,"BL1, BN1, F4",zhengn,record_id_y,"BL1, F3, BN1"
+58,260,tianyi,record_id_x,"BL1, BN1, F4",zhengn,record_id_y,"BL1, BN1, F3"
+59,293,tianyi,record_id_x,"BL1, K3, F4",zhengn,record_id_y,"BL1, F4"
+60,393,tianyi,record_id_x,"D1c, K3",zhengn,record_id_y,D1
+61,384,tianyi,record_id_x,"D1c, F4, D1a",zhengn,record_id_y,"D1, F4, D1a"
+62,396,tianyi,record_id_x,,zhengn,record_id_y,
+63,435,tianyi,record_id_x,"CE3, E1, D1a",zhengn,record_id_y,"E1, D1a"
+64,107,tianyi,record_id_x,"A1d, CE3, E1",zhengn,record_id_y,"CE2, E1, A1d"
+65,436,tianyi,record_id_x,"CE2, A1d, BF4",zhengn,record_id_y,"CE2, A1d, BF4"
+66,261,tianyi,record_id_x,"BL1, BF4",zhengn,record_id_y,"BL1, BF4"
+67,437,tianyi,record_id_x,D1c,zhengn,record_id_y,BF4
+68,438,tianyi,record_id_x,"BL1, D1c",zhengn,record_id_y,"BL1, BF4"
+69,439,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+70,343,tianyi,record_id_x,,zhengn,record_id_y,
+71,392,tianyi,record_id_x,"BL1, K3",zhengn,record_id_y,"BL1, BN1"
+72,354,tianyi,record_id_x,"CL1, K3",zhengn,record_id_y,"BN1, CL1, F4"
+73,440,tianyi,record_id_x,"A1b, CL1",zhengn,record_id_y,"CL1, A1b, F4"
+74,441,tianyi,record_id_x,"A1b, D1, CL1",zhengn,record_id_y,"CL1, D1, A1b"
+75,442,tianyi,record_id_x,"D1, F4",zhengn,record_id_y,"D1, F4"
+76,280,tianyi,record_id_x,"BL1, CE2, F4",zhengn,record_id_y,"L5, CE2, F4"
+77,236,tianyi,record_id_x,"BL1, D1, CE2",zhengn,record_id_y,"L5, D1, CE2"
+78,443,tianyi,record_id_x,"D1c, D1",zhengn,record_id_y,"D1c, D1"
+79,444,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+80,445,tianyi,record_id_x,"D1c, BL1, BL3",zhengn,record_id_y,"D1c, BL1, BL3"
+81,446,tianyi,record_id_x,"D1c, BL3",zhengn,record_id_y,"D1, BL3"
+82,301,tianyi,record_id_x,"D1c, BL1",zhengn,record_id_y,"BL1, D1"
+83,74,tianyi,record_id_x,"BL1, E1",zhengn,record_id_y,"BL1, CE2"
+84,447,tianyi,record_id_x,"BL1, E1",zhengn,record_id_y,"BL1, CE2"
+85,448,tianyi,record_id_x,"BL1, D1a",zhengn,record_id_y,"BL1, D1a"
+86,449,tianyi,record_id_x,"A2a, F4, D1a",zhengn,record_id_y,"F4, D1a"
+87,187,tianyi,record_id_x,"CE2, A2a",zhengn,record_id_y,CE2
+88,197,tianyi,record_id_x,"BL1, F4, CE2",zhengn,record_id_y,"CE2, F4, BL3"
+89,450,tianyi,record_id_x,"BL1, CE2",zhengn,record_id_y,"E1, BL3"
+90,451,tianyi,record_id_x,"D1, CE2",zhengn,record_id_y,"D1, E1"
+91,452,tianyi,record_id_x,"CL1, K3, D1, CE2",zhengn,record_id_y,"CE2, CL1, D1"
+92,286,tianyi,record_id_x,"CL1, K3, F1, D1, CE2",zhengn,record_id_y,"F4, CL1, CE2, F2"
+93,199,tianyi,record_id_x,"BL1, D1c, D1, F1",zhengn,record_id_y,"D1, F2, F4"
+94,297,tianyi,record_id_x,"D1c, BL1, K2",zhengn,record_id_y,"D1, L4, K2"
+95,453,tianyi,record_id_x,"K3, K2",zhengn,record_id_y,K2
+96,165,tianyi,record_id_x,"D1, K3",zhengn,record_id_y,D1
+97,380,tianyi,record_id_x,CL1,zhengn,record_id_y,"CL1, D1c, D1"
+98,454,tianyi,record_id_x,"CL1, D1c, D1",zhengn,record_id_y,"CL1, D1, D1c"
+99,169,tianyi,record_id_x,"D1c, Q1",zhengn,record_id_y,"BL1, D1c, Q1"
+100,3,tianyi,record_id_x,"A1b, CL1",zhengn,record_id_y,"A1b, CL1, BL1"
+101,390,tianyi,record_id_x,"E1, CL1, A1b",zhengn,record_id_y,"A1b, CL1, E1"
+102,378,tianyi,record_id_x,"A1b, BL1, E1",zhengn,record_id_y,"A1b, E1"
+103,289,tianyi,record_id_x,"A1b, BL1, BF4",zhengn,record_id_y,"A1b, BF4"
+104,455,tianyi,record_id_x,"L4, KA1b, BF4",zhengn,record_id_y,"L4, KA1b, BF4"
+105,337,tianyi,record_id_x,"KA1b, L4, CE2",zhengn,record_id_y,"CE2, L4, KA1b"
+106,456,tianyi,record_id_x,"BL1, F4, CE2",zhengn,record_id_y,"CE2, BL1, F4"
+107,457,tianyi,record_id_x,"BL1, F4, BN1, D1c",zhengn,record_id_y,"A1b, BL1, F4"
+108,458,tianyi,record_id_x,"D1c, L4",zhengn,record_id_y,"A1b, L4"
+109,459,tianyi,record_id_x,,zhengn,record_id_y,
+110,460,tianyi,record_id_x,"L4, BE5, BL3",zhengn,record_id_y,"CE2, L4, BL3"
+111,461,tianyi,record_id_x,"BE5, F1, BF4, BL3",zhengn,record_id_y,"CE2, BF4, BL3"
+112,121,tianyi,record_id_x,"D1, BF4",zhengn,record_id_y,"D1, BF4"
+113,183,tianyi,record_id_x,"D1, D1a",zhengn,record_id_y,"D1, D1a"
+114,281,tianyi,record_id_x,"BL1, L4, D1a",zhengn,record_id_y,"L4, D1a"
+115,394,tianyi,record_id_x,"BL1, L4, BF4",zhengn,record_id_y,"L4, D1a"
+116,462,tianyi,record_id_x,"D1, BF4",zhengn,record_id_y,"D1, D1a"
+117,379,tianyi,record_id_x,"D1, BE5",zhengn,record_id_y,"D1, CL1"
+118,323,tianyi,record_id_x,BE5,zhengn,record_id_y,"L4, CL1"
+119,463,tianyi,record_id_x,K2,zhengn,record_id_y,"L4, K2"
+120,314,tianyi,record_id_x,"BL1, CE2",zhengn,record_id_y,"BL1, K2, CE2"
+121,464,tianyi,record_id_x,"BL1, F4, D1a, L4, CE2, K2",zhengn,record_id_y,"BL1, F4, D1a, L4, CE2"
+122,465,tianyi,record_id_x,"E1, D1a, L4",zhengn,record_id_y,"L4, E1, D1a"
+123,466,tianyi,record_id_x,"E1, L4, F4",zhengn,record_id_y,"E1, L4, F4"
+124,366,tianyi,record_id_x,"L4, BL3",zhengn,record_id_y,"L4, BL3"
+125,251,tianyi,record_id_x,"BL1, BL3",zhengn,record_id_y,"BL1, BL3"
+126,239,tianyi,record_id_x,"BL1, F4",zhengn,record_id_y,"BL1, F4"
+127,467,tianyi,record_id_x,"N3, L4, O2",zhengn,record_id_y,"L4, F4, O2"
+128,105,tianyi,record_id_x,"BL1, L4, F2, A1g",zhengn,record_id_y,"BL1, L4, F2, A1g"
+129,341,tianyi,record_id_x,"E1, A1g, BF4, F2, A2a",zhengn,record_id_y,"BL1, E1, A1g, BF4, F2"
+130,168,tianyi,record_id_x,"A1b, E1, BF4",zhengn,record_id_y,"BL1, E1, BF4"
+131,194,tianyi,record_id_x,"A1b, BF4",zhengn,record_id_y,
+132,468,tianyi,record_id_x,"D1, F1",zhengn,record_id_y,"BL1, D1, F1"
+133,469,tianyi,record_id_x,"F1, D1a, D1, BF4",zhengn,record_id_y,"D1, F1, D1a"
+134,470,tianyi,record_id_x,"E1, D1a, L4, CL1",zhengn,record_id_y,"E1, L4, D1a"
+135,338,tianyi,record_id_x,"E1, BN1, L4, CL1, CE2",zhengn,record_id_y,"CE2, BN1, E1, L4"
+136,471,tianyi,record_id_x,"CE2, BN1, BL3",zhengn,record_id_y,"CE2, BN1, BL3"
+137,134,tianyi,record_id_x,"D1c, BL3",zhengn,record_id_y,"D1, BL3"
+138,472,tianyi,record_id_x,"D1c, D1, A2a",zhengn,record_id_y,A2a
+139,473,tianyi,record_id_x,"CE2, A2a, D1, BL3",zhengn,record_id_y,"BL3, D1, A2a"
+140,72,tianyi,record_id_x,"CE2, F4, BL3",zhengn,record_id_y,"F4, BL3"
+141,474,tianyi,record_id_x,"D1c, A2a, F4",zhengn,record_id_y,"BL1, A2a, F4, D1a"
+142,475,tianyi,record_id_x,"D1c, L4, A2a",zhengn,record_id_y,"BL1, L4, A2a, D1a"
+143,476,tianyi,record_id_x,"L4, F4",zhengn,record_id_y,"L4, F4"
+144,477,tianyi,record_id_x,"CE2, F4, BL3",zhengn,record_id_y,"CE2, F4, BL3"
+145,478,tianyi,record_id_x,"CE2, BL3, D1a",zhengn,record_id_y,"CE2, BL3, D1a"
+146,263,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+147,479,tianyi,record_id_x,"BL1, BE5, D1a",zhengn,record_id_y,"BL1, CE2, D1a"
+148,5,tianyi,record_id_x,"BL1, BN1, BE5",zhengn,record_id_y,"BL1, BN1, CE2"
+149,480,tianyi,record_id_x,"BL1, BN1, F4",zhengn,record_id_y,"BL1, BN1, F4"
+150,298,tianyi,record_id_x,"F4, BL3",zhengn,record_id_y,"L5, F4"
+151,481,tianyi,record_id_x,"F4, BL3",zhengn,record_id_y,"L5, F4"
+152,299,tianyi,record_id_x,"CL1, F4, CE2",zhengn,record_id_y,"CE2, CL1, F4"
+153,326,tianyi,record_id_x,CE2,zhengn,record_id_y,"CL1, CE2"
+154,119,tianyi,record_id_x,"BL1, A2a",zhengn,record_id_y,"A1b, BL1"
+155,482,tianyi,record_id_x,"BL1, A2a, CE2",zhengn,record_id_y,"BL1, CE2, A1b"
+156,483,tianyi,record_id_x,"BL1, BF4",zhengn,record_id_y,"BL1, CF5"
+157,319,tianyi,record_id_x,"F3, BF4, KA1b, CE2",zhengn,record_id_y,"CE2, L4, KA1b, CF5"
+158,373,tianyi,record_id_x,"BL1, F3, KA1b",zhengn,record_id_y,"BL1, L4, KA1b"
+159,75,tianyi,record_id_x,"BL1, D1",zhengn,record_id_y,"BL1, D1"
+160,350,tianyi,record_id_x,"AN2, D1, O1",zhengn,record_id_y,"D1, AN2, O1"
+161,484,tianyi,record_id_x,"AN2, K2",zhengn,record_id_y,"K2, AN2"
+162,485,tianyi,record_id_x,"K2, F4",zhengn,record_id_y,"K2, F4"
+163,166,tianyi,record_id_x,"D1, F4",zhengn,record_id_y,"D1, F4"
+164,278,tianyi,record_id_x,"D1, BN1",zhengn,record_id_y,"CL1, D1, BN1"
+166,348,tianyi,record_id_x,"BL1, D1a, BN1, CE2",zhengn,record_id_y,"CE2, BN1, CL1, D1a"
+167,106,tianyi,record_id_x,"BL1, A1g, BN1, D1c, CE2, F2",zhengn,record_id_y,"CE2, BN1, CL1, A1g"
+168,487,tianyi,record_id_x,"F2, A1g",zhengn,record_id_y,"D1, A1g"
+169,488,tianyi,record_id_x,,zhengn,record_id_y,
+170,489,tianyi,record_id_x,"BL1, KA1b, L4, D1c",zhengn,record_id_y,"D1, L4, KA1b"
+171,100,tianyi,record_id_x,"BL1, KA1b, L4, K2",zhengn,record_id_y,"L4, K2, KA1b"
+172,490,tianyi,record_id_x,"K2, BL3",zhengn,record_id_y,"K2, BL3"
+173,138,tianyi,record_id_x,"BL3, AN2, A2a, A1f",zhengn,record_id_y,"A2a, BL3, AN2"
+174,191,tianyi,record_id_x,"AN2, D1c, A2a, A1b, A1f",zhengn,record_id_y,"A1b, A2a, BF4, AN2"
+175,375,tianyi,record_id_x,"A1b, D1c, BL3",zhengn,record_id_y,"A1b, BF4, BL3"
+176,213,tianyi,record_id_x,"BL1, BL3",zhengn,record_id_y,BL2
+177,491,tianyi,record_id_x,"A1b, BL1",zhengn,record_id_y,"A1b, BL3, BL2"
+178,328,tianyi,record_id_x,"A1b, D1a",zhengn,record_id_y,"A1b, D1a"
+179,492,tianyi,record_id_x,"BN1, BE5, D1a",zhengn,record_id_y,
+180,493,tianyi,record_id_x,"BE5, D1, BN1, A1b",zhengn,record_id_y,"A1b, D1, D1a"
+181,494,tianyi,record_id_x,"A1b, D1, F1",zhengn,record_id_y,"A1b, D1, F1"
+182,495,tianyi,record_id_x,"CE2, F1",zhengn,record_id_y,"E1, F1"
+184,496,tianyi,record_id_x,"D1c, BL3",zhengn,record_id_y,"L5, D1"
+185,497,tianyi,record_id_x,"BL1, CE2, BL3",zhengn,record_id_y,"L5, BL1, L4, CE2"
+186,498,tianyi,record_id_x,"BL1, BE5, CE2",zhengn,record_id_y,"BL1, L4, BE5, CE2"
+187,499,tianyi,record_id_x,"BL1, BE5, F4, CE2",zhengn,record_id_y,"BL1, CE2, F4"
+188,283,tianyi,record_id_x,"BL1, F4, CE2, A1b",zhengn,record_id_y,"A1b, F4"
+189,500,tianyi,record_id_x,"A1b, BL3",zhengn,record_id_y,"A1b, BL1, K2, BL3"
+190,501,tianyi,record_id_x,"BN1, BL3",zhengn,record_id_y,"CL1, BN1, K2, BL3"
+191,502,tianyi,record_id_x,"BN1, F4",zhengn,record_id_y,"CL1, F3, BN1"
+192,503,tianyi,record_id_x,"D1, F4",zhengn,record_id_y,"D1, F3"
+193,504,tianyi,record_id_x,"D1c, D1",zhengn,record_id_y,
+194,505,tianyi,record_id_x,"D1c, A2a",zhengn,record_id_y,"BL1, D1, A2a"
+195,506,tianyi,record_id_x,"F4, CE2, BL1, A2a",zhengn,record_id_y,"BL1, CE2, A2a, F4"
+196,231,tianyi,record_id_x,"F4, D1, CE2",zhengn,record_id_y,"D1, F4, CE2"
+197,145,tianyi,record_id_x,"cL1, D1, L4",zhengn,record_id_y,"CL1, D1, L4"
+199,285,tianyi,record_id_x,"F1, L4, BF4, A1b",zhengn,record_id_y,"A1b, F1, L4, F2"
+200,30,tianyi,record_id_x,"F1, L4, BF4, A1b",zhengn,record_id_y,"A1b, L4, F1, F2"
+201,262,tianyi,record_id_x,"D1c, BL1, A1b",zhengn,record_id_y,"A1b, BL1"
+202,507,tianyi,record_id_x,"BL1, CE2",zhengn,record_id_y,"BL1, E1"
+203,508,tianyi,record_id_x,"E1, O2",zhengn,record_id_y,"E1, O2"
+204,509,tianyi,record_id_x,"F4, BL3, CE2",zhengn,record_id_y,"CE2, BL3"
+205,510,tianyi,record_id_x,"CE2, L4, BL3",zhengn,record_id_y,"CE2, L4, BL3"
+206,511,tianyi,record_id_x,,zhengn,record_id_y,
+207,135,tianyi,record_id_x,"D1c, L4",zhengn,record_id_y,"D1c, L4"
+208,512,tianyi,record_id_x,,zhengn,record_id_y,"D1c, D1"
+209,513,tianyi,record_id_x,"D1c, BL1",zhengn,record_id_y,"BL1, D1"
+211,228,tianyi,record_id_x,"CE2, F1, D1a, CL1",zhengn,record_id_y,"CE2, F1, D1a"
+212,60,tianyi,record_id_x,"F1, L4, CL1, CE2",zhengn,record_id_y,"CE2, L4, F1"
+213,2,tianyi,record_id_x,"A1b, L4",zhengn,record_id_y,"A1b, L4"
+214,515,tianyi,record_id_x,"CL1, A1b",zhengn,record_id_y,"CL1, K2, A2a"
+215,15,tianyi,record_id_x,F3,zhengn,record_id_y,"F3, CL1"
+216,42,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+217,59,tianyi,record_id_x,"L4, CL1",zhengn,record_id_y,"CL1, L4, L5"
+218,66,tianyi,record_id_x,"BL1, E1, BE5",zhengn,record_id_y,"BL1, E1, BE5"
+219,516,tianyi,record_id_x,"F1, BN1",zhengn,record_id_y,"CF5, F1"
+220,517,tianyi,record_id_x,O3,zhengn,record_id_y,BL1
+222,519,tianyi,record_id_x,A1b,zhengn,record_id_y,"F3, A2a"
+223,520,tianyi,record_id_x,L4,zhengn,record_id_y,"L5, D1"
+224,73,tianyi,record_id_x,CE2,zhengn,record_id_y,"D1c, CE2"
+226,82,tianyi,record_id_x,BF4,zhengn,record_id_y,"F4, BF4"
+227,522,tianyi,record_id_x,"D1c, A2a",zhengn,record_id_y,"L5, BL1, BN1, D1a"
+228,87,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+229,90,tianyi,record_id_x,"N3, BL2",zhengn,record_id_y,"BE5, BL2"
+230,91,tianyi,record_id_x,A2a,zhengn,record_id_y,"A1b, CE2"
+231,95,tianyi,record_id_x,L5,zhengn,record_id_y,"L5, A2a, D1a"
+232,122,tianyi,record_id_x,A2a,zhengn,record_id_y,"BL1, F3, KA1b, A2a"
+233,123,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+234,125,tianyi,record_id_x,"CL1, A1b",zhengn,record_id_y,"CL1, F3"
+235,139,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+236,162,tianyi,record_id_x,"BL3, BL1",zhengn,record_id_y,"BL3, BL1"
+237,523,tianyi,record_id_x,D1a,zhengn,record_id_y,"BL1, L4, F4, D1a"
+238,185,tianyi,record_id_x,"BL1, BN1, CL1",zhengn,record_id_y,"A1b, BN1, CL1"
+239,188,tianyi,record_id_x,BE5,zhengn,record_id_y,"L4, CL1, BE5"
+240,192,tianyi,record_id_x,"A1b, BF4, D1c",zhengn,record_id_y,"A1b, BL1"
+241,201,tianyi,record_id_x,"BE5, CE3",zhengn,record_id_y,E1
+242,524,tianyi,record_id_x,CL1,zhengn,record_id_y,"CL1, BL3"
+243,205,tianyi,record_id_x,BL1,zhengn,record_id_y,"BL1, E1, D1a"
+244,525,tianyi,record_id_x,D1c,zhengn,record_id_y,"D1, A1f, AN2"
+246,216,tianyi,record_id_x,D1a,zhengn,record_id_y,"L5, A2a, D1a"
+247,217,tianyi,record_id_x,D1c,zhengn,record_id_y,"D1, BE5"
+248,224,tianyi,record_id_x,BF4,zhengn,record_id_y,"CL1, CF5"
+249,227,tianyi,record_id_x,"BN1, CL1",zhengn,record_id_y,"CL1, L4"
+250,246,tianyi,record_id_x,"D1a, BF4",zhengn,record_id_y,"D1, D1a"
+251,253,tianyi,record_id_x,"BE5, D1, A1b",zhengn,record_id_y,"A1b, D1, CL1"
+252,526,tianyi,record_id_x,"A1b, BL1, CE2",zhengn,record_id_y,"A1b, BL1, CE2"
+253,527,tianyi,record_id_x,"BL3, CE3",zhengn,record_id_y,"D1, BL3"
+254,267,tianyi,record_id_x,N3,zhengn,record_id_y,"BL1, CE2"
+255,272,tianyi,record_id_x,"F1, BN1, CL1",zhengn,record_id_y,"CL1, F1, BL3"
+256,275,tianyi,record_id_x,"E1, A1b, BL1",zhengn,record_id_y,"BL1, E1, D1a"
+257,528,tianyi,record_id_x,"D1c, A1f",zhengn,record_id_y,"CE2, CL1"
+258,282,tianyi,record_id_x,"CE2, F4, BL3",zhengn,record_id_y,"K2, BL3"
+259,529,tianyi,record_id_x,"E1, BL3, CE2, A2a",zhengn,record_id_y,"E1, A2a"
+260,530,tianyi,record_id_x,"F3, E1, BE5, F4",zhengn,record_id_y,"F3, BE5, F4"
+261,300,tianyi,record_id_x,BL3,zhengn,record_id_y,BL3
+262,325,tianyi,record_id_x,"CL1, BF4",zhengn,record_id_y,"CL1, BF4"
+264,330,tianyi,record_id_x,"CE2, BL3",zhengn,record_id_y,"CE2, A1b, BL3"
+265,333,tianyi,record_id_x,"CE2, BN1",zhengn,record_id_y,"BN1, BL3"
+266,335,tianyi,record_id_x,"CL1, BN1, K2",zhengn,record_id_y,"CL1, BN1, K2"
+267,531,tianyi,record_id_x,BE5,zhengn,record_id_y,"CL1, BE5"
+268,351,tianyi,record_id_x,"BL1, A1f, AN2",zhengn,record_id_y,"BN1, CL1, A1f, AN2"
+269,353,tianyi,record_id_x,F4,zhengn,record_id_y,"F4, BL3"
+270,356,tianyi,record_id_x,BL1,zhengn,record_id_y,"A1b, BL1"
+271,359,tianyi,record_id_x,"BL1, L4",zhengn,record_id_y,CL1
+272,532,tianyi,record_id_x,BL3,zhengn,record_id_y,"K2, BL3"
+273,363,tianyi,record_id_x,K2,zhengn,record_id_y,"K2, BL3"
+274,364,tianyi,record_id_x,D1c,zhengn,record_id_y,"D1, D1a"
+275,376,tianyi,record_id_x,"BK1, CL1",zhengn,record_id_y,"CL1, BE5"
+277,388,tianyi,record_id_x,"F3, BL3, AN2",zhengn,record_id_y,"F3, D1, BL3, AN2"
+278,389,tianyi,record_id_x,A2a,zhengn,record_id_y,BL1
+279,391,tianyi,record_id_x,F3,zhengn,record_id_y,"F3, D1, KA1b"
+280,395,tianyi,record_id_x,E1,zhengn,record_id_y,"BF4, D1a"
+281,533,tianyi,record_id_x,"BE5, BN1",zhengn,record_id_y,BE5
+282,534,tianyi,record_id_x,K2,zhengn,record_id_y,"D1, K2"
+283,535,tianyi,record_id_x,"BL1, N3, F4",zhengn,record_id_y,"BL1, KA1b, F4"
+284,536,tianyi,record_id_x,K2,zhengn,record_id_y,"K2, F4"
+285,537,tianyi,record_id_x,,zhengn,record_id_y,D1
+286,538,tianyi,record_id_x,L4,zhengn,record_id_y,"BL1, L4, A2a"
+287,539,tianyi,record_id_x,BK1,zhengn,record_id_y,L5
+288,540,tianyi,record_id_x,F4,zhengn,record_id_y,"A1b, F4"
+289,541,tianyi,record_id_x,"BL2, D1",zhengn,record_id_y,"D1, F1, BL2"
+291,543,tianyi,record_id_x,D1c,zhengn,record_id_y,"D1c, BL2"
+293,545,tianyi,record_id_x,D1,zhengn,record_id_y,CL1
+294,546,tianyi,record_id_x,D1,zhengn,record_id_y,"D1, E1, A2a"
+296,548,tianyi,record_id_x,BL2,zhengn,record_id_y,"D1, BL2"
+297,549,tianyi,record_id_x,"A1b, D1c",zhengn,record_id_y,"A1b, D1a"
+298,550,tianyi,record_id_x,"A1b, D1c",zhengn,record_id_y,"A1b, BL2"
+299,551,tianyi,record_id_x,BE5,zhengn,record_id_y,"BL1, E1, BE5"
+300,552,tianyi,record_id_x,"F4, BE5",zhengn,record_id_y,"E1, BE5, F4"
+301,553,tianyi,record_id_x,BL1,zhengn,record_id_y,"L5, CL1"
+302,554,tianyi,record_id_x,"KA1b, L4",zhengn,record_id_y,"L4, BE5, KA1b"
+303,555,tianyi,record_id_x,"KA1b, L4",zhengn,record_id_y,"F3, L4"
+305,557,tianyi,record_id_x,E1,zhengn,record_id_y,"L4, E1"
+306,558,tianyi,record_id_x,N3,zhengn,record_id_y,"L4, KA1b"
+307,559,tianyi,record_id_x,F4,zhengn,record_id_y,"BL1, E1, BE5, F4"
+308,560,tianyi,record_id_x,"L5, N3",zhengn,record_id_y,"L5, BN1, F1, BL2"
+309,561,tianyi,record_id_x,"N3, BL2",zhengn,record_id_y,"CL1, BL2"
+310,562,tianyi,record_id_x,BL3,zhengn,record_id_y,"L5, A2a, BL2"
+311,563,tianyi,record_id_x,BL3,zhengn,record_id_y,"L5, BL1, D1a"
+312,564,tianyi,record_id_x,D1c,zhengn,record_id_y,"D1, F4"
+313,565,tianyi,record_id_x,D1c,zhengn,record_id_y,"A1b, D1"
+314,566,tianyi,record_id_x,"BL1, F4",zhengn,record_id_y,"BL1, F4"
+315,567,tianyi,record_id_x,"BL3, CL1",zhengn,record_id_y,"CL1, L4"
+316,568,tianyi,record_id_x,"E1, BL3, CL1",zhengn,record_id_y,"E1, L4, CL1"
+317,569,tianyi,record_id_x,AN2,zhengn,record_id_y,"L5, BL1, AN2"
+318,570,tianyi,record_id_x,"AN2, CE2, CL1, O1",zhengn,record_id_y,"CE2, AN2, CL1, O1"
+319,571,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+320,572,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+321,573,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+322,574,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+323,575,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+324,576,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+325,577,tianyi,record_id_x,"BF4, D1, P1",zhengn,record_id_y,"D1, P1, BF4"
+326,578,tianyi,record_id_x,"D1, P1",zhengn,record_id_y,"D1, P1"
+327,579,tianyi,record_id_x,"R1, F2",zhengn,record_id_y,R1
+328,580,tianyi,record_id_x,BE5,zhengn,record_id_y,BE5
+329,581,tianyi,record_id_x,CE2,zhengn,record_id_y,"BL3, CE2"
+330,582,tianyi,record_id_x,"BL1, BN1",zhengn,record_id_y,"BL1, BN1"
+331,583,tianyi,record_id_x,"BL1, BN1",zhengn,record_id_y,"BL1, BN1"
+332,584,tianyi,record_id_x,BE5,zhengn,record_id_y,BE5
+333,585,tianyi,record_id_x,BL3,zhengn,record_id_y,BL3
+334,586,tianyi,record_id_x,"CL1, CE3",zhengn,record_id_y,"CL1, BE5"
+335,587,tianyi,record_id_x,"BF4, CF5",zhengn,record_id_y,CF5
+336,588,tianyi,record_id_x,E1,zhengn,record_id_y,E1
+337,589,tianyi,record_id_x,"E1, L4",zhengn,record_id_y,"E1, L4"
+338,590,tianyi,record_id_x,E1,zhengn,record_id_y,E1
+339,591,tianyi,record_id_x,"E1, BL3",zhengn,record_id_y,"BL1, E1, BL3"
+340,592,tianyi,record_id_x,"E1, A1b, D1, BF4",zhengn,record_id_y,"E1, F1, A1b"
+341,593,tianyi,record_id_x,BE5,zhengn,record_id_y,BE5
+342,594,tianyi,record_id_x,BL3,zhengn,record_id_y,BL3
+344,596,tianyi,record_id_x,BN1,zhengn,record_id_y,BN1
+345,597,tianyi,record_id_x,"D1, CE2",zhengn,record_id_y,"E1, CL1, CE2, CF5, A1b, CE3"
+346,598,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+347,599,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+348,600,tianyi,record_id_x,"CL1, F4",zhengn,record_id_y,"CL1, CE2, BL3"
+349,601,tianyi,record_id_x,"F4, CL1",zhengn,record_id_y,"CL1, F4"
+350,602,tianyi,record_id_x,CL1,zhengn,record_id_y,"E1, F4, CE2, CL1, A2a"
+351,603,tianyi,record_id_x,BE5,zhengn,record_id_y,BE5
+352,604,tianyi,record_id_x,BL3,zhengn,record_id_y,"BL1, BL3"
+353,605,tianyi,record_id_x,BL3,zhengn,record_id_y,BL3
+354,606,tianyi,record_id_x,"D1, BF4",zhengn,record_id_y,"D1, BF4"
+355,607,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+356,608,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+357,609,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+358,610,tianyi,record_id_x,CE2,zhengn,record_id_y,CE2
+359,611,tianyi,record_id_x,CE2,zhengn,record_id_y,BE5
+360,612,tianyi,record_id_x,"BE5, D1c, CL1",zhengn,record_id_y,"CL1, D1, BE5"
+361,613,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+362,614,tianyi,record_id_x,BL1,zhengn,record_id_y,CL1
+363,615,tianyi,record_id_x,"BL1, AN2, A1f, F3",zhengn,record_id_y,"BL1, O1, A1d, F4"
+364,616,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+365,617,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+366,618,tianyi,record_id_x,"BL1, BN1",zhengn,record_id_y,"BL1, BN1"
+367,619,tianyi,record_id_x,BN1,zhengn,record_id_y,BN1
+368,620,tianyi,record_id_x,D1c,zhengn,record_id_y,D1c
+369,621,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+370,622,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+371,623,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+372,624,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+373,625,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+374,626,tianyi,record_id_x,"CE2, F4",zhengn,record_id_y,"CE2, F4"
+375,627,tianyi,record_id_x,"CE2, F4, BL2",zhengn,record_id_y,"CE2, F4, BL2"
+376,628,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+377,629,tianyi,record_id_x,F2,zhengn,record_id_y,F2
+378,630,tianyi,record_id_x,"BE5, CF5, CE3",zhengn,record_id_y,"BE5, CF5 ,CE3"
+379,631,tianyi,record_id_x,"BE5, CF5, CE3",zhengn,record_id_y,"BE5, CF5"
+382,634,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+383,635,tianyi,record_id_x,L4,zhengn,record_id_y,L4
+384,636,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+385,637,tianyi,record_id_x,"E1, BN1",zhengn,record_id_y,"E1, BN1"
+386,638,tianyi,record_id_x,BN1,zhengn,record_id_y,BN1
+387,639,tianyi,record_id_x,BN1,zhengn,record_id_y,"BN1, CL1"
+388,640,tianyi,record_id_x,"E1, D1c",zhengn,record_id_y,"E1, D1c"
+389,641,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+390,642,tianyi,record_id_x,"BL1, BN1",zhengn,record_id_y,"BL1, BN1"
+391,643,tianyi,record_id_x,"BL1, BN1",zhengn,record_id_y,"BL1, BN1"
+392,644,tianyi,record_id_x,"BL1, BN1",zhengn,record_id_y,"CL1, BL1"
+393,645,tianyi,record_id_x,"BE5, CE3",zhengn,record_id_y,"CL1, BE5"
+394,646,tianyi,record_id_x,D1c,zhengn,record_id_y,"CL1, D1"
+395,647,tianyi,record_id_x,"BE5, D1",zhengn,record_id_y,"D1, BE5, F2"
+396,648,tianyi,record_id_x,D1a,zhengn,record_id_y,"CL1, D1a"
+397,649,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+398,650,tianyi,record_id_x,BF4,zhengn,record_id_y,D1
+399,651,tianyi,record_id_x,"E1, CL1",zhengn,record_id_y,"E1, CL1"
+400,652,tianyi,record_id_x,"E1, CL1",zhengn,record_id_y,"E1, CL1"
+401,653,tianyi,record_id_x,"AN2, A1f",zhengn,record_id_y,AN2
+403,655,tianyi,record_id_x,"BE5, CF5, CE3",zhengn,record_id_y,"CL1, CE3"
+404,656,tianyi,record_id_x,"F4, CL1, CE2",zhengn,record_id_y,"CL1, CE2, F4"
+405,657,tianyi,record_id_x,BN1,zhengn,record_id_y,BN1
+406,658,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+407,659,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+408,660,tianyi,record_id_x,BN1,zhengn,record_id_y,"BL1, BN1"
+409,661,tianyi,record_id_x,CL1,zhengn,record_id_y,"BL1, BN1"
+410,662,tianyi,record_id_x,"BL1, F4",zhengn,record_id_y,"F3, BL1, F4"
+411,663,tianyi,record_id_x,F1,zhengn,record_id_y,"N3, F1"
+412,664,tianyi,record_id_x,F1,zhengn,record_id_y,"N3, F1"
+413,665,tianyi,record_id_x,BN1,zhengn,record_id_y,BN1
+415,667,tianyi,record_id_x,A1b,zhengn,record_id_y,"BL1, A1b"
+416,668,tianyi,record_id_x,A1b,zhengn,record_id_y,"BL1, A1b"
+417,669,tianyi,record_id_x,"D1a, D1c",zhengn,record_id_y,D1
+418,670,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+419,671,tianyi,record_id_x,"CE3, E1",zhengn,record_id_y,E1
+420,672,tianyi,record_id_x,"BL1, CE3",zhengn,record_id_y,"CE3, CL1"
+421,673,tianyi,record_id_x,,zhengn,record_id_y,
+423,675,tianyi,record_id_x,"BL1, E1, D1a",zhengn,record_id_y,"BL1, CE2, D1a"
+424,676,tianyi,record_id_x,"E1, D1",zhengn,record_id_y,"D1c, E1"
+425,677,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+426,678,tianyi,record_id_x,BE5,zhengn,record_id_y,CE3
+427,679,tianyi,record_id_x,"BL1, BE5",zhengn,record_id_y,"CL1, CE3"
+428,680,tianyi,record_id_x,"BL1, AN2",zhengn,record_id_y,"BL1, AN2"
+429,681,tianyi,record_id_x,"AN2, CL1",zhengn,record_id_y,"AN2, CL1"
+430,682,tianyi,record_id_x,"N3, L4",zhengn,record_id_y,N3
+431,683,tianyi,record_id_x,BK1,zhengn,record_id_y,"BK1, CL1"
+432,684,tianyi,record_id_x,"BK1, CL1",zhengn,record_id_y,"KA1b, CL1"
+433,685,tianyi,record_id_x,"CE2, A1d",zhengn,record_id_y,"CE2, A1d"
+434,686,tianyi,record_id_x,"CE2, A1d",zhengn,record_id_y,"CE2, A1d"
+435,687,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+436,688,tianyi,record_id_x,BE5,zhengn,record_id_y,BE5
+438,690,tianyi,record_id_x,"AN2, D1",zhengn,record_id_y,D1
+439,691,tianyi,record_id_x,"CE2, F4",zhengn,record_id_y,"F4, D1"
+440,692,tianyi,record_id_x,"F3, BN1",zhengn,record_id_y,F3
+441,693,tianyi,record_id_x,"BL2, AN2, KA1b, CL1",zhengn,record_id_y,"BL2, AN2, KA1b, CL1"
+442,694,tianyi,record_id_x,"KA1b, BF4",zhengn,record_id_y,"KA1b, BF4"
+443,695,tianyi,record_id_x,"BL1, F4",zhengn,record_id_y,"BL1, F4"
+445,697,tianyi,record_id_x,"BK1, CE3, BE5",zhengn,record_id_y,"BE5, BK1"
+446,698,tianyi,record_id_x,"BL1, F4, A1g, D1",zhengn,record_id_y,"BL1, F4, A1g"
+447,699,tianyi,record_id_x," A1b, CL1, CE2, BK1",zhengn,record_id_y,"A1b, BK1, CL1, CE2"
+448,700,tianyi,record_id_x,"A1b, AN2, CE2",zhengn,record_id_y,"N3, A1b, CE2"
+449,701,tianyi,record_id_x,BK1,zhengn,record_id_y,"BK1, K2"
+450,702,tianyi,record_id_x,"F3, BK1, CL1, CE2",zhengn,record_id_y,"BL1, BE5, L4, BL3, BK1, K2"
+451,703,tianyi,record_id_x,"BF4, CE2, CF5",zhengn,record_id_y,"BE5, CE2, CF5"
+452,704,tianyi,record_id_x,"BL1, CE2",zhengn,record_id_y,"BL1, CE2"
+453,705,tianyi,record_id_x,"BL1, CE2",zhengn,record_id_y,"BL1, CE2"
+455,707,tianyi,record_id_x,"F3, CE2",zhengn,record_id_y,A1d
+456,708,tianyi,record_id_x,"BL1, BN1, A2a",zhengn,record_id_y,"BN1, CL1"
+457,709,tianyi,record_id_x,"BN1, A2a",zhengn,record_id_y,"BN1, CL1"
+458,710,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+459,711,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+460,712,tianyi,record_id_x,"BL3, CE3",zhengn,record_id_y,"BL3, CE2"
+461,713,tianyi,record_id_x,"BL1, BK1, BE5, CE2",zhengn,record_id_y,"BK1, BL3, CE2"
+462,714,tianyi,record_id_x,"BK1, CE2, BL2, CL1",zhengn,record_id_y,"BK1, CE2, BL2, CL1"
+464,716,tianyi,record_id_x,"CE2, BL2",zhengn,record_id_y,"CE2, F4, BL2"
+465,717,tianyi,record_id_x,"BL1, N3, BE5, F4",zhengn,record_id_y,"L4, CE2, CE3, N3, F4"
+466,718,tianyi,record_id_x,"CE2, F4, BL2",zhengn,record_id_y,"CE2, F4, BL2"
+467,719,tianyi,record_id_x,BE5,zhengn,record_id_y,BE5
+468,720,tianyi,record_id_x,BE5,zhengn,record_id_y,BE5
+469,721,tianyi,record_id_x,A1d,zhengn,record_id_y,A1d
+470,722,tianyi,record_id_x,"BN1, BF4",zhengn,record_id_y,BF4
+471,723,tianyi,record_id_x,"BE5, A2a",zhengn,record_id_y,"BE5, BL2, CE2"
+472,724,tianyi,record_id_x,"L4, KA1b, AN2",zhengn,record_id_y,"L4, KA1b, AN2"
+473,725,tianyi,record_id_x,BL3,zhengn,record_id_y,BL3
+474,726,tianyi,record_id_x,BE5,zhengn,record_id_y,BE5
+475,727,tianyi,record_id_x,BE5,zhengn,record_id_y,BE5
+476,728,tianyi,record_id_x,"BK1, BL2",zhengn,record_id_y,"BK1, BL2"
+477,729,tianyi,record_id_x,A1d,zhengn,record_id_y,A1d
+478,730,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+479,731,tianyi,record_id_x,"E1, F4, A2c",zhengn,record_id_y,D1
+480,732,tianyi,record_id_x,"BL3, L5",zhengn,record_id_y,"L5, BL3"
+481,733,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+482,734,tianyi,record_id_x,"BL1, D1",zhengn,record_id_y,"BL2, D1"
+483,735,tianyi,record_id_x,"BE5, BK1, CL1",zhengn,record_id_y,"BE5, BK1, K2"
+484,736,tianyi,record_id_x,"L5, AN2, A2a",zhengn,record_id_y,"BK1, AN2, A2a"
+485,737,tianyi,record_id_x,"L5, AN2, A2a",zhengn,record_id_y,"AN2, BK1, A2a"
+486,738,tianyi,record_id_x,"A1g, F4",zhengn,record_id_y,A1g
+487,739,tianyi,record_id_x,F4,zhengn,record_id_y,F4
+488,740,tianyi,record_id_x,"F4, A1d",zhengn,record_id_y,"F4, A1d"
+489,741,tianyi,record_id_x,"A1d, F4",zhengn,record_id_y,"A1d, F4"
+490,742,tianyi,record_id_x,"CE2, A1d",zhengn,record_id_y,"F4, CE2, A1d"
+492,744,tianyi,record_id_x,"BK1, BL3",zhengn,record_id_y,"BK1, BL3"
+493,745,tianyi,record_id_x,"BL1, A2a",zhengn,record_id_y,"BL1, A2a"
+494,746,tianyi,record_id_x,"BL1, CE2, CL1",zhengn,record_id_y,"CE2, CL1"
+495,747,tianyi,record_id_x,"E1, A2c",zhengn,record_id_y,A2c
+497,749,tianyi,record_id_x,F2,zhengn,record_id_y,F3
+498,750,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+499,751,tianyi,record_id_x,"A1d, F1",zhengn,record_id_y,A1d
+500,752,tianyi,record_id_x,"D1a, A1d, F1",zhengn,record_id_y,A1d
+501,753,tianyi,record_id_x,"BE5, BK1",zhengn,record_id_y,"BK1, BE5"
+502,754,tianyi,record_id_x,"BK1, BE5",zhengn,record_id_y,"BE5, BK1"
+503,755,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+504,756,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+505,757,tianyi,record_id_x,"D1a, A1g",zhengn,record_id_y,"A1g, D1a"
+506,758,tianyi,record_id_x,"E1, D1a, A1g",zhengn,record_id_y,"A1g, D1a"
+507,759,tianyi,record_id_x,"A1g, D1, BF4, F2",zhengn,record_id_y,"CL1, F3, F4"
+508,760,tianyi,record_id_x,"BL1, A1g, A2c",zhengn,record_id_y,"A1g, A2c"
+509,761,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+510,762,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+511,763,tianyi,record_id_x,"E1, L4, CF5",zhengn,record_id_y,"CF5, CL1"
+512,764,tianyi,record_id_x,"D1c, CL1, CF5",zhengn,record_id_y,"D1, CF5, CL1"
+513,765,tianyi,record_id_x,"D1c, CL1, BF4",zhengn,record_id_y,"D1, CL1, BF4"
+514,766,tianyi,record_id_x,"D1c, CL1, P1",zhengn,record_id_y,"D1c, CL1, P1"
+515,767,tianyi,record_id_x,"BE5, D1c, CL1, P1",zhengn,record_id_y,"BE5, D1c, CL1, P1"
+516,768,tianyi,record_id_x,"D1, CL1, BF4, F2",zhengn,record_id_y,"F4, CL1, F2"
+517,769,tianyi,record_id_x,"D1, CL1, BF4, F2",zhengn,record_id_y,"CL1, F4, F2"
+518,770,tianyi,record_id_x,"A1g, D1a",zhengn,record_id_y,"A1g, D1a, CL1"
+519,771,tianyi,record_id_x,"D1a, A1g",zhengn,record_id_y,"A1g, D1a, CL1"
+520,772,tianyi,record_id_x,"D1, CE2, P1",zhengn,record_id_y,"E1, D1, P1"
+521,773,tianyi,record_id_x,"D1, CE2, P1",zhengn,record_id_y,"D1, CE2, P1"
+522,774,tianyi,record_id_x,"BK1, BL3, CE2",zhengn,record_id_y,"BK1, BL3, CE2"
+523,775,tianyi,record_id_x,"BL3, KA1b, CE2",zhengn,record_id_y,"BL3, KA1b, CE2"
+524,776,tianyi,record_id_x,"BL3, BE5, BK1",zhengn,record_id_y,"KA1b, BL3, CE3"
+525,777,tianyi,record_id_x,"BL3, KA1b, CE2",zhengn,record_id_y,"BL3, KA1b, CE3"
+526,778,tianyi,record_id_x,"D1a, A1f, CL1",zhengn,record_id_y,"BL1, D1a, O1"
+527,779,tianyi,record_id_x,"D1a, A1f, CL1",zhengn,record_id_y,"D1a, A1f, CL1"
+528,780,tianyi,record_id_x,"AN2, A1f, CL1",zhengn,record_id_y,"AN2, CL1"
+529,781,tianyi,record_id_x,"AN2, A1f",zhengn,record_id_y,"AN2, CL1"
+530,782,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+531,783,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+532,784,tianyi,record_id_x,"D1, F1",zhengn,record_id_y,"F1, F4"
+533,785,tianyi,record_id_x,"E1, BE5, F1, BF4",zhengn,record_id_y,"E1, F4, L4"
+534,786,tianyi,record_id_x,"L4, E1, F4, D1a",zhengn,record_id_y,"E1, F4, L4"
+535,787,tianyi,record_id_x,"A1b, F1, BF4",zhengn,record_id_y,"D1a, A1b, A1f"
+536,788,tianyi,record_id_x,"F1, F4",zhengn,record_id_y,"F4, A1d"
+537,789,tianyi,record_id_x,"F3, CE2, A1d",zhengn,record_id_y,"CE2, A1d"
+538,790,tianyi,record_id_x,"BL1, F4",zhengn,record_id_y,"F4, CL1"
+539,791,tianyi,record_id_x,"BL1, BE5, F4",zhengn,record_id_y,"CF5, F4"
+540,792,tianyi,record_id_x,"BL2, CE2",zhengn,record_id_y,"BL1, CE2"
+541,793,tianyi,record_id_x,"BL2, CE2",zhengn,record_id_y,"BL1, CE2"
+542,794,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+543,795,tianyi,record_id_x,"CE2, BF4",zhengn,record_id_y,"CE2, BF4"
+544,796,tianyi,record_id_x,CE2,zhengn,record_id_y,"CL1, CE3"
+545,797,tianyi,record_id_x,"BE5, CL1",zhengn,record_id_y,"CL1, CE3"
+546,798,tianyi,record_id_x,"BE5, CL1, CE2",zhengn,record_id_y,"CL1, CE3"
+547,799,tianyi,record_id_x,"CE2, BE5, CL1",zhengn,record_id_y,"CL1, CE3"
+548,800,tianyi,record_id_x,"CE2, F4, BL2",zhengn,record_id_y,"CE2, F4, BL2"
+549,801,tianyi,record_id_x,BE5,zhengn,record_id_y,BE5
+550,802,tianyi,record_id_x,"BE5, A2a",zhengn,record_id_y,"BE5, A2a"
+551,803,tianyi,record_id_x,BE5,zhengn,record_id_y,"BE5, A2a"
+553,805,tianyi,record_id_x,"CE2, F3, F4",zhengn,record_id_y,"F4, A1e"
+554,806,tianyi,record_id_x,"F3, F4, CE2",zhengn,record_id_y,"F3, F4, A1d"
+555,807,tianyi,record_id_x,"CE2, F4, F2",zhengn,record_id_y,"F4, A1g"
+556,808,tianyi,record_id_x,F2,zhengn,record_id_y,A1g
+557,809,tianyi,record_id_x,"F4, A1d",zhengn,record_id_y,"BE5, D1, A1d"
+558,810,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+559,811,tianyi,record_id_x,"CL1, CE2, K2",zhengn,record_id_y,"CL1, CE2, K2"
+560,812,tianyi,record_id_x,"CL1, CE2",zhengn,record_id_y,"CL1, CE2"
+561,813,tianyi,record_id_x,"BN1, CE2",zhengn,record_id_y,"CE2, BN1"
+562,814,tianyi,record_id_x,F2,zhengn,record_id_y,"A1g, F2"
+563,815,tianyi,record_id_x,BE5,zhengn,record_id_y,BE5
+564,816,tianyi,record_id_x,"BE5, CL1, CE2",zhengn,record_id_y,"CL1, BE5"
+565,817,tianyi,record_id_x,"BL1, BE5",zhengn,record_id_y,BE5
+566,818,tianyi,record_id_x,"BL1, BE5",zhengn,record_id_y,BE5
+568,820,tianyi,record_id_x,"BL1, CE2",zhengn,record_id_y,"CE2, D1a, CL1"
+569,821,tianyi,record_id_x,"BE5, D1",zhengn,record_id_y,"D1c, CF5, BE5"
+570,822,tianyi,record_id_x,D1,zhengn,record_id_y,"CF5, BE5, D1"
+571,823,tianyi,record_id_x,F4,zhengn,record_id_y,F4
+572,824,tianyi,record_id_x,"BL1, F4, CL1, CE2",zhengn,record_id_y,F4
+573,825,tianyi,record_id_x,CF5,zhengn,record_id_y,CF5
+575,827,tianyi,record_id_x,"BL1, BF4, CE2",zhengn,record_id_y,"CE2, CF5, CL1"
+577,829,tianyi,record_id_x,"A1b, BL2",zhengn,record_id_y,CL1
+579,831,tianyi,record_id_x,"A1b, BE5, L4",zhengn,record_id_y,"BE5, L4, A1b"
+580,832,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+581,833,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+582,834,tianyi,record_id_x,"D1a, CE2",zhengn,record_id_y,"D1a, CE2"
+583,835,tianyi,record_id_x,"F4, CE2",zhengn,record_id_y,"F4, CE2"
+584,836,tianyi,record_id_x,F4,zhengn,record_id_y,F4
+585,837,tianyi,record_id_x,F4,zhengn,record_id_y,F4
+586,838,tianyi,record_id_x,"BK1, CE2",zhengn,record_id_y,"BK1, CE2, K2"
+587,839,tianyi,record_id_x,"BE5, BK1",zhengn,record_id_y,"BN1, CE2, K2"
+589,841,tianyi,record_id_x,"BF4, CE2",zhengn,record_id_y,"CE2, CF5, K2"
+590,842,tianyi,record_id_x,"BK1, BE5, F4",zhengn,record_id_y,"F4, CE3, K2"
+591,843,tianyi,record_id_x,"CL1, CE2",zhengn,record_id_y,"CL1, CE2"
+592,844,tianyi,record_id_x,BE5,zhengn,record_id_y,BE5
+593,845,tianyi,record_id_x,"E1, AN2, KA1b",zhengn,record_id_y,"E1, F4"
+595,847,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+596,848,tianyi,record_id_x,F4,zhengn,record_id_y,F4
+597,849,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+598,850,tianyi,record_id_x,"BE5, D1a, CL1",zhengn,record_id_y,D1a
+599,851,tianyi,record_id_x,"CE2, F4",zhengn,record_id_y,"F4, CE2"
+600,852,tianyi,record_id_x,"BL1, F4",zhengn,record_id_y,"F4, CE2"
+601,853,tianyi,record_id_x,A1d,zhengn,record_id_y,A1d
+602,854,tianyi,record_id_x,A1d,zhengn,record_id_y,A1d
+603,855,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+604,856,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+605,857,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+606,858,tianyi,record_id_x,"BE5, CE2",zhengn,record_id_y,"CE2, CE3"
+607,859,tianyi,record_id_x,"L5, F4, BL2, CE2",zhengn,record_id_y,"L5, F4, BL2, CE2"
+608,860,tianyi,record_id_x,"BL1, CE2",zhengn,record_id_y,"BL1, CE2"
+609,861,tianyi,record_id_x,"BL1, CE2",zhengn,record_id_y,"BL1, CE2"
+610,862,tianyi,record_id_x,"F4, D1, BF4, F2",zhengn,record_id_y,"F4, A1e"
+611,863,tianyi,record_id_x,"F4, BF4, F2",zhengn,record_id_y,"F4, A1e"
+612,864,tianyi,record_id_x,"D1, F2",zhengn,record_id_y,"F4, D1, A1e"
+613,865,tianyi,record_id_x,"D1, F2",zhengn,record_id_y,"F4, D1a, A1e"
+614,866,tianyi,record_id_x,"BL1, F3, CE2",zhengn,record_id_y,"BL1, BL3, CE2"
+616,868,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+617,869,tianyi,record_id_x,"BE5, CE2",zhengn,record_id_y,"CE2, CE3"
+618,870,tianyi,record_id_x,"BF4, CE2",zhengn,record_id_y,"CE2, CF5"
+619,871,tianyi,record_id_x,"BL1, BN1, CE2",zhengn,record_id_y,"BL1, BN1, BL3, CE2"
+620,872,tianyi,record_id_x,"BL1, BN1, CE2",zhengn,record_id_y,"BL1, BN1, CE2"
+621,873,tianyi,record_id_x,"BE5, P3",zhengn,record_id_y,"BE5, P3"
+622,874,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+623,875,tianyi,record_id_x,"A1g, A2a",zhengn,record_id_y,"A1g, A2a"
+624,876,tianyi,record_id_x,"A1g, A2a",zhengn,record_id_y,"A1g, A2a"
+625,877,tianyi,record_id_x,"A1d, F2",zhengn,record_id_y,A1d
+626,878,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+627,879,tianyi,record_id_x,A1b,zhengn,record_id_y,"L4, A1b"
+628,880,tianyi,record_id_x,"D1c, A1b",zhengn,record_id_y,"A1b, D1c"
+629,881,tianyi,record_id_x,D1c,zhengn,record_id_y,D1c
+630,882,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+631,883,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+632,884,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+633,885,tianyi,record_id_x,"E1, BF4",zhengn,record_id_y,"E1, BF4"
+634,886,tianyi,record_id_x,BN1,zhengn,record_id_y,"BN1, CL1"
+635,887,tianyi,record_id_x,"BL1, AN2, BF4",zhengn,record_id_y,"L5, BL2, BF4"
+636,888,tianyi,record_id_x,BN1,zhengn,record_id_y,BN1
+637,889,tianyi,record_id_x,"L5, CE2, N3, BL2",zhengn,record_id_y,"L5, CE2, N3, BL2"
+638,890,tianyi,record_id_x,CE2,zhengn,record_id_y,CE2
+639,891,tianyi,record_id_x,"CE2, F4",zhengn,record_id_y,"CE2, F4"
+640,892,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+641,893,tianyi,record_id_x,"BF4, CE2, CF5",zhengn,record_id_y,CE2
+642,894,tianyi,record_id_x,"CE2, CF5, BF4",zhengn,record_id_y,"CE2, CF5, BF4"
+643,895,tianyi,record_id_x,"D1, CF5, BF4",zhengn,record_id_y,D1
+646,898,tianyi,record_id_x,"BL1, BF4, CE2",zhengn,record_id_y,"CL1, BE5"
+647,899,tianyi,record_id_x,"BL1, CE3",zhengn,record_id_y,"CE3, CL1"
+649,901,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+650,902,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+651,903,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+652,904,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+653,905,tianyi,record_id_x,"A1g, BL3, F4",zhengn,record_id_y,A1g
+655,907,tianyi,record_id_x,"E1, A1g, D1a, D1",zhengn,record_id_y,"A1g, D1a, D1"
+656,908,tianyi,record_id_x,"E1, A1g, D1a, D1, A2a",zhengn,record_id_y,"E1, A1g, D1a, D1, A2a"
+657,909,tianyi,record_id_x,"F4, A1d",zhengn,record_id_y,"F4, BL2, A1d"
+658,910,tianyi,record_id_x,"F4, BL2, A1d",zhengn,record_id_y,"A1d, F4, BL2"
+659,911,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+660,912,tianyi,record_id_x,"CL1, CF5",zhengn,record_id_y,"L4, CL1"
+661,913,tianyi,record_id_x,"F4, CL1",zhengn,record_id_y,"F3, CL1"
+662,914,tianyi,record_id_x,"F3, A1g, L4, CL1",zhengn,record_id_y,"F3, CL1"
+663,915,tianyi,record_id_x,"BL1, E1",zhengn,record_id_y,E1
+664,916,tianyi,record_id_x,E1,zhengn,record_id_y,E1
+665,917,tianyi,record_id_x,"BL1, BK1, A1d, O1",zhengn,record_id_y,A1d
+666,918,tianyi,record_id_x,A1d,zhengn,record_id_y,A1d
+667,919,tianyi,record_id_x,"A1e, A1b",zhengn,record_id_y,A1e
+668,920,tianyi,record_id_x,A1b,zhengn,record_id_y,"F3, A1e"
+669,921,tianyi,record_id_x,"F4, A1b",zhengn,record_id_y,A1d
+670,922,tianyi,record_id_x,"F4, A1b",zhengn,record_id_y,"F4, A1d"
+671,923,tianyi,record_id_x,"CL1, D1c",zhengn,record_id_y,"CL1, D1c"
+672,924,tianyi,record_id_x,"CE3, A1d",zhengn,record_id_y,"CE2, D1c"
+673,925,tianyi,record_id_x,"L4, A1e, BF4, A2c",zhengn,record_id_y,"L5, D1, A1e"
+674,926,tianyi,record_id_x,"L5, D1, BL2, A1e",zhengn,record_id_y,"L5, BL2, A1e, K2"
+676,928,tianyi,record_id_x,"P3, F4, CL1",zhengn,record_id_y,"P3, F4, CL1"
+678,930,tianyi,record_id_x,"D1c, CL1",zhengn,record_id_y,"D1, CL1"
+679,931,tianyi,record_id_x,"A1g, A2b",zhengn,record_id_y,
+680,932,tianyi,record_id_x,"BL1, CE2, A1d, A1a",zhengn,record_id_y,"CE2, A1d"
+681,933,tianyi,record_id_x,"CE2, A1d, A1a, BF4",zhengn,record_id_y,"CE2, A1d"
+682,934,tianyi,record_id_x,"BL3, AN2",zhengn,record_id_y,"BL3, BN1"
+683,935,tianyi,record_id_x,"KA1b, BL3, AN2, D1, BF4",zhengn,record_id_y,"KA1b, BL3, AN2, D1"
+684,936,tianyi,record_id_x,"BN1, CL1",zhengn,record_id_y,"BN1, CL1, CL1"
+685,937,tianyi,record_id_x,"BN1, K2",zhengn,record_id_y,"BN1, CL1, K2"
+686,938,tianyi,record_id_x,"CE2, CF5, CL1, BF4",zhengn,record_id_y,"BE5, CE2, CF5, CL1"
+687,939,tianyi,record_id_x,"BF4, CE2, CL1, CF5",zhengn,record_id_y,"CE3, BE5, CF5, CL1"
+688,940,tianyi,record_id_x,"F4, CL1",zhengn,record_id_y,"F4, CL1"
+689,941,tianyi,record_id_x,F1,zhengn,record_id_y,F1
+690,942,tianyi,record_id_x,"BL2, CL1, CE2, F4",zhengn,record_id_y,"BL2, F4, CE2, CL1"
+691,943,tianyi,record_id_x,E1,zhengn,record_id_y,"E1, F4, CL1"
+692,944,tianyi,record_id_x,"E1, CE1, F4",zhengn,record_id_y,"E1, F4, CL1"
+693,945,tianyi,record_id_x,"N3, CE2",zhengn,record_id_y,"N3, CE2"
+694,946,tianyi,record_id_x,"BE5, CL1",zhengn,record_id_y,"BE5, CL1"
+695,947,tianyi,record_id_x,"CE2, CF5, CL1",zhengn,record_id_y,"CE2, CF5, CL1"
+696,948,tianyi,record_id_x,"CE2, CF5",zhengn,record_id_y,"E1, CF5"
+697,949,tianyi,record_id_x,"BE5, CE2",zhengn,record_id_y,"BE5, CE2"
+698,950,tianyi,record_id_x,"BE5, CE3",zhengn,record_id_y,"BE5, CE2"
+699,951,tianyi,record_id_x,"CE2, CL1",zhengn,record_id_y,"CE2, CL1"
+700,952,tianyi,record_id_x,"BE5, D1, CE2, CL1",zhengn,record_id_y,"BE5, D1, CE2, CL1"
+701,953,tianyi,record_id_x,"BL1, KA1b, BE5",zhengn,record_id_y,"F3, CL1, CE2"
+702,954,tianyi,record_id_x,"CE2, CL1",zhengn,record_id_y,"CL1, CE2"
+703,955,tianyi,record_id_x,"BN1, CL1",zhengn,record_id_y,"BN1, CL1"
+704,956,tianyi,record_id_x,"L4, BF4",zhengn,record_id_y,"L4, BF4"
+705,957,tianyi,record_id_x,"L4, BF4, BK1",zhengn,record_id_y,"BK1, L4, BF4"
+706,958,tianyi,record_id_x,A1d,zhengn,record_id_y,A1d
+707,959,tianyi,record_id_x,A1d,zhengn,record_id_y,A1d
+708,960,tianyi,record_id_x,"L4, N3",zhengn,record_id_y,"N3, L4"
+709,961,tianyi,record_id_x,"CE2, CL1, A2a",zhengn,record_id_y,"CL1, CE2, A2a"
+710,962,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+711,963,tianyi,record_id_x,"E1, A1d, A1a",zhengn,record_id_y,"E1, A2c"
+712,964,tianyi,record_id_x,"E1, A1d, A1a",zhengn,record_id_y,"E1, A2c"
+0,0,tianyi,record_id_x,BF4,zhengn,record_id_y,"F4, E1, D1"
+1,1,tianyi,record_id_x,F1,zhengn,record_id_y,A1a
+2,2,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+3,3,tianyi,record_id_x,"CL1, BL1, A1b",zhengn,record_id_y,"CL1, A1b"
+4,4,tianyi,record_id_x,BN1,zhengn,record_id_y,L5
+5,5,tianyi,record_id_x,L4,zhengn,record_id_y,"L5, L4, A1f"
+6,6,tianyi,record_id_x,CL1,zhengn,record_id_y,"CL1, BL1"
+7,7,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+8,8,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+9,9,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+10,10,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+11,11,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+12,12,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+13,13,tianyi,record_id_x,"A1b, CL1",zhengn,record_id_y,"CL1, A1b"
+14,14,tianyi,record_id_x,"CL1, A1b",zhengn,record_id_y,"A1b, CL1"
+15,15,tianyi,record_id_x,F4,zhengn,record_id_y,F4
+16,16,tianyi,record_id_x,"F1, A2c",zhengn,record_id_y,A1d
+17,17,tianyi,record_id_x,"F1, D1",zhengn,record_id_y,D1
+18,18,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+19,19,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+20,20,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+21,21,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+22,22,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+23,23,tianyi,record_id_x,"BK1, Q1",zhengn,record_id_y,"BK1, Q1"
+24,24,tianyi,record_id_x,"BK1, Q1",zhengn,record_id_y,"BK1, Q1"
+25,25,tianyi,record_id_x,"CL1, BL1",zhengn,record_id_y,"CL1, BL3"
+26,26,tianyi,record_id_x,A1b,zhengn,record_id_y,"BL1, A1b"
+27,27,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+28,28,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+29,29,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+30,30,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+31,31,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+32,32,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+33,33,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+34,34,tianyi,record_id_x,"F1, D1",zhengn,record_id_y,F3
+35,35,tianyi,record_id_x,"F1, BN1, O3",zhengn,record_id_y,"O3, F1, BL3"
+36,36,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+37,37,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+38,38,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+39,39,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+40,40,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+41,41,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+42,42,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+43,43,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+44,44,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+45,45,tianyi,record_id_x,"BF4, E1",zhengn,record_id_y,"CF5, E1"
+46,46,tianyi,record_id_x,"L5, A1b",zhengn,record_id_y,A1b
+47,47,tianyi,record_id_x,"CL1, CE2",zhengn,record_id_y,"CL1, CE2"
+48,48,tianyi,record_id_x,"BE5, CE2",zhengn,record_id_y,"CL1, CE2"
+49,49,tianyi,record_id_x,BL1,zhengn,record_id_y,BL3
+50,50,tianyi,record_id_x,BK1,zhengn,record_id_y,BK1
+51,51,tianyi,record_id_x,BE5,zhengn,record_id_y,CE2
+52,52,tianyi,record_id_x,K3,zhengn,record_id_y,K2
+53,53,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+54,54,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+55,55,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+56,56,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+57,57,tianyi,record_id_x,"D1c, F3, A1b",zhengn,record_id_y,"D1, F3, A1b"
+58,58,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+59,59,tianyi,record_id_x,"L4, CL1",zhengn,record_id_y,"L4, CL1, BL2"
+60,60,tianyi,record_id_x,"L4, CL1",zhengn,record_id_y,"L4, CL1, BL1"
+61,61,tianyi,record_id_x,"D1c, F4, E1",zhengn,record_id_y,"L4, F3, BL2, E1"
+62,62,tianyi,record_id_x,"nan, A1b, CE2",zhengn,record_id_y,"CL1, BL1, A1b, CE2"
+63,63,tianyi,record_id_x,"nan, A1b, CE2",zhengn,record_id_y,"CL1, BL1, A1b, CE2"
+64,64,tianyi,record_id_x,"nan, A1b",zhengn,record_id_y,A1b
+65,65,tianyi,record_id_x,CE2,zhengn,record_id_y,CE2
+66,66,tianyi,record_id_x,CE2,zhengn,record_id_y,CE2
+67,67,tianyi,record_id_x,"L4, A1b, nan",zhengn,record_id_y,"L4, A1b"
+68,68,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+69,69,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+70,70,tianyi,record_id_x,"D1, A1b",zhengn,record_id_y,"D1, A1b"
+71,71,tianyi,record_id_x,"K3, Q1",zhengn,record_id_y,"Q1, K2"
+72,72,tianyi,record_id_x,"D1, K3, L4, F4",zhengn,record_id_y,"BL1, F4"
+73,73,tianyi,record_id_x,"BN1, E1, CL1",zhengn,record_id_y,"CL1, BN1"
+74,74,tianyi,record_id_x,"CF5, E1",zhengn,record_id_y,"CF5, CL1, E1"
+75,75,tianyi,record_id_x,"D1, BF4, Q1",zhengn,record_id_y,"BF4, BL1, Q1"
+76,76,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+77,77,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+78,78,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+79,79,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+80,80,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+81,81,tianyi,record_id_x,"N3, O2",zhengn,record_id_y,"O2, F4, N3"
+82,82,tianyi,record_id_x,"N3, O2",zhengn,record_id_y,"O2, F4, N3"
+83,83,tianyi,record_id_x,"BF4, BL2, E1",zhengn,record_id_y,"CF5, E1, BL1"
+84,84,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+85,85,tianyi,record_id_x,E1,zhengn,record_id_y,"BL1, D1a, E1"
+86,86,tianyi,record_id_x,E1,zhengn,record_id_y,"BL1, E1"
+87,87,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+88,88,tianyi,record_id_x,"CE2, A1b",zhengn,record_id_y,"CE2, A1b"
+89,89,tianyi,record_id_x,L4,zhengn,record_id_y,L4
+90,90,tianyi,record_id_x,"BL2, N3",zhengn,record_id_y,"BL2, N3"
+91,91,tianyi,record_id_x,BL2,zhengn,record_id_y,BL1
+92,92,tianyi,record_id_x,BL2,zhengn,record_id_y,BL1
+93,93,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+94,94,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+95,95,tianyi,record_id_x,"L5, A1b",zhengn,record_id_y,"L5, A1b"
+96,96,tianyi,record_id_x,A1b,zhengn,record_id_y,"L5, A1b"
+97,97,tianyi,record_id_x,F4,zhengn,record_id_y,F4
+98,98,tianyi,record_id_x,"L4, CE2, A1b",zhengn,record_id_y,"L4, CE2, A1b"
+99,99,tianyi,record_id_x,D1c,zhengn,record_id_y,D1c
+100,100,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+101,101,tianyi,record_id_x,"A1b, E1",zhengn,record_id_y,"A1b, BK1, E1"
+102,102,tianyi,record_id_x,"A1b, E1",zhengn,record_id_y,"A1b, BK1, E1"
+103,103,tianyi,record_id_x,BK1,zhengn,record_id_y,"L4, D1c, CL1, BL1, L5, D1, D1a"
+104,104,tianyi,record_id_x,"CL1, BF4, BL1, F1, A1b, E1",zhengn,record_id_y,"CF5, A1b, E1"
+105,105,tianyi,record_id_x,F2,zhengn,record_id_y,"BL1, A1g"
+106,106,tianyi,record_id_x,F2,zhengn,record_id_y,"BL1, A1g"
+107,107,tianyi,record_id_x,"CL1, A1b",zhengn,record_id_y,"CL1, BL1, A1b"
+108,108,tianyi,record_id_x,"CL1, BL1, A1b",zhengn,record_id_y,"CL1, BL1, A1b"
+109,109,tianyi,record_id_x,BK1,zhengn,record_id_y,BK1
+110,110,tianyi,record_id_x,"CL1, A1b",zhengn,record_id_y,"CL1, A1b"
+111,111,tianyi,record_id_x,"BL1, A2c, F1",zhengn,record_id_y,"A1d, A1a, BL1"
+112,112,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+113,113,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+114,114,tianyi,record_id_x,"CL1, F4",zhengn,record_id_y,"CL1, F4"
+115,115,tianyi,record_id_x,"L4, CL1, BL2",zhengn,record_id_y,"L4, CL1, BL1"
+116,116,tianyi,record_id_x,O3,zhengn,record_id_y,O3
+117,117,tianyi,record_id_x,O3,zhengn,record_id_y,O3
+118,118,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+119,119,tianyi,record_id_x,"L4, A1b",zhengn,record_id_y,"L5, A1b"
+120,120,tianyi,record_id_x,F4,zhengn,record_id_y,F3
+121,121,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+122,122,tianyi,record_id_x,BL3,zhengn,record_id_y,BL2
+123,123,tianyi,record_id_x,BL3,zhengn,record_id_y,BL2
+124,124,tianyi,record_id_x,"A1b, BL2",zhengn,record_id_y,"BL1, A1b"
+125,125,tianyi,record_id_x,"L4, CL1, BL2",zhengn,record_id_y,"L4, CL1, BL1"
+126,126,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+127,127,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+128,128,tianyi,record_id_x,"BK1, Q1",zhengn,record_id_y,"BK1, Q1"
+129,129,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+130,130,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+131,131,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+132,132,tianyi,record_id_x,"A1b, BL2",zhengn,record_id_y,"BL1, A1b"
+133,133,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+134,134,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+135,135,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+136,136,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+137,137,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+138,138,tianyi,record_id_x,"A1f, AN2, O1",zhengn,record_id_y,"AN2, O1"
+139,139,tianyi,record_id_x,"BL2, A1b",zhengn,record_id_y,"BL1, A1b"
+140,140,tianyi,record_id_x,"E1, CL1",zhengn,record_id_y,"CL1, E1"
+141,141,tianyi,record_id_x,CL1,zhengn,record_id_y,CL1
+142,142,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+143,143,tianyi,record_id_x,"BL3, CL1",zhengn,record_id_y,CL1
+144,144,tianyi,record_id_x,F4,zhengn,record_id_y,F4
+145,145,tianyi,record_id_x,"CL1, BF4",zhengn,record_id_y,"CL1, CF5"
+146,146,tianyi,record_id_x,"CE2, A1b",zhengn,record_id_y,"F4, CL1, CE2, A1b"
+147,147,tianyi,record_id_x,E1,zhengn,record_id_y,E1
+148,148,tianyi,record_id_x,"F3, A1b, E1",zhengn,record_id_y,"F3, A1b, E1"
+149,149,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+150,150,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+151,151,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+152,152,tianyi,record_id_x,BL3,zhengn,record_id_y,BL1
+153,153,tianyi,record_id_x,BL3,zhengn,record_id_y,BL1
+154,154,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+155,155,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+156,156,tianyi,record_id_x,"BN1, BL1, CL1",zhengn,record_id_y,"CL1, BL1, AN2"
+157,157,tianyi,record_id_x,"E1, BL1",zhengn,record_id_y,"E1, CL1"
+158,158,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+159,159,tianyi,record_id_x,"E1, BL1",zhengn,record_id_y,"E1, CL1"
+160,160,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+161,161,tianyi,record_id_x,BL3,zhengn,record_id_y,BL1
+162,162,tianyi,record_id_x,BF4,zhengn,record_id_y,CF5
+163,163,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+164,164,tianyi,record_id_x,"F4, BL3",zhengn,record_id_y,"BL1, F4"
+165,165,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+166,166,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+167,167,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+168,168,tianyi,record_id_x,A1b,zhengn,record_id_y,"BL1, A1b"
+169,169,tianyi,record_id_x,BL1,zhengn,record_id_y,"BL1, P3"
+170,170,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+171,171,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+172,172,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+173,173,tianyi,record_id_x,"BE5, D1, CE3",zhengn,record_id_y,CE3
+174,174,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+175,175,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+176,176,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+177,177,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+178,178,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+179,179,tianyi,record_id_x,E1,zhengn,record_id_y,"CL1, CE2"
+180,180,tianyi,record_id_x,"F1, BL1",zhengn,record_id_y,"F1, A1b"
+181,181,tianyi,record_id_x,F4,zhengn,record_id_y,F3
+182,182,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+183,183,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+184,184,tianyi,record_id_x,D1a,zhengn,record_id_y,D1
+185,185,tianyi,record_id_x,"BN1, A1f, O1",zhengn,record_id_y,"BN1, O1"
+186,186,tianyi,record_id_x,"BL2, E1, L4, N3",zhengn,record_id_y,"BL1, N3"
+187,187,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+188,188,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+189,189,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+190,190,tianyi,record_id_x,"BN1, CL1",zhengn,record_id_y,"CL1, BN1"
+191,191,tianyi,record_id_x,"L4, D1",zhengn,record_id_y,"BL1, A1b"
+192,192,tianyi,record_id_x,"BF4, A1b",zhengn,record_id_y,"BF4, A1b"
+193,193,tianyi,record_id_x,"BL2, CL1",zhengn,record_id_y,"CL1, AN2"
+194,194,tianyi,record_id_x,E1,zhengn,record_id_y,E1
+195,195,tianyi,record_id_x,BK1,zhengn,record_id_y,BK1
+196,196,tianyi,record_id_x,"F4, BL1",zhengn,record_id_y,"F3, BL1"
+197,197,tianyi,record_id_x,"F4, BL1",zhengn,record_id_y,"F3, BL1"
+198,198,tianyi,record_id_x,BL1,zhengn,record_id_y,"BL1, K2"
+199,199,tianyi,record_id_x,BL1,zhengn,record_id_y,"BL1, P3"
+200,200,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+201,201,tianyi,record_id_x,"D1c, P1",zhengn,record_id_y,P1
+202,202,tianyi,record_id_x,"E1, D1c, CE2",zhengn,record_id_y,CE2
+203,203,tianyi,record_id_x,"L4, BL1",zhengn,record_id_y,"L4, BL1"
+204,204,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+205,205,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+206,206,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+207,207,tianyi,record_id_x,"E1, D1c",zhengn,record_id_y,"D1a, E1"
+208,208,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+209,209,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+210,210,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+211,211,tianyi,record_id_x,"L4, Q1",zhengn,record_id_y,"L5, Q1"
+212,212,tianyi,record_id_x,"D1a, E1, CL1",zhengn,record_id_y,"D1a, E1, CL1"
+213,213,tianyi,record_id_x,"BN1, E1, BL1, CL1",zhengn,record_id_y,"BN1, E1, CL1"
+214,214,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+215,215,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+216,216,tianyi,record_id_x,"BN1, BL1, CL1",zhengn,record_id_y,"BN1, CL1"
+217,217,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+218,218,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+219,219,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+220,220,tianyi,record_id_x,"D1c, P1",zhengn,record_id_y,P1
+221,221,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+222,222,tianyi,record_id_x,"F3, A1b",zhengn,record_id_y,"F3, A1b"
+223,223,tianyi,record_id_x,"F3, A1b",zhengn,record_id_y,"F3, A1b"
+224,224,tianyi,record_id_x,"F4, A1b",zhengn,record_id_y,"F3, A1b"
+225,225,tianyi,record_id_x,"BL1, CE2, CL1",zhengn,record_id_y,"CE2, CL1"
+226,226,tianyi,record_id_x,BN1,zhengn,record_id_y,BN1
+227,227,tianyi,record_id_x,"BL2, E1, O3",zhengn,record_id_y,"O3, BL2, E1, BL1, CL1"
+228,228,tianyi,record_id_x,"BN1, CL1, D1, O3",zhengn,record_id_y,"O3, F3, CL1"
+229,229,tianyi,record_id_x,"F3, A1f, AN2",zhengn,record_id_y,"F3, A1f"
+230,230,tianyi,record_id_x,"BE5, BF4, CE2",zhengn,record_id_y,"CE3, BF4"
+231,231,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+232,232,tianyi,record_id_x,"BL3, BN1, D1, O3",zhengn,record_id_y,O3
+233,233,tianyi,record_id_x,"BE5, BF4, CE2",zhengn,record_id_y,"CF5, D1, CE2"
+234,234,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+235,235,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+236,236,tianyi,record_id_x,A1b,zhengn,record_id_y,A1b
+237,237,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+238,238,tianyi,record_id_x,"BL3, BN1",zhengn,record_id_y,BN1
+239,239,tianyi,record_id_x,F4,zhengn,record_id_y,F4
+240,240,tianyi,record_id_x,F4,zhengn,record_id_y,F4
+241,241,tianyi,record_id_x,"BK1, BL1",zhengn,record_id_y,"BK1, BL1"
+242,242,tianyi,record_id_x,"BF4, BL1",zhengn,record_id_y,"BF4, BL1"
+243,243,tianyi,record_id_x,"CE2, A1b",zhengn,record_id_y,"CE2, A1b"
+244,244,tianyi,record_id_x,L4,zhengn,record_id_y,L4
+245,245,tianyi,record_id_x,L4,zhengn,record_id_y,L4
+246,246,tianyi,record_id_x,"BF4, D1",zhengn,record_id_y,BF4
+247,247,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+248,248,tianyi,record_id_x,L4,zhengn,record_id_y,L4
+249,249,tianyi,record_id_x,BN1,zhengn,record_id_y,"BN1, CL1"
+250,250,tianyi,record_id_x,"F1, CL1",zhengn,record_id_y,"BK1, CL1"
+251,251,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+252,252,tianyi,record_id_x,"BE5, BF4, A1b, D1",zhengn,record_id_y,"D1, A1b"
+253,253,tianyi,record_id_x,"E1, BL1, A1b, CL1",zhengn,record_id_y,"E1, A1b, CL1"
+254,254,tianyi,record_id_x,"F3, BL3, AN2, E1",zhengn,record_id_y,"F3, BL3, E1, AN2"
+255,255,tianyi,record_id_x,"F3, BL3, AN2, E1",zhengn,record_id_y,"F3, BL3, E1, AN2"
+256,256,tianyi,record_id_x,"F4, BN1",zhengn,record_id_y,"F3, BN1"
+257,257,tianyi,record_id_x,"BE5, BN1",zhengn,record_id_y,"BN1, BE5"
+258,258,tianyi,record_id_x,"E1, A1b, CL1",zhengn,record_id_y,"E1, CL1"
+259,259,tianyi,record_id_x,"BN1, BL2, E1, A1b",zhengn,record_id_y,"E1, CL1, A1b"
+260,260,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+261,261,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+262,262,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+263,263,tianyi,record_id_x,"BL1, CE2, CL1",zhengn,record_id_y,"CL1, CE2"
+264,264,tianyi,record_id_x,BL1,zhengn,record_id_y,BL3
+265,265,tianyi,record_id_x,"O3, BL2, CE2",zhengn,record_id_y,"O3, BL1, CE2"
+266,266,tianyi,record_id_x,"F3, A1b",zhengn,record_id_y,"F3, A1b"
+267,267,tianyi,record_id_x,N3,zhengn,record_id_y,N3
+268,268,tianyi,record_id_x,N3,zhengn,record_id_y,N3
+269,269,tianyi,record_id_x,BL3,zhengn,record_id_y,BL3
+270,270,tianyi,record_id_x,"BF4, CE2",zhengn,record_id_y,"BF4, CE2"
+271,271,tianyi,record_id_x,"BF4, CE2",zhengn,record_id_y,"CF5, CE2"
+272,272,tianyi,record_id_x,"CE2, CL1",zhengn,record_id_y,"CL1, CE2"
+273,273,tianyi,record_id_x,"CE2, CL1",zhengn,record_id_y,"CL1, CE2"
+274,274,tianyi,record_id_x,"BN1, E1, A1b, CL1",zhengn,record_id_y,"E1, CL1"
+275,275,tianyi,record_id_x,"BN1, E1, CL1",zhengn,record_id_y,"BN1, BE5, BL1, CL1"
+276,276,tianyi,record_id_x,"BL1, CE2",zhengn,record_id_y,"K2, BL1, CE2"
+277,277,tianyi,record_id_x,F1,zhengn,record_id_y,A1a
+278,278,tianyi,record_id_x,"BN1, BL1",zhengn,record_id_y,"BN1, BL1"
+279,279,tianyi,record_id_x,BN1,zhengn,record_id_y,BN1
+280,280,tianyi,record_id_x,"BK1, BL1",zhengn,record_id_y,"BK1, BL2, L4"
+281,281,tianyi,record_id_x,"BK1, BL2",zhengn,record_id_y,"L4, BL2, BK1"
+282,282,tianyi,record_id_x,BL2,zhengn,record_id_y,BL3
+283,283,tianyi,record_id_x,"BL2, A1b",zhengn,record_id_y,"BL1, A1b"
+284,284,tianyi,record_id_x,"F3, A1f, AN2",zhengn,record_id_y,"A1f, F3, AN2"
+285,285,tianyi,record_id_x,"F3, BF4",zhengn,record_id_y,"F4, BF4"
+286,286,tianyi,record_id_x,F1,zhengn,record_id_y,"F1, F2"
+287,287,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+288,288,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+289,289,tianyi,record_id_x,"BF4, F4",zhengn,record_id_y,"F4, BF4"
+290,290,tianyi,record_id_x,BL3,zhengn,record_id_y,"BL1, BL3"
+291,291,tianyi,record_id_x,"F4, N3, O2",zhengn,record_id_y,O2
+292,292,tianyi,record_id_x,"F3, BF4, BL1",zhengn,record_id_y,"BE5, BL1, F3"
+293,293,tianyi,record_id_x,"F4, BK1",zhengn,record_id_y,"F4, BK1"
+294,294,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+295,295,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+296,296,tianyi,record_id_x,F1,zhengn,record_id_y,BF4
+297,297,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+298,298,tianyi,record_id_x,"BN1, BL2",zhengn,record_id_y,"L5, BL3, BN1"
+299,299,tianyi,record_id_x,"CE2, CL1",zhengn,record_id_y,"CE2, CL1"
+300,300,tianyi,record_id_x,BN1,zhengn,record_id_y,"BN1, BL1"
+301,301,tianyi,record_id_x,"O3, BL2, CE2",zhengn,record_id_y,"O3, BL1, CE2"
+302,302,tianyi,record_id_x,"L4, CL1",zhengn,record_id_y,CL1
+303,303,tianyi,record_id_x,"F4, D1a, BL2",zhengn,record_id_y,"F4, BL2"
+304,304,tianyi,record_id_x,"L4, AN2, CL1",zhengn,record_id_y,"AN2, CL1"
+305,305,tianyi,record_id_x,"BL3, CE2",zhengn,record_id_y,"BL3, CE2"
+306,306,tianyi,record_id_x,"BF4, BL1, CE2",zhengn,record_id_y,"CF5, BL1, CE2"
+307,307,tianyi,record_id_x,"E1, CL1",zhengn,record_id_y,"BN1, CL1, CE2"
+308,308,tianyi,record_id_x,"E1, CL1",zhengn,record_id_y,"BN1, CL1, CE2"
+309,309,tianyi,record_id_x,BL3,zhengn,record_id_y,BL1
+310,310,tianyi,record_id_x,"BN1, E1, CE2",zhengn,record_id_y,CE2
+311,311,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+312,312,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+313,313,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+314,314,tianyi,record_id_x,"BN1, CE2",zhengn,record_id_y,CE2
+315,315,tianyi,record_id_x,"BK1, BL1, N3, CL1",zhengn,record_id_y,"BK1, CL1, N3"
+316,316,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+317,317,tianyi,record_id_x,BL3,zhengn,record_id_y,BL3
+318,318,tianyi,record_id_x,"BK1, BL1, N3, CL1",zhengn,record_id_y,"E1, CL1, N3"
+319,319,tianyi,record_id_x,"F3, KA1b, K2",zhengn,record_id_y,"F3, KA1b"
+320,320,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+321,321,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+322,322,tianyi,record_id_x,"BN1, BE5, BL1, CL1",zhengn,record_id_y,"BN1, BE5, CL1"
+323,323,tianyi,record_id_x,"CE2, A1b",zhengn,record_id_y,"CE2, A1b"
+324,324,tianyi,record_id_x,D1,zhengn,record_id_y,F3
+325,325,tianyi,record_id_x,F3,zhengn,record_id_y,F3
+326,326,tianyi,record_id_x,"L4, N3",zhengn,record_id_y,"L5, AN2"
+327,327,tianyi,record_id_x,N3,zhengn,record_id_y,AN2
+328,328,tianyi,record_id_x,"D1a, BL1",zhengn,record_id_y,"D1a, BL1"
+329,329,tianyi,record_id_x,"D1a, BL1",zhengn,record_id_y,"D1a, BL1"
+330,330,tianyi,record_id_x,"F4, BL1, CL1",zhengn,record_id_y,"F4, BL1, CL1"
+331,331,tianyi,record_id_x,"F4, BL1, CE2",zhengn,record_id_y,"F4, BL3, BL2, CE2"
+332,332,tianyi,record_id_x,D1c,zhengn,record_id_y,D1
+333,333,tianyi,record_id_x,"BN1, E1",zhengn,record_id_y,"BN1, E1"
+334,334,tianyi,record_id_x,"BN1, E1",zhengn,record_id_y,"BN1, E1"
+335,335,tianyi,record_id_x,"BL3, BN1, E1, CL1",zhengn,record_id_y,"BL3, BN1, CL1, BE5"
+336,336,tianyi,record_id_x,"BN1, E1, CL1",zhengn,record_id_y,"E1, CL1"
+337,337,tianyi,record_id_x,"BE5, BL1, CL1",zhengn,record_id_y,"CE2, CL1"
+338,338,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+339,339,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4
+340,340,tianyi,record_id_x,"BL1, D1",zhengn,record_id_y,"F1, BL1, D1"
+341,341,tianyi,record_id_x,"E1, BL1, D1, N3",zhengn,record_id_y,"F1, E1, BL1, N3, D1"
+342,342,tianyi,record_id_x,E1,zhengn,record_id_y,E1
+343,343,tianyi,record_id_x,"BN1, E1, BL1",zhengn,record_id_y,"L5, BN1, E1, CL1"
+344,344,tianyi,record_id_x,"L4, BL1, AN2, CL1",zhengn,record_id_y,"A1f, AN2, CL1"
+345,345,tianyi,record_id_x,"L4, O2",zhengn,record_id_y,"O2, F4"
+346,346,tianyi,record_id_x,"L4, O2",zhengn,record_id_y,"O2, F4"
+347,347,tianyi,record_id_x,"L4, BF4, O2",zhengn,record_id_y,"O2, F4"
+348,348,tianyi,record_id_x,"BK1, CL1",zhengn,record_id_y,"BK1, CL1"
+349,349,tianyi,record_id_x,"BN1, BE5, BL1",zhengn,record_id_y,"BL3, BN1, BE5, BL1"
+350,350,tianyi,record_id_x,"BN1, BL1",zhengn,record_id_y,"F3, A1f"
+351,351,tianyi,record_id_x,"BN1, BF4",zhengn,record_id_y,"A1f, BL1"
+352,352,tianyi,record_id_x,"BK1, CL1",zhengn,record_id_y,"BK1, CL1"
+353,353,tianyi,record_id_x,"BL1, CE2, A1b, CL1",zhengn,record_id_y,"BL3, BL2, CL1, CE2, A1b"
+354,354,tianyi,record_id_x,"BL1, A1b, CL1",zhengn,record_id_y,"CL1, A1b"
+355,355,tianyi,record_id_x,BL3,zhengn,record_id_y,"L5, BN1, BL1"
+356,356,tianyi,record_id_x,"BL3, E1, D1c, P1",zhengn,record_id_y,"E1, BL1, P1"
+357,357,tianyi,record_id_x,"BF4, P1, CL1",zhengn,record_id_y,"CL1, CF5, P1"
+358,358,tianyi,record_id_x,E1,zhengn,record_id_y,E1
+359,359,tianyi,record_id_x,CL1,zhengn,record_id_y,"L4, D1c, E1"
+360,360,tianyi,record_id_x,BL3,zhengn,record_id_y,BL1
+361,361,tianyi,record_id_x,BE5,zhengn,record_id_y,BE5
+362,362,tianyi,record_id_x,BL1,zhengn,record_id_y,"BL2, K2"
+363,363,tianyi,record_id_x,K2,zhengn,record_id_y,K2
+364,364,tianyi,record_id_x,P3,zhengn,record_id_y,P3
+365,365,tianyi,record_id_x,F4,zhengn,record_id_y,F4
+366,366,tianyi,record_id_x,"CL1, BL2",zhengn,record_id_y,"A1d, BL1"
+367,367,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+368,368,tianyi,record_id_x,"CL1, BL2",zhengn,record_id_y,"A1d, BL1"
+369,369,tianyi,record_id_x,"BK1, BL2, L4, Q1",zhengn,record_id_y,"L5, Q1"
+370,370,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+371,371,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+372,372,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+373,373,tianyi,record_id_x,BL1,zhengn,record_id_y,BL1
+374,374,tianyi,record_id_x,"BL3, BK1",zhengn,record_id_y,BL3
+375,375,tianyi,record_id_x,BL3,zhengn,record_id_y,"BL3, KA1b"
+376,376,tianyi,record_id_x,"A1b, N3, E1",zhengn,record_id_y,"F4, E1, A1b"
+377,377,tianyi,record_id_x,"BK1, E1",zhengn,record_id_y,"BK1, E1"
+378,378,tianyi,record_id_x,"F4, E1, A1b",zhengn,record_id_y,"F3, A1b, E1"
+379,379,tianyi,record_id_x,"CE2, A1b",zhengn,record_id_y,"A1b, E1"
+380,380,tianyi,record_id_x,"BL3, E1, D1c, P1",zhengn,record_id_y,"E1, BL1, P1"
+381,381,tianyi,record_id_x,"BF4, P1",zhengn,record_id_y,"CL1, BF4, P1"
+382,382,tianyi,record_id_x,D1c,zhengn,record_id_y,D1c
+383,383,tianyi,record_id_x,"BL3, D1c",zhengn,record_id_y,"D1c, BL1"
+384,384,tianyi,record_id_x,"D1a, BF4",zhengn,record_id_y,"D1a, BF4"
+385,385,tianyi,record_id_x,"D1a, D1",zhengn,record_id_y,D1
+386,386,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+387,387,tianyi,record_id_x,D1,zhengn,record_id_y,D1
+388,388,tianyi,record_id_x,F3,zhengn,record_id_y,F3
+389,389,tianyi,record_id_x,BL3,zhengn,record_id_y,BL1
+390,390,tianyi,record_id_x,"BN1, E1",zhengn,record_id_y,"BN1, E1"
+391,391,tianyi,record_id_x,"BK1, E1",zhengn,record_id_y,"BK1, E1"
+392,392,tianyi,record_id_x,"BK1, E1",zhengn,record_id_y,"BK1, E1"
+393,393,tianyi,record_id_x,"F4, D1c",zhengn,record_id_y,F4
+394,394,tianyi,record_id_x,D1a,zhengn,record_id_y,D1a
+395,395,tianyi,record_id_x,"D1a, D1",zhengn,record_id_y,D1a
+396,396,tianyi,record_id_x,"D1a, BF4",zhengn,record_id_y,"D1a, BF4"
+397,397,tianyi,record_id_x,BF4,zhengn,record_id_y,BF4

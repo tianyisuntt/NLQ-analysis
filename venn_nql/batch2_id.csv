@@ -1,0 +1,47 @@
+,unique_nlq
+0,What are the names of the different artists from Bangladesh who never received a rating higher than a 7?
+1,Count the number of players who enter hall of fame for each year.
+2,Find the rooms of faculties with rank professor who live in building NEB.
+3,Find the checking balance and saving balance in the Brown’s account.
+4,What are the names and trade names of the medicines which has 'Yes' value in the FDA record?
+5,What are the staff roles of the staff who
+6,What are the id and name of the photos for mountains?
+7,What are the titles and ids for albums containing tracks with unit price greater than 1?
+8,Show last names for all student who are on scholarship.
+9,How many lessons have been cancelled?
+10,What are the names of the states that have 2 to 4 employees living there?
+11,How many lessons taken by customer with first name as Rylan and last name as Goodwin were completed?
+12,What are all the makers and models?
+13,Find the names and number of works of all artists who have at least one English songs.
+14,What are the ids of all songs that are available on mp4 or have a higher resolution than 720?
+15,What is the name and country of origin for each artist who has released a song with a resolution higher than 900?
+16,What are the the lesson ids of all staff taught by Janessa Sawayn whose nickname has the letter s?
+17,Find the average unit price of jazz tracks.
+18,Find the average credit score of the customers who have some loan.
+19,Find the average grade point of student whose last name is Smith.
+20,Find the names of the artists who are from Bangladesh and have never received rating higher than 7.
+21,"Find the number of tied games (the value of ""ties"" is '1') in 1885 postseason."
+22,"Find the name, checking balance and savings balance of all accounts in the bank sorted by their total checking and savings balance in descending order."
+23,"What are the maximum duration and resolution of all songs, for each language, ordered alphabetically by language?"
+24,How many events had participants whose details had the substring 'Dr.'
+25,How many medicines were not approved by the FDA?
+26,"Give me the first name and last name for all the female members of the club ""Bootup Baltimore""."
+27,"What are the first and last name of the president of the club ""Bootup Baltimore""?"
+28,"What is the average, minimum, and maximum age for all French singers?"
+29,How many documents are there of each type?
+30,Find the names of all procedures such that the cost is less than 5000 and physician John Wen was trained in.
+31,"Among the procedures that cost more than 1000, which were not specialized in by physician John Wen?"
+32,What are the names of customers who have not taken a Mortage loan?
+33,What is the names of the physicians who prescribe medication Thesisin?
+34,List the number of different series names and contents in the TV Channel table.
+35,How many staff live in state Georgia?
+36,What are the names of all video games that are collectible cards?
+37,List ids for all student who are on scholarship.
+38,What are the names of all people who do not have friends?
+39,"How many games were played in park ""Columbia Park"" in 1907?"
+40,Compute the total salary that the player with first name Len and last name Barker received between 1985 to 1990.
+41,How many airports are there per city in the US ordered from most to least?
+42,What are the different names and ages of every friend of either Dan or alice?
+43,Show all male student ids who don't play football.
+44,What is the accelerate of the car make amc hornet sportabout (sw)?
+45,How many lessons did the customer Ryan Goodwin complete?
