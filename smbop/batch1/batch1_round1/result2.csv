@@ -1,0 +1,182 @@
+,username,sql_id,code_x,coder_x,code_y,coder_y,code_x,coder_x,code_y,coder_y
+0,zhengzhang,2149,A1a; I2,Zheng Z,A1a; A1; I1,Zheng N,A1a,Toby,A1a,Tianyi
+1,tianyi,2149,A1a; H2,Zheng Z,A1a; H1,Zheng N,A1a;I2,Toby,A1a; H2; l1,Tianyi
+2,zhengning,2149,A1a,Zheng Z,A1a,Zheng N,A1a,Toby,A1a,Tianyi
+3,toby,2149,A1a,Zheng Z,A1a; I1,Zheng N,A1a;I1,Toby,A1a,Tianyi
+4,zhengzhang,532,BL2; CL1,Zheng Z,BL2; CL1,Zheng N,BL1; BL2,Toby,BL2,Tianyi
+5,tianyi,532,I2; CL1; BL1,Zheng Z,CL1; I2,Zheng N,BL1; CL1; I2,Toby,CL1; BL1; I1,Tianyi
+6,zhengning,532,CL1; I2,Zheng Z,I2; CL1,Zheng N,CL1; CM6,Toby,CL1; I1,Tianyi
+7,toby,532,CL1; I2; BL1,Zheng Z,CL1; BL1,Zheng N,CL1; CM6; BL1,Toby,BL1; CL1;I1,Tianyi
+8,zhengzhang,2094,KA1b,Zheng Z,KA1b,Zheng N,I1; KA1b,Toby,KA1b,Tianyi
+9,tianyi,2094,KA1b,Zheng Z,KA1b,Zheng N,I1; KA1b,Toby,KA1b,Tianyi
+10,zhengning,2094,KA1b,Zheng Z,KA1b,Zheng N,I1; KA1b,Toby,KA1b,Tianyi
+11,toby,2094,KA1b,Zheng Z,KA1b,Zheng N,I1; KA1b,Toby,KA1b,Tianyi
+12,zhengzhang,1125,BL1,Zheng Z,BL1,Zheng N,BL1,Toby,BL1,Tianyi
+13,tianyi,1125,BL1,Zheng Z,BL1,Zheng N,BL1,Toby,BL2; BL3,Tianyi
+14,zhengning,1125,BL1,Zheng Z,A1,Zheng N,D1,Toby,BL1,Tianyi
+15,toby,1125,BL2; BL3,Zheng Z,BL1; BL2,Zheng N,I1,Toby,BL2; BL3,Tianyi
+16,zhengzhang,2294,CM4,Zheng Z,CL1,Zheng N,CL1; CM4,Toby,CL1;CM6,Tianyi
+17,tianyi,2294,D1a; CL1,Zheng Z,D1; CL1,Zheng N,CL1; CM4; D1a,Toby,CL1; D1; I1; CM6,Tianyi
+18,zhengning,2294,CL1,Zheng Z,CL1,Zheng N,CM4,Toby,CL1; CM6,Tianyi
+19,toby,2294,CE2,Zheng Z,CL1,Zheng N,CM4; BL1,Toby,CL1; CM6; CE2,Tianyi
+20,zhengzhang,1274,D1b,Zheng Z,D1b,Zheng N,D1b,Toby,D1b,Tianyi
+21,tianyi,1274,D1b,Zheng Z,D1b,Zheng N,D1b,Toby,D1b,Tianyi
+29,zhengning,1274,D1b,Zheng Z,D1b,Zheng N,D1b,Toby,D1b,Tianyi
+30,toby,1274,D1b,Zheng Z,D1b,Zheng N,D1b,Toby,D1b,Tianyi
+31,zhengzhang,251,BL1; BE5,Zheng Z,BL1,Zheng N,BL1,Toby,BL1,Tianyi
+32,tianyi,251,BL1,Zheng Z,BL1,Zheng N,BL1,Toby,I1; BL1,Tianyi
+33,zhengning,251,I1,Zheng Z,I2,Zheng N,I1,Toby,I1,Tianyi
+34,zhengzhang,1978,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
+35,tianyi,1978,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
+36,zhengning,1978,,Zheng Z,,Zheng N,,Toby,,Tianyi
+37,toby,1978,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
+38,zhengzhang,2018,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
+39,tianyi,2018,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
+40,zhengning,2018,,Zheng Z,,Zheng N,,Toby,,Tianyi
+41,toby,2018,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
+42,zhengzhang,1331,D1b,Zheng Z,D1a,Zheng N,D1b,Toby,D1a;D1b,Tianyi
+43,tianyi,1331,D1b,Zheng Z,D1a,Zheng N,D1b,Toby,D1a;D1b,Tianyi
+44,zhengning,1331,D1b,Zheng Z,D1a,Zheng N,D1b,Toby,D1a;D1b,Tianyi
+52,toby,1331,D1b,Zheng Z,D1a,Zheng N,D1b,Toby,D1a; D1b,Tianyi
+53,zhengzhang,1139,BF4,Zheng Z,BF4,Zheng N,BF4,Toby,BF4,Tianyi
+54,tianyi,1139,BF4,Zheng Z,BF4,Zheng N,BF4,Toby,BF4; I1,Tianyi
+55,zhengning,1139,BF4,Zheng Z,BF4,Zheng N,BF4,Toby,BF4,Tianyi
+56,toby,1139,BF4,Zheng Z,BF4,Zheng N,BF4,Toby,BF4,Tianyi
+57,zhengzhang,2179,I2,Zheng Z,I2,Zheng N,I1,Toby,I1;,Tianyi
+58,tianyi,2179,H2; I2,Zheng Z,I2; H1,Zheng N,I1,Toby,I1; H1,Tianyi
+59,zhengning,2179,I1; A1d,Zheng Z,I2; A1,Zheng N,I1,Toby,I1; A1d; DF2;,Tianyi
+60,toby,2179,I1,Zheng Z,I2,Zheng N,I1,Toby,I1; D1; DF2,Tianyi
+61,zhengzhang,2153,A1a; I2,Zheng Z,I2,Zheng N,I1,Toby,I1; A1a,Tianyi
+62,tianyi,2153,I2; H2,Zheng Z,I2,Zheng N,I1;A1a,Toby,I1; H1; A1a,Tianyi
+63,zhengning,2153,A1a,Zheng Z,I1,Zheng N,A1a,Toby,A1a,Tianyi
+64,toby,2153,I2,Zheng Z,I2,Zheng N,I1,Toby,I1,Tianyi
+65,zhengzhang,2168,I2; BL2,Zheng Z,I2; BL2,Zheng N,I1,Toby,I1; BL2,Tianyi
+66,tianyi,2168,I2,Zheng Z,I2,Zheng N,I1;BL1,Toby,I1; BL3,Tianyi
+67,zhengning,2168,I2; I1,Zheng Z,I2,Zheng N,I1;BL1,Toby,I1; I2,Tianyi
+68,toby,2168,BL2; BL1,Zheng Z,BL2; BL1,Zheng N,I1;BL1,Toby,BL2; I1,Tianyi
+69,zhengzhang,2000,BL3; I2,Zheng Z,I2; BL3,Zheng N,I1,Toby,BL3; I2,Tianyi
+70,tianyi,2000,BL3; H2,Zheng Z,BL3; H2,Zheng N,I1;BL1,Toby,BL3; H1; I2,Tianyi
+71,zhengning,2000,BL3; I1,Zheng Z,BL3; I2,Zheng N,I1,Toby,BL3; I1,Tianyi
+72,toby,2000,BL3; I1,Zheng Z,BL3; I2,Zheng N,I1;BL1,Toby,BL3; I1,Tianyi
+73,zhengzhang,1961,CF5,Zheng Z,CL1,Zheng N,CM4,Toby,CE3,Tianyi
+74,tianyi,1961,CF5; I2,Zheng Z,CL1; I2,Zheng N,CM4; I1,Toby,CL1; BE5,Tianyi
+75,zhengning,1961,I1; CF5,Zheng Z,CL1; I2,Zheng N,CM4; I1,Toby,I1,Tianyi
+76,toby,1961,I2; E1,Zheng Z,I2; F3,Zheng N,BL1; I1,Toby,F4;,Tianyi
+77,zhengzhang,1578,CE3; BE5,Zheng Z,F3; CL2; BL1,Zheng N,CE3,Toby,CE3; BE5,Tianyi
+78,tianyi,1578,CE3; CE5,Zheng Z,CL1; BL1,Zheng N,CE3; BL1,Toby,CE3; BE5; I1,Tianyi
+79,zhengning,1578,CE3,Zheng Z,CL1,Zheng N,CE3,Toby,CE3,Tianyi
+80,toby,1578,CE3; CE5,Zheng Z,CL1; BL3,Zheng N,CE3; BL1,Toby,CE3,Tianyi
+81,zhengzhang,1585,BL3,Zheng Z,BL3,Zheng N,BL3,Toby,BL3,Tianyi
+82,tianyi,1585,BL3,Zheng Z,BL3,Zheng N,BL3,Toby,BL3,Tianyi
+83,zhengning,1585,BL3,Zheng Z,BL3,Zheng N,BL3;I1,Toby,BL3,Tianyi
+84,toby,1585,BL3,Zheng Z,BL3,Zheng N,BL3,Toby,BL3,Tianyi
+85,zhengzhang,1671,KA1b,Zheng Z,KA1b,Zheng N,I1;KA1b,Toby,KA1b,Tianyi
+86,tianyi,1671,KA1b,Zheng Z,KA1b,Zheng N,I1;KA1b,Toby,KA1b,Tianyi
+87,zhengning,1671,KA1b,Zheng Z,KA1b,Zheng N,I1;KA1b,Toby,I1; KA1b,Tianyi
+88,toby,1671,KA1b,Zheng Z,KA1b,Zheng N,I1;KA1b,Toby,KA1b,Tianyi
+89,zhengzhang,1704,F1,Zheng Z,F1; D1,Zheng N,F1,Toby,F1,Tianyi
+90,tianyi,1704,F1,Zheng Z,D1,Zheng N,F1,Toby,F1,Tianyi
+91,zhengning,1704,I1; F1,Zheng Z,I2,Zheng N,I1,Toby,I1; F1,Tianyi
+92,toby,1704,F1,Zheng Z,I2; F1,Zheng N,I1,Toby,F1,Tianyi
+93,zhengzhang,2373,CL1; CE3,Zheng Z,CM6,Zheng N,CM4,Toby,CL1,Tianyi
+94,tianyi,2373,CL1; CE3,Zheng Z,CM6,Zheng N,CM4,Toby,CL1;,Tianyi
+95,zhengning,2373,CE3,Zheng Z,CM6,Zheng N,CM4,Toby,CL1;,Tianyi
+96,toby,2373,CL1,Zheng Z,BL1,Zheng N,CM4,Toby,CL1;,Tianyi
+97,zhengzhang,798,BL1,Zheng Z,BL1,Zheng N,BL1,Toby,BL1,Tianyi
+98,tianyi,798,,Zheng Z,,Zheng N,,Toby,BL1; I1; G,Tianyi
+99,zhengning,798,G,Zheng Z,BL1,Zheng N,G,Toby,G; ,Tianyi
+100,toby,798,G; BL1,Zheng Z,G,Zheng N,,Toby,G; BL1,Tianyi
+101,zhengzhang,1131,BF4; D1,Zheng Z,D1; BL1,Zheng N,BL1;D1,Toby,BL2; H2,Tianyi
+102,tianyi,1131,BL1; H1,Zheng Z,BL1; H1,Zheng N,I1;D1,Toby,BL2; BL3; H1; H2,Tianyi
+103,zhengning,1131,BL3; I1,Zheng Z,I2; BL3,Zheng N,I1,Toby,I1; BL3,Tianyi
+104,toby,1131,BL1; I1,Zheng Z,I2; BL3,Zheng N,BL1;I1,Toby,I1; BL3,Tianyi
+105,zhengzhang,2374,CE2; CL1,Zheng Z,CE2; CL1,Zheng N,BE5,Toby,H2; CL1,Tianyi
+106,tianyi,2374,CE2; CL1,Zheng Z,CE2; CL1,Zheng N,BE5,Toby,CE2; CL1,Tianyi
+107,zhengning,2374,CL1; H1,Zheng Z,CE2; CL1,Zheng N,BL1,Toby,CL1; H1,Tianyi
+108,toby,2374,CL1,Zheng Z,CL2,Zheng N,BL1;CL1,Toby,BL1,Tianyi
+109,zhengzhang,1151,BF4,Zheng Z,BF4,Zheng N,BL1; F1,Toby,BF4,Tianyi
+110,tianyi,1151,BF4,Zheng Z,BF4,Zheng N,BL1,Toby,G; BF4,Tianyi
+111,zhengning,1151,I1,Zheng Z,I2,Zheng N,I1,Toby,I1,Tianyi
+112,toby,1151,G; I1; BF4,Zheng Z,I2; G,Zheng N,,Toby,G; BF4; I1,Tianyi
+113,zhengzhang,2051,CE2; BL1,Zheng Z,BL1; BE5,Zheng N,CE3,Toby,CE2; BL1,Tianyi
+114,tianyi,2051,BL1; CE2; CL1,Zheng Z,BL1; BE5,Zheng N,CE3; BL1,Toby,CE2; BL1; CL2,Tianyi
+115,zhengning,2051,BE5,Zheng Z,BE5,Zheng N,BE5,Toby,BF4,Tianyi
+116,toby,2051,BL1,Zheng Z,BE5,Zheng N,BL1,Toby,BL1,Tianyi
+117,zhengzhang,1880,BL1,Zheng Z,BL3,Zheng N,BL1,Toby,BL3,Tianyi
+118,tianyi,1880,BL1; BN1,Zheng Z,BL3,Zheng N,BL3,Toby,BL3; E1; BN1,Tianyi
+119,zhengning,1880,BL3; I1,Zheng Z,BL3; I2,Zheng N,I1,Toby,BL3; I1,Tianyi
+120,toby,1880,I1; F1,Zheng Z,BL3; I2,Zheng N,I1,Toby,I1; F1,Tianyi
+121,zhengzhang,2069,CE3,Zheng Z,CL1; CE3,Zheng N,CE3,Toby,CE3,Tianyi
+122,tianyi,2069,CE3; BE5,Zheng Z,CL1; CE3,Zheng N,CE3; BE5,Toby,CE3; BE5,Tianyi
+123,zhengning,2069,CM6,Zheng Z,CL1,Zheng N,CE3,Toby,CL1; CM6,Tianyi
+124,toby,2069,CE3,Zheng Z,CL1; BE5,Zheng N,BE5,Toby,CE3,Tianyi
+125,zhengzhang,2367,BL1,Zheng Z,CL1; BE5,Zheng N,BE5,Toby,CL1; BL1;,Tianyi
+126,tianyi,2367,I2,Zheng Z,I2,Zheng N,I1;DF2,Toby,BL1; I1; H2,Tianyi
+127,zhengning,2367,A1d,Zheng Z,I2,Zheng N,I1;A1;A1a,Toby,A1d,Tianyi
+128,toby,2367,F3; BL1,Zheng Z,F3,Zheng N,F3,Toby,F3;,Tianyi
+129,zhengzhang,2312,BL1,Zheng Z,BL1,Zheng N,BL1;I1,Toby,A1e,Tianyi
+130,tianyi,2312,H2,Zheng Z,H1,Zheng N,H2,Toby,A1e,Tianyi
+131,zhengning,2312,A1e,Zheng Z,BL1,Zheng N,A1,Toby,A1e,Tianyi
+132,toby,2312,,Zheng Z,,Zheng N,,Toby,,Tianyi
+133,zhengzhang,361,D1b,Zheng Z,D1b,Zheng N,D1b,Toby,D1b,Tianyi
+134,tianyi,361,D1b,Zheng Z,D1b,Zheng N,D1b,Toby,D1b,Tianyi
+135,zhengning,361,D1b,Zheng Z,D1b,Zheng N,D1b,Toby,D1b,Tianyi
+136,toby,361,D1b,Zheng Z,D1b,Zheng N,D1b,Toby,D1b,Tianyi
+137,zhengzhang,2037,L4,Zheng Z,BL1,Zheng N,BL1,Toby,L4,Tianyi
+138,tianyi,2037,H2,Zheng Z,BL1,Zheng N,H2,Toby,H2,Tianyi
+139,zhengning,2037,I1,Zheng Z,I2,Zheng N,I1; A1c,Toby,I1,Tianyi
+140,toby,2037,I1; F2,Zheng Z,BL1; I2,Zheng N,I1; A1c,Toby,I1; F2,Tianyi
+141,zhengzhang,1841,A1b,Zheng Z,A1,Zheng N,I1; A1b,Toby,A1b,Tianyi
+142,tianyi,1841,A1b,Zheng Z,H1,Zheng N,H2; A1b,Toby,A1b,Tianyi
+143,zhengning,1841,A1b,Zheng Z,A1,Zheng N,A1b,Toby,A1b,Tianyi
+144,toby,1841,A1b,Zheng Z,A1,Zheng N,,Toby,A1b,Tianyi
+145,zhengzhang,2078,CE2,Zheng Z,BL3,Zheng N,CE3,Toby,CE2,Tianyi
+153,tianyi,2078,F4; CM6,Zheng Z,BL3; F4,Zheng N,CE3; F3; F4,Toby,CM6; CE2; F3,Tianyi
+154,zhengning,2078,BF4,Zheng Z,BL3,Zheng N,BE5; D1a,Toby,BL1,Tianyi
+155,toby,2078,CM4,Zheng Z,BL3,Zheng N,CE2,Toby,CM4,Tianyi
+156,zhengzhang,2151,KA1b,Zheng Z,KA1b,Zheng N,KA1b,Toby,KA1b,Tianyi
+157,tianyi,2151,KA1b,Zheng Z,KA1b,Zheng N,KA1b,Toby,KA1b; CE2,Tianyi
+158,zhengning,2151,KA1b,Zheng Z,KA1b,Zheng N,KA1b,Toby,KA1b,Tianyi
+159,toby,2151,KA1b,Zheng Z,KA1b,Zheng N,KA1b,Toby,KA1b,Tianyi
+160,zhengzhang,2025,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
+161,tianyi,2025,A1b; D1a; BF4,Zheng Z,D1a,Zheng N,A1b; H2; CM4; CL1; D1a,Toby,A1b; D1a; E1,Tianyi
+162,zhengning,2025,A1b; D1a,Zheng Z,D1a,Zheng N,A1b;D1a,Toby,D1a; A1b,Tianyi
+163,toby,2025,H2; D1a,Zheng Z,D1a,Zheng N,F3,Toby,DF2; D1a,Tianyi
+164,zhengzhang,2070,CE3,Zheng Z,CE3,Zheng N,BE5,Toby,CE3,Tianyi
+165,tianyi,2070,E1; F4,Zheng Z,CE3,Zheng N,BE5,Toby,G; CE2; CE3; E1,Tianyi
+166,zhengning,2070,CE3,Zheng Z,CE3,Zheng N,CE3,Toby,CE3,Tianyi
+167,toby,2070,CE3; BE5,Zheng Z,CE3,Zheng N,BE5; CE3,Toby,BE5; CE3,Tianyi
+168,zhengzhang,1804,D1c,Zheng Z,D1c,Zheng N,D1c,Toby,D1,Tianyi
+169,tianyi,1804,D1c,Zheng Z,D1c,Zheng N,D1c,Toby,D1,Tianyi
+170,zhengning,1804,D1c,Zheng Z,D1c,Zheng N,D1c,Toby,D1,Tianyi
+171,toby,1804,D1c,Zheng Z,D1c,Zheng N,D1c,Toby,D1,Tianyi
+172,zhengzhang,1747,BL1,Zheng Z,BL1,Zheng N,BL1,Toby,BL1; CL1,Tianyi
+173,tianyi,1747,BL1,Zheng Z,BL1; BE5,Zheng N,BL1;CL1,Toby,BL1; CL1,Tianyi
+174,zhengning,1747,BE5,Zheng Z,BL1; BE5,Zheng N,BL2; F3,Toby,BE5,Tianyi
+175,toby,1747,BL1,Zheng Z,BL1,Zheng N,BL1,Toby,CL1,Tianyi
+176,zhengzhang,1673,BL2,Zheng Z,BL2,Zheng N,BL1; BL2,Toby,BL1,Tianyi
+177,tianyi,1673,BL2; CM6,Zheng Z,BL2; CL1,Zheng N,BL2; BE5,Toby,BL1,Tianyi
+178,zhengning,1673,CM6; BL1,Zheng Z,CL1,Zheng N,BL1; CE3,Toby,BL1; CL1,Tianyi
+179,toby,1673,BL2,Zheng Z,BL2,Zheng N,,Toby,BL1,Tianyi
+180,zhengzhang,2310,CM6,Zheng Z,CL1,Zheng N,CL1,Toby,CL1; CM6,Tianyi
+181,tianyi,2310,CM6,Zheng Z,CL1; BL2,Zheng N,CL1; I1,Toby,CL1; CM6,Tianyi
+182,zhengning,2310,CM6,Zheng Z,CL1,Zheng N,CL1,Toby,CL1; CM6,Tianyi
+183,toby,2310,CM6,Zheng Z,CL1,Zheng N,CL1,Toby,CL1; CM6,Tianyi
+184,zhengzhang,2061,CE2,Zheng Z,CE2,Zheng N,CE2,Toby,CE2,Tianyi
+185,tianyi,2061,A1b; CE2,Zheng Z,CE2,Zheng N,A1b,Toby,CE2; A1b,Tianyi
+186,zhengning,2061,CE2; A1b,Zheng Z,CE2; A1,Zheng N,CE2,Toby,CE2; A1b,Tianyi
+187,toby,2061,CE2,Zheng Z,CE2,Zheng N,CE2,Toby,CE2,Tianyi
+188,zhengzhang,478,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
+189,tianyi,478,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
+190,zhengning,478,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
+191,toby,478,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
+192,zhengzhang,1189,E1,Zheng Z,E1,Zheng N,E1,Toby,E1,Tianyi
+193,tianyi,1189,H2,Zheng Z,E1,Zheng N,E1,Toby,H2,Tianyi
+194,zhengning,1189,BE5,Zheng Z,E1,Zheng N,CL1; D1a,Toby,BE5,Tianyi
+195,toby,1189,E1,Zheng Z,E1,Zheng N,E1; H2,Toby,E1,Tianyi
+196,zhengzhang,1563,BF4,Zheng Z,BF4,Zheng N,BF4,Toby,BF4,Tianyi
+197,tianyi,1563,BF4; CF5,Zheng Z,BF4; CF5,Zheng N,BF4; CF5,Toby,BF4; CF4,Tianyi
+198,toby,1563,BF4; CF5,Zheng Z,BF4; CF5,Zheng N,BF4; CF5,Toby,BF4; CF4,Tianyi
+199,zhengzhang,531,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
+200,tianyi,531,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
+201,toby,531,D1a,Zheng Z,D1a,Zheng N,D1a,Toby,D1a,Tianyi
